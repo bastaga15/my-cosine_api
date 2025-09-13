@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+openai>=1.88
+numpy
+requests
+pydantic
+python-dotenv
