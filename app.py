@@ -10,7 +10,7 @@ from pydantic import BaseModel
 from openai import OpenAI
 
 # ---------------- Config ----------------
-BASE_DIR = Path(_file_).resolve().parent
+BASE_DIR = Path(__file__).resolve().parent
 FAMILIES_DIR = BASE_DIR / "familles"
 LABEL_META_FILE = FAMILIES_DIR / "file_labels_meta.json"
 
