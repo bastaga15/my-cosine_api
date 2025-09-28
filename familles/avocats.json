@@ -1,0 +1,254 @@
+[
+  {
+    "id": "avocats_aaavvvooocccaaatttsss_types_de_cabinets_davocats_2_5_ans",
+    "famille": "Avocats",
+    "sous_categorie": "AAAvvvooocccaaatttsss",
+    "poste": "TYPES DE CABINETS D’AVOCATS",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "3-5 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "avocats_pond_reg"
+    ],
+    "text": "Famille: Avocats | Sous-catégorie: AAAvvvooocccaaatttsss | Poste: TYPES DE CABINETS D’AVOCATS | Ancienneté: 2-5 ans | Salaire: 3-5 ans"
+  },
+  {
+    "id": "avocats_aaavvvooocccaaatttsss_types_de_cabinets_davocats_5_10_ans",
+    "famille": "Avocats",
+    "sous_categorie": "AAAvvvooocccaaatttsss",
+    "poste": "TYPES DE CABINETS D’AVOCATS",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "6-8 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "avocats_pond_reg"
+    ],
+    "text": "Famille: Avocats | Sous-catégorie: AAAvvvooocccaaatttsss | Poste: TYPES DE CABINETS D’AVOCATS | Ancienneté: 5-10 ans | Salaire: 6-8 ans"
+  },
+  {
+    "id": "avocats_aaavvvooocccaaatttsss_cabinets_americains_10_15_ans_et",
+    "famille": "Avocats",
+    "sous_categorie": "AAAvvvooocccaaatttsss",
+    "poste": "Cabinets américains",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "220 - 450",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "avocats_pond_reg"
+    ],
+    "text": "Famille: Avocats | Sous-catégorie: AAAvvvooocccaaatttsss | Poste: Cabinets américains | Ancienneté: 10-15 ans et + | Salaire: 220 - 450"
+  },
+  {
+    "id": "avocats_aaavvvooocccaaatttsss_cabinets_anglo_saxons_0_2_ans",
+    "famille": "Avocats",
+    "sous_categorie": "AAAvvvooocccaaatttsss",
+    "poste": "Cabinets anglo-saxons",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "85 - 95",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "avocats_pond_reg"
+    ],
+    "text": "Famille: Avocats | Sous-catégorie: AAAvvvooocccaaatttsss | Poste: Cabinets anglo-saxons | Ancienneté: 0-2 ans | Salaire: 85 - 95"
+  },
+  {
+    "id": "avocats_aaavvvooocccaaatttsss_cabinets_anglo_saxons_2_5_ans",
+    "famille": "Avocats",
+    "sous_categorie": "AAAvvvooocccaaatttsss",
+    "poste": "Cabinets anglo-saxons",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "95 - 150",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "avocats_pond_reg"
+    ],
+    "text": "Famille: Avocats | Sous-catégorie: AAAvvvooocccaaatttsss | Poste: Cabinets anglo-saxons | Ancienneté: 2-5 ans | Salaire: 95 - 150"
+  },
+  {
+    "id": "avocats_aaavvvooocccaaatttsss_cabinets_anglo_saxons_10_15_ans_et",
+    "famille": "Avocats",
+    "sous_categorie": "AAAvvvooocccaaatttsss",
+    "poste": "Cabinets anglo-saxons",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "200 - 350",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "avocats_pond_reg"
+    ],
+    "text": "Famille: Avocats | Sous-catégorie: AAAvvvooocccaaatttsss | Poste: Cabinets anglo-saxons | Ancienneté: 10-15 ans et + | Salaire: 200 - 350"
+  },
+  {
+    "id": "avocats_aaavvvooocccaaatttsss_cabinets_francais_a_dimension_5_10_ans",
+    "famille": "Avocats",
+    "sous_categorie": "AAAvvvooocccaaatttsss",
+    "poste": "Cabinets français à dimension",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "145 -",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "avocats_pond_reg"
+    ],
+    "text": "Famille: Avocats | Sous-catégorie: AAAvvvooocccaaatttsss | Poste: Cabinets français à dimension | Ancienneté: 5-10 ans | Salaire: 145 -"
+  },
+  {
+    "id": "avocats_aaavvvooocccaaatttsss_internationale_5_10_ans",
+    "famille": "Avocats",
+    "sous_categorie": "AAAvvvooocccaaatttsss",
+    "poste": "internationale",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "190",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "avocats_pond_reg"
+    ],
+    "text": "Famille: Avocats | Sous-catégorie: AAAvvvooocccaaatttsss | Poste: internationale | Ancienneté: 5-10 ans | Salaire: 190"
+  },
+  {
+    "id": "avocats_aaavvvooocccaaatttsss_cabinets_francais_a_paris_0_2_ans",
+    "famille": "Avocats",
+    "sous_categorie": "AAAvvvooocccaaatttsss",
+    "poste": "Cabinets français à Paris",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "70 - 85",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "avocats_pond_reg"
+    ],
+    "text": "Famille: Avocats | Sous-catégorie: AAAvvvooocccaaatttsss | Poste: Cabinets français à Paris | Ancienneté: 0-2 ans | Salaire: 70 - 85"
+  },
+  {
+    "id": "avocats_aaavvvooocccaaatttsss_cabinets_francais_a_paris_2_5_ans",
+    "famille": "Avocats",
+    "sous_categorie": "AAAvvvooocccaaatttsss",
+    "poste": "Cabinets français à Paris",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "85 - 120",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "avocats_pond_reg"
+    ],
+    "text": "Famille: Avocats | Sous-catégorie: AAAvvvooocccaaatttsss | Poste: Cabinets français à Paris | Ancienneté: 2-5 ans | Salaire: 85 - 120"
+  },
+  {
+    "id": "avocats_aaavvvooocccaaatttsss_cabinets_francais_a_paris_10_15_ans_et",
+    "famille": "Avocats",
+    "sous_categorie": "AAAvvvooocccaaatttsss",
+    "poste": "Cabinets français à Paris",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "140 - 250",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "avocats_pond_reg"
+    ],
+    "text": "Famille: Avocats | Sous-catégorie: AAAvvvooocccaaatttsss | Poste: Cabinets français à Paris | Ancienneté: 10-15 ans et + | Salaire: 140 - 250"
+  },
+  {
+    "id": "avocats_aaavvvooocccaaatttsss_cabinets_big_0_2_ans",
+    "famille": "Avocats",
+    "sous_categorie": "AAAvvvooocccaaatttsss",
+    "poste": "Cabinets \"Big\"",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "75 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "avocats_pond_reg"
+    ],
+    "text": "Famille: Avocats | Sous-catégorie: AAAvvvooocccaaatttsss | Poste: Cabinets \"Big\" | Ancienneté: 0-2 ans | Salaire: 75 - 90"
+  },
+  {
+    "id": "avocats_aaavvvooocccaaatttsss_cabinets_big_2_5_ans",
+    "famille": "Avocats",
+    "sous_categorie": "AAAvvvooocccaaatttsss",
+    "poste": "Cabinets \"Big\"",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "90 - 110",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "avocats_pond_reg"
+    ],
+    "text": "Famille: Avocats | Sous-catégorie: AAAvvvooocccaaatttsss | Poste: Cabinets \"Big\" | Ancienneté: 2-5 ans | Salaire: 90 - 110"
+  },
+  {
+    "id": "avocats_aaavvvooocccaaatttsss_cabinets_big_10_15_ans_et",
+    "famille": "Avocats",
+    "sous_categorie": "AAAvvvooocccaaatttsss",
+    "poste": "Cabinets \"Big\"",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "150 - 250",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "avocats_pond_reg"
+    ],
+    "text": "Famille: Avocats | Sous-catégorie: AAAvvvooocccaaatttsss | Poste: Cabinets \"Big\" | Ancienneté: 10-15 ans et + | Salaire: 150 - 250"
+  },
+  {
+    "id": "avocats_aaavvvooocccaaatttsss_cabinets_francais_en_regions_0_2_ans",
+    "famille": "Avocats",
+    "sous_categorie": "AAAvvvooocccaaatttsss",
+    "poste": "Cabinets francais en régions",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "40 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "avocats_pond_reg"
+    ],
+    "text": "Famille: Avocats | Sous-catégorie: AAAvvvooocccaaatttsss | Poste: Cabinets francais en régions | Ancienneté: 0-2 ans | Salaire: 40 - 55"
+  },
+  {
+    "id": "avocats_aaavvvooocccaaatttsss_cabinets_francais_en_regions_2_5_ans",
+    "famille": "Avocats",
+    "sous_categorie": "AAAvvvooocccaaatttsss",
+    "poste": "Cabinets francais en régions",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "55 - 75",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "avocats_pond_reg"
+    ],
+    "text": "Famille: Avocats | Sous-catégorie: AAAvvvooocccaaatttsss | Poste: Cabinets francais en régions | Ancienneté: 2-5 ans | Salaire: 55 - 75"
+  },
+  {
+    "id": "avocats_aaavvvooocccaaatttsss_cabinets_francais_en_regions_5_10_ans",
+    "famille": "Avocats",
+    "sous_categorie": "AAAvvvooocccaaatttsss",
+    "poste": "Cabinets francais en régions",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "75 - 95",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "avocats_pond_reg"
+    ],
+    "text": "Famille: Avocats | Sous-catégorie: AAAvvvooocccaaatttsss | Poste: Cabinets francais en régions | Ancienneté: 5-10 ans | Salaire: 75 - 95"
+  },
+  {
+    "id": "avocats_aaavvvooocccaaatttsss_cabinets_francais_en_regions_10_15_ans_et",
+    "famille": "Avocats",
+    "sous_categorie": "AAAvvvooocccaaatttsss",
+    "poste": "Cabinets francais en régions",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "95 - 120",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "avocats_pond_reg"
+    ],
+    "text": "Famille: Avocats | Sous-catégorie: AAAvvvooocccaaatttsss | Poste: Cabinets francais en régions | Ancienneté: 10-15 ans et + | Salaire: 95 - 120"
+  }
+]
