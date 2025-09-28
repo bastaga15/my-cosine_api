@@ -1,0 +1,3530 @@
+[
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_hotellerie_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "HÔTELLERIE",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "0-2 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: HÔTELLERIE | Ancienneté: 0-2 ans | Salaire: 0-2 ans"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_hotellerie_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "HÔTELLERIE",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "2-5 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: HÔTELLERIE | Ancienneté: 2-5 ans | Salaire: 2-5 ans"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_hotellerie_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "HÔTELLERIE",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "5-10 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: HÔTELLERIE | Ancienneté: 5-10 ans | Salaire: 5-10 ans"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_hotellerie_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "HÔTELLERIE",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "10-15 ans et +",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: HÔTELLERIE | Ancienneté: 10-15 ans et + | Salaire: 10-15 ans et +"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_agent_de_reservation_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Agent de réservation",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "24 - 25",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Agent de réservation | Ancienneté: 0-2 ans | Salaire: 24 - 25"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_agent_de_reservation_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Agent de réservation",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "25 - 27",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Agent de réservation | Ancienneté: 2-5 ans | Salaire: 25 - 27"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_agent_de_reservation_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Agent de réservation",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "27 - 30",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Agent de réservation | Ancienneté: 5-10 ans | Salaire: 27 - 30"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_agent_de_reservation_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Agent de réservation",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 30",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Agent de réservation | Ancienneté: 10-15 ans et + | Salaire: > 30"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_responsable_de_reservation_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable de réservation",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "40 - 43",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Responsable de réservation | Ancienneté: 0-2 ans | Salaire: 40 - 43"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_responsable_de_reservation_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable de réservation",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "43 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Responsable de réservation | Ancienneté: 2-5 ans | Salaire: 43 - 45"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_responsable_de_reservation_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable de réservation",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "45 - 48",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Responsable de réservation | Ancienneté: 5-10 ans | Salaire: 45 - 48"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_responsable_de_reservation_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable de réservation",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 48",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Responsable de réservation | Ancienneté: 10-15 ans et + | Salaire: > 48"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_receptionniste_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Réceptionniste",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "26 - 27",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Réceptionniste | Ancienneté: 0-2 ans | Salaire: 26 - 27"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_receptionniste_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Réceptionniste",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "28 - 29",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Réceptionniste | Ancienneté: 2-5 ans | Salaire: 28 - 29"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_receptionniste_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Réceptionniste",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "29 - 30",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Réceptionniste | Ancienneté: 5-10 ans | Salaire: 29 - 30"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_receptionniste_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Réceptionniste",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 30",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Réceptionniste | Ancienneté: 10-15 ans et + | Salaire: > 30"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_night_audit_receptionniste_de_nuit_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Night audit/Réceptionniste de nuit",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "25 - 26",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Night audit/Réceptionniste de nuit | Ancienneté: 0-2 ans | Salaire: 25 - 26"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_night_audit_receptionniste_de_nuit_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Night audit/Réceptionniste de nuit",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "26 - 28",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Night audit/Réceptionniste de nuit | Ancienneté: 2-5 ans | Salaire: 26 - 28"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_night_audit_receptionniste_de_nuit_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Night audit/Réceptionniste de nuit",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "28 - 29",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Night audit/Réceptionniste de nuit | Ancienneté: 5-10 ans | Salaire: 28 - 29"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_night_audit_receptionniste_de_nuit_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Night audit/Réceptionniste de nuit",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 30",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Night audit/Réceptionniste de nuit | Ancienneté: 10-15 ans et + | Salaire: > 30"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_chef_de_reception_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chef de réception",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "32 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Chef de réception | Ancienneté: 0-2 ans | Salaire: 32 - 35"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_chef_de_reception_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chef de réception",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "35 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Chef de réception | Ancienneté: 2-5 ans | Salaire: 35 - 38"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_chef_de_reception_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chef de réception",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "38 - 42",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Chef de réception | Ancienneté: 5-10 ans | Salaire: 38 - 42"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_chef_de_reception_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chef de réception",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 42",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Chef de réception | Ancienneté: 10-15 ans et + | Salaire: > 42"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_concierge_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Concierge",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "25 - 27",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Concierge | Ancienneté: 0-2 ans | Salaire: 25 - 27"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_concierge_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Concierge",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "27 - 32",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Concierge | Ancienneté: 2-5 ans | Salaire: 27 - 32"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_concierge_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Concierge",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "32 - 36",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Concierge | Ancienneté: 5-10 ans | Salaire: 32 - 36"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_concierge_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Concierge",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 36",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Concierge | Ancienneté: 10-15 ans et + | Salaire: > 36"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_responsable_de_conciergerie_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable de conciergerie",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "40 - 43",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Responsable de conciergerie | Ancienneté: 0-2 ans | Salaire: 40 - 43"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_responsable_de_conciergerie_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable de conciergerie",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "43 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Responsable de conciergerie | Ancienneté: 2-5 ans | Salaire: 43 - 45"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_responsable_de_conciergerie_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable de conciergerie",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "45 - 48",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Responsable de conciergerie | Ancienneté: 5-10 ans | Salaire: 45 - 48"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_responsable_de_conciergerie_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable de conciergerie",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 48",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Responsable de conciergerie | Ancienneté: 10-15 ans et + | Salaire: > 48"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_gouvernant_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gouvernant",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "28 - 30",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Gouvernant | Ancienneté: 0-2 ans | Salaire: 28 - 30"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_gouvernant_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gouvernant",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "30 - 32",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Gouvernant | Ancienneté: 2-5 ans | Salaire: 30 - 32"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_gouvernant_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gouvernant",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "32 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Gouvernant | Ancienneté: 5-10 ans | Salaire: 32 - 35"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_gouvernant_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gouvernant",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Gouvernant | Ancienneté: 10-15 ans et + | Salaire: > 35"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_gouvernant_general_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gouvernant général",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "35 - 37",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Gouvernant général | Ancienneté: 0-2 ans | Salaire: 35 - 37"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_gouvernant_general_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gouvernant général",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "37 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Gouvernant général | Ancienneté: 2-5 ans | Salaire: 37 - 40"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_gouvernant_general_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gouvernant général",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Gouvernant général | Ancienneté: 5-10 ans | Salaire: 40 - 45"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_gouvernant_general_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gouvernant général",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Gouvernant général | Ancienneté: 10-15 ans et + | Salaire: > 45"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_responsable_des_seminaires_et_banquets_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable des séminaires et banquets",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "38 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Responsable des séminaires et banquets | Ancienneté: 0-2 ans | Salaire: 38 - 40"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_responsable_des_seminaires_et_banquets_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable des séminaires et banquets",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Responsable des séminaires et banquets | Ancienneté: 2-5 ans | Salaire: 40 - 45"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_responsable_des_seminaires_et_banquets_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable des séminaires et banquets",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Responsable des séminaires et banquets | Ancienneté: 5-10 ans | Salaire: 45 - 50"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_responsable_des_seminaires_et_banquets_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable des séminaires et banquets",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Responsable des séminaires et banquets | Ancienneté: 10-15 ans et + | Salaire: > 50"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_commercial_account_manager_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Commercial/Account manager",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "33 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Commercial/Account manager | Ancienneté: 0-2 ans | Salaire: 33 - 35"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_commercial_account_manager_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Commercial/Account manager",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "35 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Commercial/Account manager | Ancienneté: 2-5 ans | Salaire: 35 - 38"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_commercial_account_manager_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Commercial/Account manager",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "38 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Commercial/Account manager | Ancienneté: 5-10 ans | Salaire: 38 - 40"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_commercial_account_manager_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Commercial/Account manager",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Commercial/Account manager | Ancienneté: 10-15 ans et + | Salaire: > 40"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_responsable_des_ventes_grands_comptes_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable des ventes/grands comptes",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "40 - 43",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Responsable des ventes/grands comptes | Ancienneté: 0-2 ans | Salaire: 40 - 43"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_responsable_des_ventes_grands_comptes_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable des ventes/grands comptes",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "43 - 48",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Responsable des ventes/grands comptes | Ancienneté: 2-5 ans | Salaire: 43 - 48"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_responsable_des_ventes_grands_comptes_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable des ventes/grands comptes",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "48 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Responsable des ventes/grands comptes | Ancienneté: 5-10 ans | Salaire: 48 - 50"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_responsable_des_ventes_grands_comptes_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable des ventes/grands comptes",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Responsable des ventes/grands comptes | Ancienneté: 10-15 ans et + | Salaire: > 50"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_yield_revenue_manager_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Yield/Revenue manager",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "36 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Yield/Revenue manager | Ancienneté: 0-2 ans | Salaire: 36 - 40"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_yield_revenue_manager_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Yield/Revenue manager",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Yield/Revenue manager | Ancienneté: 2-5 ans | Salaire: 40 - 45"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_yield_revenue_manager_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Yield/Revenue manager",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "45 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Yield/Revenue manager | Ancienneté: 5-10 ans | Salaire: 45 - 60"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_yield_revenue_manager_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Yield/Revenue manager",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Yield/Revenue manager | Ancienneté: 10-15 ans et + | Salaire: > 60"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_commercial_et_marketing_ventes_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur commercial & marketing/ventes",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "48 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur commercial & marketing/ventes | Ancienneté: 0-2 ans | Salaire: 48 - 50"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_commercial_et_marketing_ventes_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur commercial & marketing/ventes",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "50 - 52",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur commercial & marketing/ventes | Ancienneté: 2-5 ans | Salaire: 50 - 52"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_commercial_et_marketing_ventes_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur commercial & marketing/ventes",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "52 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur commercial & marketing/ventes | Ancienneté: 5-10 ans | Salaire: 52 - 55"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_commercial_et_marketing_ventes_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur commercial & marketing/ventes",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur commercial & marketing/ventes | Ancienneté: 10-15 ans et + | Salaire: > 55"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_de_lhebergement_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur de l’hébergement",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "40 - 42",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur de l’hébergement | Ancienneté: 0-2 ans | Salaire: 40 - 42"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_de_lhebergement_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur de l’hébergement",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "42 - 46",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur de l’hébergement | Ancienneté: 2-5 ans | Salaire: 42 - 46"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_de_lhebergement_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur de l’hébergement",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "46 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur de l’hébergement | Ancienneté: 5-10 ans | Salaire: 46 - 50"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_de_lhebergement_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur de l’hébergement",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur de l’hébergement | Ancienneté: 10-15 ans et + | Salaire: > 50"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_de_la_restauration_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur de la restauration",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "45 - 48",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur de la restauration | Ancienneté: 0-2 ans | Salaire: 45 - 48"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_de_la_restauration_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur de la restauration",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "48 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur de la restauration | Ancienneté: 2-5 ans | Salaire: 48 - 50"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_de_la_restauration_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur de la restauration",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "50 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur de la restauration | Ancienneté: 5-10 ans | Salaire: 50 - 55"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_de_la_restauration_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur de la restauration",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur de la restauration | Ancienneté: 10-15 ans et + | Salaire: > 55"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_des_conferences_et_evenements_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur des conférences et événements",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "42 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur des conférences et événements | Ancienneté: 0-2 ans | Salaire: 42 - 45"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_des_conferences_et_evenements_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur des conférences et événements",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "45 - 48",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur des conférences et événements | Ancienneté: 2-5 ans | Salaire: 45 - 48"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_des_conferences_et_evenements_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur des conférences et événements",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "48 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur des conférences et événements | Ancienneté: 5-10 ans | Salaire: 48 - 50"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_des_conferences_et_evenements_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur des conférences et événements",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur des conférences et événements | Ancienneté: 10-15 ans et + | Salaire: > 50"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_dhotel_directeur_dexploitations_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur d’hôtel - Directeur d’exploitations",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "39 - 42",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur d’hôtel - Directeur d’exploitations | Ancienneté: 0-2 ans | Salaire: 39 - 42"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_dhotel_directeur_dexploitations_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur d’hôtel - Directeur d’exploitations",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "42 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur d’hôtel - Directeur d’exploitations | Ancienneté: 2-5 ans | Salaire: 42 - 45"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_dhotel_directeur_dexploitations_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur d’hôtel - Directeur d’exploitations",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "45 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur d’hôtel - Directeur d’exploitations | Ancienneté: 5-10 ans | Salaire: 45 - 55"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_dhotel_directeur_dexploitations_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur d’hôtel - Directeur d’exploitations",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur d’hôtel - Directeur d’exploitations | Ancienneté: 10-15 ans et + | Salaire: > 55"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_regional_des_operations_dexploitations_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur régional des opérations/d’exploitations",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "50 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur régional des opérations/d’exploitations | Ancienneté: 0-2 ans | Salaire: 50 - 55"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_regional_des_operations_dexploitations_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur régional des opérations/d’exploitations",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "55 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur régional des opérations/d’exploitations | Ancienneté: 2-5 ans | Salaire: 55 - 60"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_regional_des_operations_dexploitations_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur régional des opérations/d’exploitations",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "60 - 65",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur régional des opérations/d’exploitations | Ancienneté: 5-10 ans | Salaire: 60 - 65"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_regional_des_operations_dexploitations_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur régional des opérations/d’exploitations",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 65",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur régional des opérations/d’exploitations | Ancienneté: 10-15 ans et + | Salaire: > 65"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_de_residence_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur de résidence",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "37 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur de résidence | Ancienneté: 0-2 ans | Salaire: 37 - 40"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_de_residence_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur de résidence",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur de résidence | Ancienneté: 2-5 ans | Salaire: 40 - 45"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_de_residence_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur de résidence",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur de résidence | Ancienneté: 5-10 ans | Salaire: 45 - 50"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_de_residence_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur de résidence",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur de résidence | Ancienneté: 10-15 ans et + | Salaire: > 50"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_de_village_vacances_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur de village vacances",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "37 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur de village vacances | Ancienneté: 0-2 ans | Salaire: 37 - 40"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_de_village_vacances_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur de village vacances",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur de village vacances | Ancienneté: 2-5 ans | Salaire: 40 - 45"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_de_village_vacances_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur de village vacances",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur de village vacances | Ancienneté: 5-10 ans | Salaire: 45 - 50"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_directeur_de_village_vacances_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur de village vacances",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Directeur de village vacances | Ancienneté: 10-15 ans et + | Salaire: > 50"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_restauration_commerciale_restauration_rapide_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "RESTAURATION COMMERCIALE/RESTAURATION RAPIDE",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "0-2 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: RESTAURATION COMMERCIALE/RESTAURATION RAPIDE | Ancienneté: 0-2 ans | Salaire: 0-2 ans"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_restauration_commerciale_restauration_rapide_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "RESTAURATION COMMERCIALE/RESTAURATION RAPIDE",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "2-5 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: RESTAURATION COMMERCIALE/RESTAURATION RAPIDE | Ancienneté: 2-5 ans | Salaire: 2-5 ans"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_restauration_commerciale_restauration_rapide_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "RESTAURATION COMMERCIALE/RESTAURATION RAPIDE",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "5-10 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: RESTAURATION COMMERCIALE/RESTAURATION RAPIDE | Ancienneté: 5-10 ans | Salaire: 5-10 ans"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_restauration_commerciale_restauration_rapide_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "RESTAURATION COMMERCIALE/RESTAURATION RAPIDE",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "10-15 ans et +",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: RESTAURATION COMMERCIALE/RESTAURATION RAPIDE | Ancienneté: 10-15 ans et + | Salaire: 10-15 ans et +"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_assistant_manager_de_restauration_rapide_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Assistant manager de restauration rapide",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "26 - 28",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Assistant manager de restauration rapide | Ancienneté: 0-2 ans | Salaire: 26 - 28"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_assistant_manager_de_restauration_rapide_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Assistant manager de restauration rapide",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "28 - 30",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Assistant manager de restauration rapide | Ancienneté: 2-5 ans | Salaire: 28 - 30"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_assistant_manager_de_restauration_rapide_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Assistant manager de restauration rapide",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "30 - 32",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Assistant manager de restauration rapide | Ancienneté: 5-10 ans | Salaire: 30 - 32"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_assistant_manager_de_restauration_rapide_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Assistant manager de restauration rapide",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 32",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Assistant manager de restauration rapide | Ancienneté: 10-15 ans et + | Salaire: > 32"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_manager_de_restauration_rapide_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Manager de restauration rapide",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "29 - 31",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Manager de restauration rapide | Ancienneté: 0-2 ans | Salaire: 29 - 31"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_manager_de_restauration_rapide_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Manager de restauration rapide",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "31 - 33",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Manager de restauration rapide | Ancienneté: 2-5 ans | Salaire: 31 - 33"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_manager_de_restauration_rapide_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Manager de restauration rapide",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "33 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Manager de restauration rapide | Ancienneté: 5-10 ans | Salaire: 33 - 35"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_manager_de_restauration_rapide_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Manager de restauration rapide",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Manager de restauration rapide | Ancienneté: 10-15 ans et + | Salaire: > 35"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_chef_de_projet_traiteur_conferences_et_evenements_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chef de projet - Traiteur conférences et événements",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "33 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Chef de projet - Traiteur conférences et événements | Ancienneté: 0-2 ans | Salaire: 33 - 35"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_chef_de_projet_traiteur_conferences_et_evenements_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chef de projet - Traiteur conférences et événements",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "35 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Chef de projet - Traiteur conférences et événements | Ancienneté: 2-5 ans | Salaire: 35 - 40"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_chef_de_projet_traiteur_conferences_et_evenements_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chef de projet - Traiteur conférences et événements",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "40 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Chef de projet - Traiteur conférences et événements | Ancienneté: 5-10 ans | Salaire: 40 - 50"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_nos_grilles_de_salaires_chef_de_projet_traiteur_conferences_et_evenements_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chef de projet - Traiteur conférences et événements",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Nos grilles de salaires | Poste: Chef de projet - Traiteur conférences et événements | Ancienneté: 10-15 ans et + | Salaire: > 50"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_de_secteur_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable de secteur",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "40 - 43",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable de secteur | Ancienneté: 0-2 ans | Salaire: 40 - 43"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_de_secteur_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable de secteur",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "43 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable de secteur | Ancienneté: 2-5 ans | Salaire: 43 - 45"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_de_secteur_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable de secteur",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "45 - 48",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable de secteur | Ancienneté: 5-10 ans | Salaire: 45 - 48"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_de_secteur_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable de secteur",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 48",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable de secteur | Ancienneté: 10-15 ans et + | Salaire: > 48"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_directeur_de_restaurant_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Directeur de restaurant",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "40 - 43",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Directeur de restaurant | Ancienneté: 0-2 ans | Salaire: 40 - 43"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_directeur_de_restaurant_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Directeur de restaurant",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "43 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Directeur de restaurant | Ancienneté: 2-5 ans | Salaire: 43 - 45"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_directeur_de_restaurant_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Directeur de restaurant",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "45 - 48",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Directeur de restaurant | Ancienneté: 5-10 ans | Salaire: 45 - 48"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_directeur_de_restaurant_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Directeur de restaurant",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 48",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Directeur de restaurant | Ancienneté: 10-15 ans et + | Salaire: > 48"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_grands_comptes_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable grands comptes",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "40 - 42",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable grands comptes | Ancienneté: 0-2 ans | Salaire: 40 - 42"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_grands_comptes_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable grands comptes",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "42 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable grands comptes | Ancienneté: 2-5 ans | Salaire: 42 - 45"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_grands_comptes_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable grands comptes",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable grands comptes | Ancienneté: 5-10 ans | Salaire: 45 - 50"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_grands_comptes_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable grands comptes",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable grands comptes | Ancienneté: 10-15 ans et + | Salaire: > 50"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_multisites_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable multisites",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "40 - 43",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable multisites | Ancienneté: 0-2 ans | Salaire: 40 - 43"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_multisites_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable multisites",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "43 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable multisites | Ancienneté: 2-5 ans | Salaire: 43 - 45"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_multisites_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable multisites",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "45 - 48",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable multisites | Ancienneté: 5-10 ans | Salaire: 45 - 48"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_multisites_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable multisites",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 48",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable multisites | Ancienneté: 10-15 ans et + | Salaire: > 48"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_reseau_regional_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable réseau/régional",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "43 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable réseau/régional | Ancienneté: 0-2 ans | Salaire: 43 - 45"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_reseau_regional_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable réseau/régional",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable réseau/régional | Ancienneté: 2-5 ans | Salaire: 45 - 50"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_reseau_regional_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable réseau/régional",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "50 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable réseau/régional | Ancienneté: 5-10 ans | Salaire: 50 - 55"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_reseau_regional_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable réseau/régional",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable réseau/régional | Ancienneté: 10-15 ans et + | Salaire: > 55"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_directeur_de_clientele_de_developpement_traiteur_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Directeur de clientèle/de développement traiteur",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "42 - 48",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Directeur de clientèle/de développement traiteur | Ancienneté: 0-2 ans | Salaire: 42 - 48"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_directeur_de_clientele_de_developpement_traiteur_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Directeur de clientèle/de développement traiteur",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "48 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Directeur de clientèle/de développement traiteur | Ancienneté: 2-5 ans | Salaire: 48 - 50"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_directeur_de_clientele_de_developpement_traiteur_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Directeur de clientèle/de développement traiteur",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "50 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Directeur de clientèle/de développement traiteur | Ancienneté: 5-10 ans | Salaire: 50 - 55"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_directeur_de_clientele_de_developpement_traiteur_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Directeur de clientèle/de développement traiteur",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Directeur de clientèle/de développement traiteur | Ancienneté: 10-15 ans et + | Salaire: > 55"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_expansion_du_developpement_immobilier_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable expansion/du développement immobilier",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "40 - 43",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable expansion/du développement immobilier | Ancienneté: 0-2 ans | Salaire: 40 - 43"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_expansion_du_developpement_immobilier_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable expansion/du développement immobilier",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "43 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable expansion/du développement immobilier | Ancienneté: 2-5 ans | Salaire: 43 - 45"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_expansion_du_developpement_immobilier_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable expansion/du développement immobilier",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "45 - 48",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable expansion/du développement immobilier | Ancienneté: 5-10 ans | Salaire: 45 - 48"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_expansion_du_developpement_immobilier_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable expansion/du développement immobilier",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 48",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable expansion/du développement immobilier | Ancienneté: 10-15 ans et + | Salaire: > 48"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_restauration_traditionnelle_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "RESTAURATION TRADITIONNELLE",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "0-2 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: RESTAURATION TRADITIONNELLE | Ancienneté: 0-2 ans | Salaire: 0-2 ans"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_restauration_traditionnelle_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "RESTAURATION TRADITIONNELLE",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "2-5 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: RESTAURATION TRADITIONNELLE | Ancienneté: 2-5 ans | Salaire: 2-5 ans"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_restauration_traditionnelle_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "RESTAURATION TRADITIONNELLE",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "5-10 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: RESTAURATION TRADITIONNELLE | Ancienneté: 5-10 ans | Salaire: 5-10 ans"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_restauration_traditionnelle_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "RESTAURATION TRADITIONNELLE",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "10-15 ans et +",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: RESTAURATION TRADITIONNELLE | Ancienneté: 10-15 ans et + | Salaire: 10-15 ans et +"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_chef_de_rang_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Chef de rang",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "33 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Chef de rang | Ancienneté: 0-2 ans | Salaire: 33 - 35"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_chef_de_rang_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Chef de rang",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "35 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Chef de rang | Ancienneté: 2-5 ans | Salaire: 35 - 38"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_chef_de_rang_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Chef de rang",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "38 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Chef de rang | Ancienneté: 5-10 ans | Salaire: 38 - 40"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_chef_de_rang_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Chef de rang",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Chef de rang | Ancienneté: 10-15 ans et + | Salaire: > 40"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_chef_de_partie_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Chef de partie",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "33 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Chef de partie | Ancienneté: 0-2 ans | Salaire: 33 - 35"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_chef_de_partie_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Chef de partie",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "35 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Chef de partie | Ancienneté: 2-5 ans | Salaire: 35 - 38"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_chef_de_partie_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Chef de partie",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "38 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Chef de partie | Ancienneté: 5-10 ans | Salaire: 38 - 40"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_chef_de_partie_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Chef de partie",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Chef de partie | Ancienneté: 10-15 ans et + | Salaire: > 40"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_sommelier_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Sommelier",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "33 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Sommelier | Ancienneté: 0-2 ans | Salaire: 33 - 35"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_sommelier_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Sommelier",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "35 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Sommelier | Ancienneté: 2-5 ans | Salaire: 35 - 38"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_sommelier_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Sommelier",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "38 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Sommelier | Ancienneté: 5-10 ans | Salaire: 38 - 40"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_sommelier_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Sommelier",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Sommelier | Ancienneté: 10-15 ans et + | Salaire: > 40"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_second_de_cuisine_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Second de cuisine",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "38 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Second de cuisine | Ancienneté: 0-2 ans | Salaire: 38 - 40"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_second_de_cuisine_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Second de cuisine",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "40 - 43",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Second de cuisine | Ancienneté: 2-5 ans | Salaire: 40 - 43"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_second_de_cuisine_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Second de cuisine",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "43 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Second de cuisine | Ancienneté: 5-10 ans | Salaire: 43 - 45"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_second_de_cuisine_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Second de cuisine",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Second de cuisine | Ancienneté: 10-15 ans et + | Salaire: > 45"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_maitre_dhotel_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Maître d’hôtel",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "35 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Maître d’hôtel | Ancienneté: 0-2 ans | Salaire: 35 - 38"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_maitre_dhotel_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Maître d’hôtel",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "38 - 42",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Maître d’hôtel | Ancienneté: 2-5 ans | Salaire: 38 - 42"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_maitre_dhotel_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Maître d’hôtel",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "42 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Maître d’hôtel | Ancienneté: 5-10 ans | Salaire: 42 - 45"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_maitre_dhotel_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Maître d’hôtel",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Maître d’hôtel | Ancienneté: 10-15 ans et + | Salaire: > 45"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_de_salle_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable de salle",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "40 - 42",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable de salle | Ancienneté: 0-2 ans | Salaire: 40 - 42"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_de_salle_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable de salle",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "42 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable de salle | Ancienneté: 2-5 ans | Salaire: 42 - 45"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_de_salle_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable de salle",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable de salle | Ancienneté: 5-10 ans | Salaire: 45 - 50"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_de_salle_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable de salle",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable de salle | Ancienneté: 10-15 ans et + | Salaire: > 50"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_chef_de_cuisine_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Chef de cuisine",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "48 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Chef de cuisine | Ancienneté: 0-2 ans | Salaire: 48 - 50"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_chef_de_cuisine_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Chef de cuisine",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "50 - 53",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Chef de cuisine | Ancienneté: 2-5 ans | Salaire: 50 - 53"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_chef_de_cuisine_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Chef de cuisine",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "53 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Chef de cuisine | Ancienneté: 5-10 ans | Salaire: 53 - 55"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_chef_de_cuisine_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Chef de cuisine",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Chef de cuisine | Ancienneté: 10-15 ans et + | Salaire: > 55"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_directeur_de_restaurant_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Directeur de restaurant",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "48 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Directeur de restaurant | Ancienneté: 0-2 ans | Salaire: 48 - 50"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_directeur_de_restaurant_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Directeur de restaurant",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "50 - 53",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Directeur de restaurant | Ancienneté: 2-5 ans | Salaire: 50 - 53"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_directeur_de_restaurant_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Directeur de restaurant",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "53 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Directeur de restaurant | Ancienneté: 5-10 ans | Salaire: 53 - 55"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_directeur_de_restaurant_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Directeur de restaurant",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Directeur de restaurant | Ancienneté: 10-15 ans et + | Salaire: > 55"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_chef_executif_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Chef exécutif",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "55 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Chef exécutif | Ancienneté: 0-2 ans | Salaire: 55 - 60"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_chef_executif_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Chef exécutif",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "60 - 65",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Chef exécutif | Ancienneté: 2-5 ans | Salaire: 60 - 65"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_chef_executif_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Chef exécutif",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "65 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Chef exécutif | Ancienneté: 5-10 ans | Salaire: 65 - 70"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_chef_executif_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Chef exécutif",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Chef exécutif | Ancienneté: 10-15 ans et + | Salaire: > 70"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_restauration_collective_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "RESTAURATION COLLECTIVE",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "0-2 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: RESTAURATION COLLECTIVE | Ancienneté: 0-2 ans | Salaire: 0-2 ans"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_restauration_collective_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "RESTAURATION COLLECTIVE",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "2-5 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: RESTAURATION COLLECTIVE | Ancienneté: 2-5 ans | Salaire: 2-5 ans"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_restauration_collective_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "RESTAURATION COLLECTIVE",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "5-10 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: RESTAURATION COLLECTIVE | Ancienneté: 5-10 ans | Salaire: 5-10 ans"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_restauration_collective_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "RESTAURATION COLLECTIVE",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "10-15 ans et +",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: RESTAURATION COLLECTIVE | Ancienneté: 10-15 ans et + | Salaire: 10-15 ans et +"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_chef_dequipe_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Chef d’équipe",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "33 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Chef d’équipe | Ancienneté: 0-2 ans | Salaire: 33 - 35"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_chef_dequipe_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Chef d’équipe",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "35 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Chef d’équipe | Ancienneté: 2-5 ans | Salaire: 35 - 38"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_chef_dequipe_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Chef d’équipe",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "38 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Chef d’équipe | Ancienneté: 5-10 ans | Salaire: 38 - 40"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_chef_dequipe_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Chef d’équipe",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Chef d’équipe | Ancienneté: 10-15 ans et + | Salaire: > 40"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_chef_de_production_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Chef de production",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "33 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Chef de production | Ancienneté: 0-2 ans | Salaire: 33 - 35"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_chef_de_production_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Chef de production",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "35 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Chef de production | Ancienneté: 2-5 ans | Salaire: 35 - 38"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_chef_de_production_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Chef de production",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "38 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Chef de production | Ancienneté: 5-10 ans | Salaire: 38 - 40"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_chef_de_production_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Chef de production",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Chef de production | Ancienneté: 10-15 ans et + | Salaire: > 40"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_chef_gerant_directeur_de_restaurant_collectif_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Chef gérant - Directeur de restaurant collectif",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "40 - 43",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Chef gérant - Directeur de restaurant collectif | Ancienneté: 0-2 ans | Salaire: 40 - 43"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_chef_gerant_directeur_de_restaurant_collectif_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Chef gérant - Directeur de restaurant collectif",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "43 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Chef gérant - Directeur de restaurant collectif | Ancienneté: 2-5 ans | Salaire: 43 - 45"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_chef_gerant_directeur_de_restaurant_collectif_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Chef gérant - Directeur de restaurant collectif",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "45 - 48",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Chef gérant - Directeur de restaurant collectif | Ancienneté: 5-10 ans | Salaire: 45 - 48"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_chef_gerant_directeur_de_restaurant_collectif_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Chef gérant - Directeur de restaurant collectif",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 48",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Chef gérant - Directeur de restaurant collectif | Ancienneté: 10-15 ans et + | Salaire: > 48"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_grands_comptes_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable grands comptes",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable grands comptes | Ancienneté: 0-2 ans | Salaire: 40 - 45"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_grands_comptes_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable grands comptes",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable grands comptes | Ancienneté: 2-5 ans | Salaire: 45 - 50"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_grands_comptes_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable grands comptes",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "50 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable grands comptes | Ancienneté: 5-10 ans | Salaire: 50 - 55"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_grands_comptes_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable grands comptes",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable grands comptes | Ancienneté: 10-15 ans et + | Salaire: > 55"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_multisites_responsable_de_secteur_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable multisites - Responsable de secteur",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable multisites - Responsable de secteur | Ancienneté: 0-2 ans | Salaire: 45 - 50"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_multisites_responsable_de_secteur_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable multisites - Responsable de secteur",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "50 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable multisites - Responsable de secteur | Ancienneté: 2-5 ans | Salaire: 50 - 55"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_multisites_responsable_de_secteur_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable multisites - Responsable de secteur",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "55 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable multisites - Responsable de secteur | Ancienneté: 5-10 ans | Salaire: 55 - 60"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_responsable_multisites_responsable_de_secteur_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Responsable multisites - Responsable de secteur",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Responsable multisites - Responsable de secteur | Ancienneté: 10-15 ans et + | Salaire: > 60"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_directeur_regional_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Directeur régional",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "50 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Directeur régional | Ancienneté: 0-2 ans | Salaire: 50 - 55"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_directeur_regional_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Directeur régional",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "55 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Directeur régional | Ancienneté: 2-5 ans | Salaire: 55 - 60"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_directeur_regional_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Directeur régional",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "60 - 65",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Directeur régional | Ancienneté: 5-10 ans | Salaire: 60 - 65"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_directeur_regional_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Directeur régional",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 65",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Directeur régional | Ancienneté: 10-15 ans et + | Salaire: > 65"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_directeur_des_ventes_commercial_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Directeur des ventes/commercial",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "50 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Directeur des ventes/commercial | Ancienneté: 0-2 ans | Salaire: 50 - 55"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_directeur_des_ventes_commercial_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Directeur des ventes/commercial",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "55 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Directeur des ventes/commercial | Ancienneté: 2-5 ans | Salaire: 55 - 60"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_directeur_des_ventes_commercial_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Directeur des ventes/commercial",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "60 - 65",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Directeur des ventes/commercial | Ancienneté: 5-10 ans | Salaire: 60 - 65"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_directeur_des_ventes_commercial_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "Directeur des ventes/commercial",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 65",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: Directeur des ventes/commercial | Ancienneté: 10-15 ans et + | Salaire: > 65"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_tourisme_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "TOURISME",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "0-2 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: TOURISME | Ancienneté: 0-2 ans | Salaire: 0-2 ans"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_tourisme_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "TOURISME",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "2-5 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: TOURISME | Ancienneté: 2-5 ans | Salaire: 2-5 ans"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_tourisme_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "TOURISME",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "5-10 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: TOURISME | Ancienneté: 5-10 ans | Salaire: 5-10 ans"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_responsable_de_secteur_40_43_43_45_45_48_48_tourisme_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48",
+    "poste": "TOURISME",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "10-15 ans et +",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Responsable de secteur 40 - 43 43 - 45 45 - 48 > 48 | Poste: TOURISME | Ancienneté: 10-15 ans et + | Salaire: 10-15 ans et +"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_conseiller_agent_de_voyages_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Conseiller/Agent de voyages",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "25 - 26",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Conseiller/Agent de voyages | Ancienneté: 0-2 ans | Salaire: 25 - 26"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_conseiller_agent_de_voyages_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Conseiller/Agent de voyages",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "26 - 28",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Conseiller/Agent de voyages | Ancienneté: 2-5 ans | Salaire: 26 - 28"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_conseiller_agent_de_voyages_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Conseiller/Agent de voyages",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "28 - 30",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Conseiller/Agent de voyages | Ancienneté: 5-10 ans | Salaire: 28 - 30"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_conseiller_agent_de_voyages_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Conseiller/Agent de voyages",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 30",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Conseiller/Agent de voyages | Ancienneté: 10-15 ans et + | Salaire: > 30"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_conseiller_voyages_daffaires_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Conseiller voyages d’affaires",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "25 - 26",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Conseiller voyages d’affaires | Ancienneté: 0-2 ans | Salaire: 25 - 26"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_conseiller_voyages_daffaires_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Conseiller voyages d’affaires",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "26 - 28",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Conseiller voyages d’affaires | Ancienneté: 2-5 ans | Salaire: 26 - 28"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_conseiller_voyages_daffaires_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Conseiller voyages d’affaires",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "28 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Conseiller voyages d’affaires | Ancienneté: 5-10 ans | Salaire: 28 - 35"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_conseiller_voyages_daffaires_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Conseiller voyages d’affaires",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Conseiller voyages d’affaires | Ancienneté: 10-15 ans et + | Salaire: > 35"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_agent_back_office_billettiste_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Agent back - office/Billettiste",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "24 - 25",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Agent back - office/Billettiste | Ancienneté: 0-2 ans | Salaire: 24 - 25"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_agent_back_office_billettiste_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Agent back - office/Billettiste",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "25 - 27",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Agent back - office/Billettiste | Ancienneté: 2-5 ans | Salaire: 25 - 27"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_agent_back_office_billettiste_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Agent back - office/Billettiste",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "27 - 29",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Agent back - office/Billettiste | Ancienneté: 5-10 ans | Salaire: 27 - 29"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_agent_back_office_billettiste_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Agent back - office/Billettiste",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 29",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Agent back - office/Billettiste | Ancienneté: 10-15 ans et + | Salaire: > 29"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_charge_de_production_forfaitiste_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Chargé de production - Forfaitiste",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "29 - 32",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Chargé de production - Forfaitiste | Ancienneté: 0-2 ans | Salaire: 29 - 32"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_charge_de_production_forfaitiste_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Chargé de production - Forfaitiste",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "32 - 34",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Chargé de production - Forfaitiste | Ancienneté: 2-5 ans | Salaire: 32 - 34"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_charge_de_production_forfaitiste_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Chargé de production - Forfaitiste",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "34 - 37",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Chargé de production - Forfaitiste | Ancienneté: 5-10 ans | Salaire: 34 - 37"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_charge_de_production_forfaitiste_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Chargé de production - Forfaitiste",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 37",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Chargé de production - Forfaitiste | Ancienneté: 10-15 ans et + | Salaire: > 37"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_directeur_dagence_responsable_de_plateau_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Directeur d’agence - Responsable de plateau",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "38 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Directeur d’agence - Responsable de plateau | Ancienneté: 0-2 ans | Salaire: 38 - 40"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_directeur_dagence_responsable_de_plateau_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Directeur d’agence - Responsable de plateau",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "40 - 42",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Directeur d’agence - Responsable de plateau | Ancienneté: 2-5 ans | Salaire: 40 - 42"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_directeur_dagence_responsable_de_plateau_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Directeur d’agence - Responsable de plateau",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "42 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Directeur d’agence - Responsable de plateau | Ancienneté: 5-10 ans | Salaire: 42 - 50"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_directeur_dagence_responsable_de_plateau_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Directeur d’agence - Responsable de plateau",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Directeur d’agence - Responsable de plateau | Ancienneté: 10-15 ans et + | Salaire: > 50"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_directeur_de_reseau_directeur_regional_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Directeur de réseau - Directeur régional",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "50 - 52",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Directeur de réseau - Directeur régional | Ancienneté: 0-2 ans | Salaire: 50 - 52"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_directeur_de_reseau_directeur_regional_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Directeur de réseau - Directeur régional",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "52 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Directeur de réseau - Directeur régional | Ancienneté: 2-5 ans | Salaire: 52 - 55"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_directeur_de_reseau_directeur_regional_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Directeur de réseau - Directeur régional",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "55 - 58",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Directeur de réseau - Directeur régional | Ancienneté: 5-10 ans | Salaire: 55 - 58"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_directeur_de_reseau_directeur_regional_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Directeur de réseau - Directeur régional",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 58",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Directeur de réseau - Directeur régional | Ancienneté: 10-15 ans et + | Salaire: > 58"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_responsable_des_ventes_grands_comptes_du_developpement_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Responsable des ventes/grands comptes/du développement",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "38 - 42",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Responsable des ventes/grands comptes/du développement | Ancienneté: 0-2 ans | Salaire: 38 - 42"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_responsable_des_ventes_grands_comptes_du_developpement_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Responsable des ventes/grands comptes/du développement",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "42 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Responsable des ventes/grands comptes/du développement | Ancienneté: 2-5 ans | Salaire: 42 - 45"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_responsable_des_ventes_grands_comptes_du_developpement_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Responsable des ventes/grands comptes/du développement",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Responsable des ventes/grands comptes/du développement | Ancienneté: 5-10 ans | Salaire: 45 - 50"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_responsable_des_ventes_grands_comptes_du_developpement_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Responsable des ventes/grands comptes/du développement",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Responsable des ventes/grands comptes/du développement | Ancienneté: 10-15 ans et + | Salaire: > 50"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_directeur_commercial_des_ventes_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Directeur commercial/des ventes",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "42 - 44",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Directeur commercial/des ventes | Ancienneté: 0-2 ans | Salaire: 42 - 44"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_directeur_commercial_des_ventes_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Directeur commercial/des ventes",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "44 - 48",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Directeur commercial/des ventes | Ancienneté: 2-5 ans | Salaire: 44 - 48"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_directeur_commercial_des_ventes_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Directeur commercial/des ventes",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "48 - 52",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Directeur commercial/des ventes | Ancienneté: 5-10 ans | Salaire: 48 - 52"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_directeur_commercial_des_ventes_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Directeur commercial/des ventes",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 52",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Directeur commercial/des ventes | Ancienneté: 10-15 ans et + | Salaire: > 52"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_charge_de_voyages_travel_manager_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Chargé de voyages/Travel manager",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "28 - 30",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Chargé de voyages/Travel manager | Ancienneté: 0-2 ans | Salaire: 28 - 30"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_charge_de_voyages_travel_manager_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Chargé de voyages/Travel manager",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "30 - 32",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Chargé de voyages/Travel manager | Ancienneté: 2-5 ans | Salaire: 30 - 32"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_charge_de_voyages_travel_manager_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Chargé de voyages/Travel manager",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "32 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Chargé de voyages/Travel manager | Ancienneté: 5-10 ans | Salaire: 32 - 38"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_charge_de_voyages_travel_manager_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Chargé de voyages/Travel manager",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "38 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Chargé de voyages/Travel manager | Ancienneté: 10-15 ans et + | Salaire: 38 - 45"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_commercial_account_manager_travel_management_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Commercial - Account manager travel management",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "30 - 34",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Commercial - Account manager travel management | Ancienneté: 0-2 ans | Salaire: 30 - 34"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_commercial_account_manager_travel_management_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Commercial - Account manager travel management",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "34 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Commercial - Account manager travel management | Ancienneté: 2-5 ans | Salaire: 34 - 38"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_commercial_account_manager_travel_management_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Commercial - Account manager travel management",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "38 - 42",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Commercial - Account manager travel management | Ancienneté: 5-10 ans | Salaire: 38 - 42"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_commercial_account_manager_travel_management_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Commercial - Account manager travel management",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 42",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Commercial - Account manager travel management | Ancienneté: 10-15 ans et + | Salaire: > 42"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_chef_de_produit_marketing_0_2_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Chef de produit marketing",
+    "anciennete": "0-2 ans",
+    "salaire_k€": "32 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Chef de produit marketing | Ancienneté: 0-2 ans | Salaire: 32 - 35"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_chef_de_produit_marketing_2_5_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Chef de produit marketing",
+    "anciennete": "2-5 ans",
+    "salaire_k€": "35 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Chef de produit marketing | Ancienneté: 2-5 ans | Salaire: 35 - 38"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_chef_de_produit_marketing_5_10_ans",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Chef de produit marketing",
+    "anciennete": "5-10 ans",
+    "salaire_k€": "38 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Chef de produit marketing | Ancienneté: 5-10 ans | Salaire: 38 - 40"
+  },
+  {
+    "id": "hotellerie_restauration_et_tourisme_conseiller_agent_de_voyages_25_26_26_28_28_30_30_chef_de_produit_marketing_10_15_ans_et",
+    "famille": "Hôtellerie, Restauration & Tourisme",
+    "sous_categorie": "Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30",
+    "poste": "Chef de produit marketing",
+    "anciennete": "10-15 ans et +",
+    "salaire_k€": "> 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "hotellerie_pond_reg"
+    ],
+    "text": "Famille: Hôtellerie, Restauration & Tourisme | Sous-catégorie: Conseiller/Agent de voyages 25 - 26 26 - 28 28 - 30 > 30 | Poste: Chef de produit marketing | Ancienneté: 10-15 ans et + | Salaire: > 40"
+  }
+]
