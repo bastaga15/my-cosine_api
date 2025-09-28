@@ -1,0 +1,1388 @@
+[
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_postes_0_2_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "POSTES",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "0 - 2 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: POSTES | Ancienneté: 0 - 2 ans | Salaire: 0 - 2 ans"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_postes_2_5_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "POSTES",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "2 - 5 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: POSTES | Ancienneté: 2 - 5 ans | Salaire: 2 - 5 ans"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_postes_5_10_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "POSTES",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "5 - 10 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: POSTES | Ancienneté: 5 - 10 ans | Salaire: 5 - 10 ans"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_postes_10_15_ans_et",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "POSTES",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "10 - 15 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: POSTES | Ancienneté: 10 - 15 ans et + | Salaire: 10 - 15 ans"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_paralegal_0_2_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Paralégal",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "28 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Paralégal | Ancienneté: 0 - 2 ans | Salaire: 28 - 35"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_paralegal_2_5_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Paralégal",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "35 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Paralégal | Ancienneté: 2 - 5 ans | Salaire: 35 - 45"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_paralegal_5_10_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Paralégal",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "45 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Paralégal | Ancienneté: 5 - 10 ans | Salaire: 45 - 55"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_paralegal_10_15_ans_et",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Paralégal",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "55 - 65",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Paralégal | Ancienneté: 10 - 15 ans et + | Salaire: 55 - 65"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_corporate_droit_des_societes_0_2_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste corporate/droit des sociétés",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 48",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste corporate/droit des sociétés | Ancienneté: 0 - 2 ans | Salaire: 40 - 48"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_corporate_droit_des_societes_2_5_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste corporate/droit des sociétés",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "48 - 58",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste corporate/droit des sociétés | Ancienneté: 2 - 5 ans | Salaire: 48 - 58"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_corporate_droit_des_societes_5_10_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste corporate/droit des sociétés",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "58 - 75",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste corporate/droit des sociétés | Ancienneté: 5 - 10 ans | Salaire: 58 - 75"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_corporate_droit_des_societes_10_15_ans_et",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste corporate/droit des sociétés",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "75 - 85",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste corporate/droit des sociétés | Ancienneté: 10 - 15 ans et + | Salaire: 75 - 85"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_meta_0_2_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste M&A",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "45 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste M&A | Ancienneté: 0 - 2 ans | Salaire: 45 - 55"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_meta_2_5_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste M&A",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "55 - 75",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste M&A | Ancienneté: 2 - 5 ans | Salaire: 55 - 75"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_meta_5_10_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste M&A",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "75 - 100",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste M&A | Ancienneté: 5 - 10 ans | Salaire: 75 - 100"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_meta_10_15_ans_et",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste M&A",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "100 - 130",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste M&A | Ancienneté: 10 - 15 ans et + | Salaire: 100 - 130"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_droit_des_contrats_france_et_international_0_2_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste droit des contrats France & international",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste droit des contrats France & international | Ancienneté: 0 - 2 ans | Salaire: 40 - 50"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_droit_des_contrats_france_et_international_2_5_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste droit des contrats France & international",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "50 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste droit des contrats France & international | Ancienneté: 2 - 5 ans | Salaire: 50 - 70"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_droit_des_contrats_france_et_international_5_10_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste droit des contrats France & international",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "70 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste droit des contrats France & international | Ancienneté: 5 - 10 ans | Salaire: 70 - 90"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_droit_des_contrats_france_et_international_10_15_ans_et",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste droit des contrats France & international",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "90 - 120",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste droit des contrats France & international | Ancienneté: 10 - 15 ans et + | Salaire: 90 - 120"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_droit_social_0_2_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste droit social",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 48",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste droit social | Ancienneté: 0 - 2 ans | Salaire: 40 - 48"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_droit_social_2_5_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste droit social",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "48 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste droit social | Ancienneté: 2 - 5 ans | Salaire: 48 - 55"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_droit_social_5_10_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste droit social",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "55 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste droit social | Ancienneté: 5 - 10 ans | Salaire: 55 - 70"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_droit_social_10_15_ans_et",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste droit social",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "70 - 85",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste droit social | Ancienneté: 10 - 15 ans et + | Salaire: 70 - 85"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_propriete_intellectuelle_industrielle_0_2_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste propriété intellectuelle/industrielle",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste propriété intellectuelle/industrielle | Ancienneté: 0 - 2 ans | Salaire: 40 - 50"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_propriete_intellectuelle_industrielle_2_5_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste propriété intellectuelle/industrielle",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "50 - 65",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste propriété intellectuelle/industrielle | Ancienneté: 2 - 5 ans | Salaire: 50 - 65"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_propriete_intellectuelle_industrielle_5_10_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste propriété intellectuelle/industrielle",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "65 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste propriété intellectuelle/industrielle | Ancienneté: 5 - 10 ans | Salaire: 65 - 90"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_propriete_intellectuelle_industrielle_10_15_ans_et",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste propriété intellectuelle/industrielle",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "90 - 120",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste propriété intellectuelle/industrielle | Ancienneté: 10 - 15 ans et + | Salaire: 90 - 120"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_compliance_rgpd_0_2_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste compliance/RGPD",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "45 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste compliance/RGPD | Ancienneté: 0 - 2 ans | Salaire: 45 - 55"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_compliance_rgpd_2_5_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste compliance/RGPD",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "55 - 65",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste compliance/RGPD | Ancienneté: 2 - 5 ans | Salaire: 55 - 65"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_compliance_rgpd_5_10_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste compliance/RGPD",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "65 - 100",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste compliance/RGPD | Ancienneté: 5 - 10 ans | Salaire: 65 - 100"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_compliance_rgpd_10_15_ans_et",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste compliance/RGPD",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "100 - 130",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste compliance/RGPD | Ancienneté: 10 - 15 ans et + | Salaire: 100 - 130"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_generaliste_unique_0_2_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste généraliste/unique",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste généraliste/unique | Ancienneté: 0 - 2 ans | Salaire: 40 - 50"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_generaliste_unique_2_5_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste généraliste/unique",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "50 - 65",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste généraliste/unique | Ancienneté: 2 - 5 ans | Salaire: 50 - 65"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_generaliste_unique_5_10_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste généraliste/unique",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "65 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste généraliste/unique | Ancienneté: 5 - 10 ans | Salaire: 65 - 90"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_generaliste_unique_10_15_ans_et",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste généraliste/unique",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "90 - 120",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste généraliste/unique | Ancienneté: 10 - 15 ans et + | Salaire: 90 - 120"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_contentieux_0_2_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste contentieux",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "30 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste contentieux | Ancienneté: 0 - 2 ans | Salaire: 30 - 35"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_contentieux_2_5_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste contentieux",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "35 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste contentieux | Ancienneté: 2 - 5 ans | Salaire: 35 - 45"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_contentieux_5_10_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste contentieux",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "45 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste contentieux | Ancienneté: 5 - 10 ans | Salaire: 45 - 60"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_contentieux_10_15_ans_et",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste contentieux",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "60 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste contentieux | Ancienneté: 10 - 15 ans et + | Salaire: 60 - 70"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_ntic_0_2_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste NTIC",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste NTIC | Ancienneté: 0 - 2 ans | Salaire: 40 - 50"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_ntic_2_5_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste NTIC",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "50 - 65",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste NTIC | Ancienneté: 2 - 5 ans | Salaire: 50 - 65"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_ntic_5_10_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste NTIC",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "65 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste NTIC | Ancienneté: 5 - 10 ans | Salaire: 65 - 90"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_ntic_10_15_ans_et",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste NTIC",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "90 - 120",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste NTIC | Ancienneté: 10 - 15 ans et + | Salaire: 90 - 120"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_fiscalite_france_et_international_0_2_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Fiscalité France & international",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "45 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Fiscalité France & international | Ancienneté: 0 - 2 ans | Salaire: 45 - 60"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_fiscalite_france_et_international_2_5_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Fiscalité France & international",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "60 - 80",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Fiscalité France & international | Ancienneté: 2 - 5 ans | Salaire: 60 - 80"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_fiscalite_france_et_international_5_10_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Fiscalité France & international",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "80 - 110",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Fiscalité France & international | Ancienneté: 5 - 10 ans | Salaire: 80 - 110"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_fiscalite_france_et_international_10_15_ans_et",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Fiscalité France & international",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "110 - 130",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Fiscalité France & international | Ancienneté: 10 - 15 ans et + | Salaire: 110 - 130"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_contract_manager_0_2_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Contract manager",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "45 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Contract manager | Ancienneté: 0 - 2 ans | Salaire: 45 - 55"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_contract_manager_2_5_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Contract manager",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "50 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Contract manager | Ancienneté: 2 - 5 ans | Salaire: 50 - 70"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_contract_manager_5_10_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Contract manager",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "70 - 100",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Contract manager | Ancienneté: 5 - 10 ans | Salaire: 70 - 100"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_contract_manager_10_15_ans_et",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Contract manager",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "100 - 130",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Contract manager | Ancienneté: 10 - 15 ans et + | Salaire: 100 - 130"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_bancaire_0_2_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste bancaire",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste bancaire | Ancienneté: 0 - 2 ans | Salaire: 40 - 50"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_bancaire_2_5_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste bancaire",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "50 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste bancaire | Ancienneté: 2 - 5 ans | Salaire: 50 - 60"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_bancaire_5_10_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste bancaire",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "60 - 75",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste bancaire | Ancienneté: 5 - 10 ans | Salaire: 60 - 75"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_bancaire_10_15_ans_et",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste bancaire",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "75 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste bancaire | Ancienneté: 10 - 15 ans et + | Salaire: 75 - 90"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_financier_0_2_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste financier",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "45 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste financier | Ancienneté: 0 - 2 ans | Salaire: 45 - 55"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_financier_2_5_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste financier",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "55 - 80",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste financier | Ancienneté: 2 - 5 ans | Salaire: 55 - 80"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_financier_5_10_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste financier",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "80 - 100",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste financier | Ancienneté: 5 - 10 ans | Salaire: 80 - 100"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_financier_10_15_ans_et",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste financier",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "100 - 120",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste financier | Ancienneté: 10 - 15 ans et + | Salaire: 100 - 120"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_opcvm_0_2_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste OPCVM",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "45 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste OPCVM | Ancienneté: 0 - 2 ans | Salaire: 45 - 55"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_opcvm_2_5_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste OPCVM",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "55 - 65",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste OPCVM | Ancienneté: 2 - 5 ans | Salaire: 55 - 65"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_opcvm_5_10_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste OPCVM",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "65 - 85",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste OPCVM | Ancienneté: 5 - 10 ans | Salaire: 65 - 85"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_opcvm_10_15_ans_et",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste OPCVM",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "85 - 100",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste OPCVM | Ancienneté: 10 - 15 ans et + | Salaire: 85 - 100"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_assurances_risk_manager_0_2_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste assurances/Risk manager",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste assurances/Risk manager | Ancienneté: 0 - 2 ans | Salaire: 40 - 50"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_assurances_risk_manager_2_5_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste assurances/Risk manager",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "50 - 65",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste assurances/Risk manager | Ancienneté: 2 - 5 ans | Salaire: 50 - 65"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_assurances_risk_manager_5_10_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste assurances/Risk manager",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "65 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste assurances/Risk manager | Ancienneté: 5 - 10 ans | Salaire: 65 - 90"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_assurances_risk_manager_10_15_ans_et",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste assurances/Risk manager",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "90 - 120",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste assurances/Risk manager | Ancienneté: 10 - 15 ans et + | Salaire: 90 - 120"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_sinistres_0_2_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste sinistres",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 48",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste sinistres | Ancienneté: 0 - 2 ans | Salaire: 40 - 48"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_sinistres_2_5_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste sinistres",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "48 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste sinistres | Ancienneté: 2 - 5 ans | Salaire: 48 - 55"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_sinistres_5_10_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste sinistres",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "55 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste sinistres | Ancienneté: 5 - 10 ans | Salaire: 55 - 70"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_sinistres_10_15_ans_et",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste sinistres",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "70 - 85",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste sinistres | Ancienneté: 10 - 15 ans et + | Salaire: 70 - 85"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_construction_immobilier_0_2_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste construction/immobilier",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste construction/immobilier | Ancienneté: 0 - 2 ans | Salaire: 45 - 50"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_construction_immobilier_2_5_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste construction/immobilier",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "50 - 65",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste construction/immobilier | Ancienneté: 2 - 5 ans | Salaire: 50 - 65"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_construction_immobilier_5_10_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste construction/immobilier",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "65 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste construction/immobilier | Ancienneté: 5 - 10 ans | Salaire: 65 - 90"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_construction_immobilier_10_15_ans_et",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste construction/immobilier",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "90 - 120",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste construction/immobilier | Ancienneté: 10 - 15 ans et + | Salaire: 90 - 120"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_sante_pharmaceutique_0_2_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste santé/pharmaceutique",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste santé/pharmaceutique | Ancienneté: 0 - 2 ans | Salaire: 40 - 50"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_sante_pharmaceutique_2_5_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste santé/pharmaceutique",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "50 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste santé/pharmaceutique | Ancienneté: 2 - 5 ans | Salaire: 50 - 60"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_sante_pharmaceutique_5_10_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste santé/pharmaceutique",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "60 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste santé/pharmaceutique | Ancienneté: 5 - 10 ans | Salaire: 60 - 90"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_sante_pharmaceutique_10_15_ans_et",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste santé/pharmaceutique",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "90 - 110",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste santé/pharmaceutique | Ancienneté: 10 - 15 ans et + | Salaire: 90 - 110"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_droit_economique_consommation_btoc_0_2_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste droit économique/consommation (BtoC)",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste droit économique/consommation (BtoC) | Ancienneté: 0 - 2 ans | Salaire: 40 - 50"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_droit_economique_consommation_btoc_2_5_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste droit économique/consommation (BtoC)",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "50 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste droit économique/consommation (BtoC) | Ancienneté: 2 - 5 ans | Salaire: 50 - 60"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_droit_economique_consommation_btoc_5_10_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste droit économique/consommation (BtoC)",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "60 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste droit économique/consommation (BtoC) | Ancienneté: 5 - 10 ans | Salaire: 60 - 90"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_juriste_droit_economique_consommation_btoc_10_15_ans_et",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Juriste droit économique/consommation (BtoC)",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "90 - 110",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Juriste droit économique/consommation (BtoC) | Ancienneté: 10 - 15 ans et + | Salaire: 90 - 110"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_fonctions_de_direction_0_2_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "FONCTIONS DE DIRECTION",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "PME",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: FONCTIONS DE DIRECTION | Ancienneté: 0 - 2 ans | Salaire: PME"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_fonctions_de_direction_2_5_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "FONCTIONS DE DIRECTION",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "ETI",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: FONCTIONS DE DIRECTION | Ancienneté: 2 - 5 ans | Salaire: ETI"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_fonctions_de_direction_5_10_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "FONCTIONS DE DIRECTION",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "GE",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: FONCTIONS DE DIRECTION | Ancienneté: 5 - 10 ans | Salaire: GE"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_responsable_directeur_juridique_0_2_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable/Directeur juridique",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "80 - 120",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Responsable/Directeur juridique | Ancienneté: 0 - 2 ans | Salaire: 80 - 120"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_responsable_directeur_juridique_2_5_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable/Directeur juridique",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "90 - 170",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Responsable/Directeur juridique | Ancienneté: 2 - 5 ans | Salaire: 90 - 170"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_responsable_directeur_juridique_5_10_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable/Directeur juridique",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "> 140",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Responsable/Directeur juridique | Ancienneté: 5 - 10 ans | Salaire: > 140"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_responsable_directeur_fiscal_0_2_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable/Directeur fiscal",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "90 - 130",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Responsable/Directeur fiscal | Ancienneté: 0 - 2 ans | Salaire: 90 - 130"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_responsable_directeur_fiscal_2_5_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable/Directeur fiscal",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "100 - 200",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Responsable/Directeur fiscal | Ancienneté: 2 - 5 ans | Salaire: 100 - 200"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_responsable_directeur_fiscal_5_10_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable/Directeur fiscal",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "> 150",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Responsable/Directeur fiscal | Ancienneté: 5 - 10 ans | Salaire: > 150"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_responsable_directeur_assurances_risk_management_0_2_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable/Directeur assurances:Risk Management",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "80 - 120",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Responsable/Directeur assurances:Risk Management | Ancienneté: 0 - 2 ans | Salaire: 80 - 120"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_responsable_directeur_assurances_risk_management_2_5_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable/Directeur assurances:Risk Management",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "90 - 170",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Responsable/Directeur assurances:Risk Management | Ancienneté: 2 - 5 ans | Salaire: 90 - 170"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_responsable_directeur_assurances_risk_management_5_10_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable/Directeur assurances:Risk Management",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "> 140",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Responsable/Directeur assurances:Risk Management | Ancienneté: 5 - 10 ans | Salaire: > 140"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_responsable_directeur_compliance_0_2_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable/Directeur compliance",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "90 - 130",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Responsable/Directeur compliance | Ancienneté: 0 - 2 ans | Salaire: 90 - 130"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_responsable_directeur_compliance_2_5_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable/Directeur compliance",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "100 - 200",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Responsable/Directeur compliance | Ancienneté: 2 - 5 ans | Salaire: 100 - 200"
+  },
+  {
+    "id": "juridique_et_fiscal_nos_grilles_de_salaires_responsable_directeur_compliance_5_10_ans",
+    "famille": "Juridique & Fiscal",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable/Directeur compliance",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "> 150",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "juridique_et_fiscal_pond_reg"
+    ],
+    "text": "Famille: Juridique & Fiscal | Sous - catégorie: Nos grilles de salaires | Poste: Responsable/Directeur compliance | Ancienneté: 5 - 10 ans | Salaire: > 150"
+  }
+]

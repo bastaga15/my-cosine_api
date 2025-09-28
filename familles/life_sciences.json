@@ -1,0 +1,2914 @@
+[
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_recherche_et_developpement_clinique_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "RECHERCHE & DÉVELOPPEMENT CLINIQUE",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "0 - 2 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: RECHERCHE & DÉVELOPPEMENT CLINIQUE | Ancienneté: 0 - 2 ans | Salaire: 0 - 2 ans"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_recherche_et_developpement_clinique_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "RECHERCHE & DÉVELOPPEMENT CLINIQUE",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "2 - 5 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: RECHERCHE & DÉVELOPPEMENT CLINIQUE | Ancienneté: 2 - 5 ans | Salaire: 2 - 5 ans"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_recherche_et_developpement_clinique_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "RECHERCHE & DÉVELOPPEMENT CLINIQUE",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "5 - 10 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: RECHERCHE & DÉVELOPPEMENT CLINIQUE | Ancienneté: 5 - 10 ans | Salaire: 5 - 10 ans"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_recherche_et_developpement_clinique_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "RECHERCHE & DÉVELOPPEMENT CLINIQUE",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "10 - 15 ans et +",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: RECHERCHE & DÉVELOPPEMENT CLINIQUE | Ancienneté: 10 - 15 ans et + | Salaire: 10 - 15 ans et +"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_directeur_retd_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur R&D",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "60 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Directeur R&D | Ancienneté: 0 - 2 ans | Salaire: 60 - 70"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_directeur_retd_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur R&D",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "70 - 85",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Directeur R&D | Ancienneté: 2 - 5 ans | Salaire: 70 - 85"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_directeur_retd_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur R&D",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "85 - 110",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Directeur R&D | Ancienneté: 5 - 10 ans | Salaire: 85 - 110"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_directeur_retd_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur R&D",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "110 - 140",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Directeur R&D | Ancienneté: 10 - 15 ans et + | Salaire: 110 - 140"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_responsable_de_laboratoire_retd_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable de laboratoire R&D",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "45 - 47",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Responsable de laboratoire R&D | Ancienneté: 0 - 2 ans | Salaire: 45 - 47"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_responsable_de_laboratoire_retd_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable de laboratoire R&D",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "47 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Responsable de laboratoire R&D | Ancienneté: 2 - 5 ans | Salaire: 47 - 55"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_responsable_de_laboratoire_retd_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable de laboratoire R&D",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "55 - 65",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Responsable de laboratoire R&D | Ancienneté: 5 - 10 ans | Salaire: 55 - 65"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_responsable_de_laboratoire_retd_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable de laboratoire R&D",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "65 - 85",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Responsable de laboratoire R&D | Ancienneté: 10 - 15 ans et + | Salaire: 65 - 85"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_technicien_retd_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Technicien R&D",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "25 - 28",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Technicien R&D | Ancienneté: 0 - 2 ans | Salaire: 25 - 28"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_technicien_retd_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Technicien R&D",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "28 - 30",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Technicien R&D | Ancienneté: 2 - 5 ans | Salaire: 28 - 30"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_technicien_retd_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Technicien R&D",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "30 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Technicien R&D | Ancienneté: 5 - 10 ans | Salaire: 30 - 35"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_technicien_retd_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Technicien R&D",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "35 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Technicien R&D | Ancienneté: 10 - 15 ans et + | Salaire: 35 - 38"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_directeur_du_developpement_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur du développement",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "60 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Directeur du développement | Ancienneté: 0 - 2 ans | Salaire: 60 - 70"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_directeur_du_developpement_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur du développement",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "70 - 85",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Directeur du développement | Ancienneté: 2 - 5 ans | Salaire: 70 - 85"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_directeur_du_developpement_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur du développement",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "85 - 110",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Directeur du développement | Ancienneté: 5 - 10 ans | Salaire: 85 - 110"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_directeur_du_developpement_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur du développement",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "110 - 140",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Directeur du développement | Ancienneté: 10 - 15 ans et + | Salaire: 110 - 140"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_pharmacien_developpement_galenique_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien développement galénique",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien développement galénique | Ancienneté: 0 - 2 ans | Salaire: 40 - 45"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_pharmacien_developpement_galenique_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien développement galénique",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien développement galénique | Ancienneté: 2 - 5 ans | Salaire: 45 - 50"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_pharmacien_developpement_galenique_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien développement galénique",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "50 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien développement galénique | Ancienneté: 5 - 10 ans | Salaire: 50 - 70"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_pharmacien_developpement_galenique_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien développement galénique",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "70 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien développement galénique | Ancienneté: 10 - 15 ans et + | Salaire: 70 - 90"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_technicien_chimiste_developpement_analytique_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Technicien chimiste/développement analytique",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "25 - 28",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Technicien chimiste/développement analytique | Ancienneté: 0 - 2 ans | Salaire: 25 - 28"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_technicien_chimiste_developpement_analytique_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Technicien chimiste/développement analytique",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "28 - 30",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Technicien chimiste/développement analytique | Ancienneté: 2 - 5 ans | Salaire: 28 - 30"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_technicien_chimiste_developpement_analytique_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Technicien chimiste/développement analytique",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "30 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Technicien chimiste/développement analytique | Ancienneté: 5 - 10 ans | Salaire: 30 - 35"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_technicien_chimiste_developpement_analytique_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Technicien chimiste/développement analytique",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "35 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Technicien chimiste/développement analytique | Ancienneté: 10 - 15 ans et + | Salaire: 35 - 38"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_chef_de_projet_etudes_cliniques_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chef de projet études cliniques",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Chef de projet études cliniques | Ancienneté: 0 - 2 ans | Salaire: 45 - 50"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_chef_de_projet_etudes_cliniques_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chef de projet études cliniques",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "50 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Chef de projet études cliniques | Ancienneté: 2 - 5 ans | Salaire: 50 - 60"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_chef_de_projet_etudes_cliniques_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chef de projet études cliniques",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "60 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Chef de projet études cliniques | Ancienneté: 5 - 10 ans | Salaire: 60 - 70"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_chef_de_projet_etudes_cliniques_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chef de projet études cliniques",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "70 - 80",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Chef de projet études cliniques | Ancienneté: 10 - 15 ans et + | Salaire: 70 - 80"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_arc_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "ARC",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: ARC | Ancienneté: 0 - 2 ans | Salaire: 40 - 45"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_arc_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "ARC",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "45 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: ARC | Ancienneté: 2 - 5 ans | Salaire: 45 - 55"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_arc_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "ARC",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "55 - 65",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: ARC | Ancienneté: 5 - 10 ans | Salaire: 55 - 65"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_arc_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "ARC",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "65 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: ARC | Ancienneté: 10 - 15 ans et + | Salaire: 65 - 70"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_responsable_biometrie_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable biométrie",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Responsable biométrie | Ancienneté: 0 - 2 ans | Salaire: 45 - 50"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_responsable_biometrie_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable biométrie",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "50 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Responsable biométrie | Ancienneté: 2 - 5 ans | Salaire: 50 - 60"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_responsable_biometrie_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable biométrie",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "60 - 75",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Responsable biométrie | Ancienneté: 5 - 10 ans | Salaire: 60 - 75"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_responsable_biometrie_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable biométrie",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "75 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Responsable biométrie | Ancienneté: 10 - 15 ans et + | Salaire: 75 - 90"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_assistant_etudes_cliniques_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Assistant études cliniques",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "26 - 30",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Assistant études cliniques | Ancienneté: 0 - 2 ans | Salaire: 26 - 30"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_assistant_etudes_cliniques_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Assistant études cliniques",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "30 - 33",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Assistant études cliniques | Ancienneté: 2 - 5 ans | Salaire: 30 - 33"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_assistant_etudes_cliniques_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Assistant études cliniques",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "33 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Assistant études cliniques | Ancienneté: 5 - 10 ans | Salaire: 33 - 38"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_assistant_etudes_cliniques_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Assistant études cliniques",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "38 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Assistant études cliniques | Ancienneté: 10 - 15 ans et + | Salaire: 38 - 45"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_affaires_medicales_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "AFFAIRES MÉDICALES",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "0 - 2 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: AFFAIRES MÉDICALES | Ancienneté: 0 - 2 ans | Salaire: 0 - 2 ans"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_affaires_medicales_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "AFFAIRES MÉDICALES",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "2 - 5 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: AFFAIRES MÉDICALES | Ancienneté: 2 - 5 ans | Salaire: 2 - 5 ans"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_affaires_medicales_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "AFFAIRES MÉDICALES",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "5 - 10 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: AFFAIRES MÉDICALES | Ancienneté: 5 - 10 ans | Salaire: 5 - 10 ans"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_affaires_medicales_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "AFFAIRES MÉDICALES",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "10 - 15 ans et +",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: AFFAIRES MÉDICALES | Ancienneté: 10 - 15 ans et + | Salaire: 10 - 15 ans et +"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_directeur_medical_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur médical",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "70 - 80",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Directeur médical | Ancienneté: 0 - 2 ans | Salaire: 70 - 80"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_directeur_medical_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur médical",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "80 - 110",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Directeur médical | Ancienneté: 2 - 5 ans | Salaire: 80 - 110"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_directeur_medical_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur médical",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "110 - 125",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Directeur médical | Ancienneté: 5 - 10 ans | Salaire: 110 - 125"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_directeur_medical_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur médical",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "125 - 150",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Directeur médical | Ancienneté: 10 - 15 ans et + | Salaire: 125 - 150"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_medical_science_liaison_msl_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Medical science liaison/MSL",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "60 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Medical science liaison/MSL | Ancienneté: 0 - 2 ans | Salaire: 60 - 70"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_medical_science_liaison_msl_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Medical science liaison/MSL",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "70 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Medical science liaison/MSL | Ancienneté: 2 - 5 ans | Salaire: 70 - 90"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_medical_science_liaison_msl_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Medical science liaison/MSL",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "90 - 110",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Medical science liaison/MSL | Ancienneté: 5 - 10 ans | Salaire: 90 - 110"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_medical_science_liaison_msl_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Medical science liaison/MSL",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "110 - 130",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Medical science liaison/MSL | Ancienneté: 10 - 15 ans et + | Salaire: 110 - 130"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_medecin_produit_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Médecin produit",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "70 - 75",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Médecin produit | Ancienneté: 0 - 2 ans | Salaire: 70 - 75"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_medecin_produit_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Médecin produit",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "75 - 80",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Médecin produit | Ancienneté: 2 - 5 ans | Salaire: 75 - 80"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_medecin_produit_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Médecin produit",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "80 - 100",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Médecin produit | Ancienneté: 5 - 10 ans | Salaire: 80 - 100"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_medecin_produit_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Médecin produit",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "100 - 150",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Médecin produit | Ancienneté: 10 - 15 ans et + | Salaire: 100 - 150"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_assistant_d_affaires_medicales_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Assistant d'affaires médicales",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "35 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Assistant d'affaires médicales | Ancienneté: 0 - 2 ans | Salaire: 35 - 38"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_assistant_d_affaires_medicales_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Assistant d'affaires médicales",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "38 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Assistant d'affaires médicales | Ancienneté: 2 - 5 ans | Salaire: 38 - 40"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_assistant_d_affaires_medicales_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Assistant d'affaires médicales",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Assistant d'affaires médicales | Ancienneté: 5 - 10 ans | Salaire: 40 - 45"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_assistant_d_affaires_medicales_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Assistant d'affaires médicales",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Assistant d'affaires médicales | Ancienneté: 10 - 15 ans et + | Salaire: 45 - 50"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_affaires_pharmaceutiques_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "AFFAIRES PHARMACEUTIQUES",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "0 - 2 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: AFFAIRES PHARMACEUTIQUES | Ancienneté: 0 - 2 ans | Salaire: 0 - 2 ans"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_affaires_pharmaceutiques_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "AFFAIRES PHARMACEUTIQUES",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "2 - 5 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: AFFAIRES PHARMACEUTIQUES | Ancienneté: 2 - 5 ans | Salaire: 2 - 5 ans"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_affaires_pharmaceutiques_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "AFFAIRES PHARMACEUTIQUES",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "5 - 10 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: AFFAIRES PHARMACEUTIQUES | Ancienneté: 5 - 10 ans | Salaire: 5 - 10 ans"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_affaires_pharmaceutiques_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "AFFAIRES PHARMACEUTIQUES",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "10 - 15 ans et +",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: AFFAIRES PHARMACEUTIQUES | Ancienneté: 10 - 15 ans et + | Salaire: 10 - 15 ans et +"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_pharmacien_responsable_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien responsable",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "65 - 75",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien responsable | Ancienneté: 0 - 2 ans | Salaire: 65 - 75"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_pharmacien_responsable_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien responsable",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "75 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien responsable | Ancienneté: 2 - 5 ans | Salaire: 75 - 90"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_pharmacien_responsable_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien responsable",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "90 - 110",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien responsable | Ancienneté: 5 - 10 ans | Salaire: 90 - 110"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_pharmacien_responsable_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien responsable",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "110 - 150",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien responsable | Ancienneté: 10 - 15 ans et + | Salaire: 110 - 150"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_directeur_d_affaires_reglementaires_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur d'affaires réglementaires",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "70 - 80",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Directeur d'affaires réglementaires | Ancienneté: 0 - 2 ans | Salaire: 70 - 80"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_directeur_d_affaires_reglementaires_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur d'affaires réglementaires",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "75 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Directeur d'affaires réglementaires | Ancienneté: 2 - 5 ans | Salaire: 75 - 90"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_directeur_d_affaires_reglementaires_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur d'affaires réglementaires",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "90 - 110",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Directeur d'affaires réglementaires | Ancienneté: 5 - 10 ans | Salaire: 90 - 110"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_directeur_d_affaires_reglementaires_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur d'affaires réglementaires",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "110 - 150",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Directeur d'affaires réglementaires | Ancienneté: 10 - 15 ans et + | Salaire: 110 - 150"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_pharmacien_d_affaires_reglementaires_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien d'affaires réglementaires",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien d'affaires réglementaires | Ancienneté: 0 - 2 ans | Salaire: 40 - 45"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_pharmacien_d_affaires_reglementaires_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien d'affaires réglementaires",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "45 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien d'affaires réglementaires | Ancienneté: 2 - 5 ans | Salaire: 45 - 55"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_pharmacien_d_affaires_reglementaires_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien d'affaires réglementaires",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "55 - 75",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien d'affaires réglementaires | Ancienneté: 5 - 10 ans | Salaire: 55 - 75"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_pharmacien_d_affaires_reglementaires_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien d'affaires réglementaires",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "75 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien d'affaires réglementaires | Ancienneté: 10 - 15 ans et + | Salaire: 75 - 90"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_pharmacien_technico_reglementaires_cmc_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien technico - réglementaires/CMC",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien technico - réglementaires/CMC | Ancienneté: 0 - 2 ans | Salaire: 40 - 45"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_pharmacien_technico_reglementaires_cmc_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien technico - réglementaires/CMC",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "45 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien technico - réglementaires/CMC | Ancienneté: 2 - 5 ans | Salaire: 45 - 55"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_pharmacien_technico_reglementaires_cmc_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien technico - réglementaires/CMC",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "55 - 75",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien technico - réglementaires/CMC | Ancienneté: 5 - 10 ans | Salaire: 55 - 75"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_pharmacien_technico_reglementaires_cmc_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien technico - réglementaires/CMC",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "75 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien technico - réglementaires/CMC | Ancienneté: 10 - 15 ans et + | Salaire: 75 - 90"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_pharmacien_controle_publicite_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien contrôle publicité",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien contrôle publicité | Ancienneté: 0 - 2 ans | Salaire: 40 - 45"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_pharmacien_controle_publicite_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien contrôle publicité",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "45 - 44",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien contrôle publicité | Ancienneté: 2 - 5 ans | Salaire: 45 - 44"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_pharmacien_controle_publicite_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien contrôle publicité",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "55 - 75",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien contrôle publicité | Ancienneté: 5 - 10 ans | Salaire: 55 - 75"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_pharmacien_controle_publicite_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien contrôle publicité",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "75 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien contrôle publicité | Ancienneté: 10 - 15 ans et + | Salaire: 75 - 90"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_assistant_d_affaires_reglementaires_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Assistant d'affaires réglementaires",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "30 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Assistant d'affaires réglementaires | Ancienneté: 0 - 2 ans | Salaire: 30 - 35"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_assistant_d_affaires_reglementaires_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Assistant d'affaires réglementaires",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "35 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Assistant d'affaires réglementaires | Ancienneté: 2 - 5 ans | Salaire: 35 - 40"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_assistant_d_affaires_reglementaires_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Assistant d'affaires réglementaires",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Assistant d'affaires réglementaires | Ancienneté: 5 - 10 ans | Salaire: 40 - 45"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_assistant_d_affaires_reglementaires_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Assistant d'affaires réglementaires",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Assistant d'affaires réglementaires | Ancienneté: 10 - 15 ans et + | Salaire: 45 - 50"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_pharmacien_assurance_qualite_produit_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien assurance qualité produit",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien assurance qualité produit | Ancienneté: 0 - 2 ans | Salaire: 40 - 45"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_pharmacien_assurance_qualite_produit_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien assurance qualité produit",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "45 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien assurance qualité produit | Ancienneté: 2 - 5 ans | Salaire: 45 - 55"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_pharmacien_assurance_qualite_produit_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien assurance qualité produit",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "55 - 75",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien assurance qualité produit | Ancienneté: 5 - 10 ans | Salaire: 55 - 75"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_pharmacien_assurance_qualite_produit_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien assurance qualité produit",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "75 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien assurance qualité produit | Ancienneté: 10 - 15 ans et + | Salaire: 75 - 90"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_medecin_pharmacovigilance_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Médecin pharmacovigilance",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "70 - 80",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Médecin pharmacovigilance | Ancienneté: 0 - 2 ans | Salaire: 70 - 80"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_medecin_pharmacovigilance_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Médecin pharmacovigilance",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "80 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Médecin pharmacovigilance | Ancienneté: 2 - 5 ans | Salaire: 80 - 90"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_medecin_pharmacovigilance_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Médecin pharmacovigilance",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "90 - 110",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Médecin pharmacovigilance | Ancienneté: 5 - 10 ans | Salaire: 90 - 110"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_medecin_pharmacovigilance_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Médecin pharmacovigilance",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "110 - 130",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Médecin pharmacovigilance | Ancienneté: 10 - 15 ans et + | Salaire: 110 - 130"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_pharmacien_pharmacovigilance_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien pharmacovigilance",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien pharmacovigilance | Ancienneté: 0 - 2 ans | Salaire: 40 - 45"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_pharmacien_pharmacovigilance_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien pharmacovigilance",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "45 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien pharmacovigilance | Ancienneté: 2 - 5 ans | Salaire: 45 - 55"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_pharmacien_pharmacovigilance_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien pharmacovigilance",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "55 - 75",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien pharmacovigilance | Ancienneté: 5 - 10 ans | Salaire: 55 - 75"
+  },
+  {
+    "id": "life_sciences_nos_grilles_de_salaires_pharmacien_pharmacovigilance_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien pharmacovigilance",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "75 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien pharmacovigilance | Ancienneté: 10 - 15 ans et + | Salaire: 75 - 90"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_assistant_information_medicale_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Assistant information médicale",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "30 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Assistant information médicale | Ancienneté: 0 - 2 ans | Salaire: 30 - 35"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_assistant_information_medicale_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Assistant information médicale",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "35 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Assistant information médicale | Ancienneté: 2 - 5 ans | Salaire: 35 - 40"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_assistant_information_medicale_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Assistant information médicale",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Assistant information médicale | Ancienneté: 5 - 10 ans | Salaire: 40 - 45"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_assistant_information_medicale_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Assistant information médicale",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Assistant information médicale | Ancienneté: 10 - 15 ans et + | Salaire: 45 - 50"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_compliance_transparence_dmos_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "COMPLIANCE/TRANSPARENCE/DMOS",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "0 - 2 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: COMPLIANCE/TRANSPARENCE/DMOS | Ancienneté: 0 - 2 ans | Salaire: 0 - 2 ans"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_compliance_transparence_dmos_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "COMPLIANCE/TRANSPARENCE/DMOS",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "2 - 5 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: COMPLIANCE/TRANSPARENCE/DMOS | Ancienneté: 2 - 5 ans | Salaire: 2 - 5 ans"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_compliance_transparence_dmos_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "COMPLIANCE/TRANSPARENCE/DMOS",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "5 - 10 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: COMPLIANCE/TRANSPARENCE/DMOS | Ancienneté: 5 - 10 ans | Salaire: 5 - 10 ans"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_compliance_transparence_dmos_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "COMPLIANCE/TRANSPARENCE/DMOS",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "10 - 15 ans et +",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: COMPLIANCE/TRANSPARENCE/DMOS | Ancienneté: 10 - 15 ans et + | Salaire: 10 - 15 ans et +"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_responsable_transparence_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Responsable transparence",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Responsable transparence | Ancienneté: 0 - 2 ans | Salaire: 40 - 45"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_responsable_transparence_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Responsable transparence",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "45 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Responsable transparence | Ancienneté: 2 - 5 ans | Salaire: 45 - 55"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_responsable_transparence_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Responsable transparence",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "55 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Responsable transparence | Ancienneté: 5 - 10 ans | Salaire: 55 - 70"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_responsable_transparence_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Responsable transparence",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "70 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Responsable transparence | Ancienneté: 10 - 15 ans et + | Salaire: 70 - 90"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_charge_dmos_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Chargé DMOS",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "35 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Chargé DMOS | Ancienneté: 0 - 2 ans | Salaire: 35 - 38"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_charge_dmos_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Chargé DMOS",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "38 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Chargé DMOS | Ancienneté: 2 - 5 ans | Salaire: 38 - 45"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_charge_dmos_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Chargé DMOS",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "45 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Chargé DMOS | Ancienneté: 5 - 10 ans | Salaire: 45 - 60"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_charge_dmos_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Chargé DMOS",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "60 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Chargé DMOS | Ancienneté: 10 - 15 ans et + | Salaire: 60 - 70"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_assistant_dmos_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Assistant DMOS",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "30 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Assistant DMOS | Ancienneté: 0 - 2 ans | Salaire: 30 - 35"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_assistant_dmos_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Assistant DMOS",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "35 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Assistant DMOS | Ancienneté: 2 - 5 ans | Salaire: 35 - 38"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_assistant_dmos_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Assistant DMOS",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "38 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Assistant DMOS | Ancienneté: 5 - 10 ans | Salaire: 38 - 45"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_assistant_dmos_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Assistant DMOS",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "45 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Assistant DMOS | Ancienneté: 10 - 15 ans et + | Salaire: 45 - 55"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_responsable_market_access_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Responsable market access",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "48 - 58",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Responsable market access | Ancienneté: 0 - 2 ans | Salaire: 48 - 58"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_responsable_market_access_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Responsable market access",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "58 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Responsable market access | Ancienneté: 2 - 5 ans | Salaire: 58 - 70"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_responsable_market_access_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Responsable market access",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "70 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Responsable market access | Ancienneté: 5 - 10 ans | Salaire: 70 - 90"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_responsable_market_access_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Responsable market access",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "90 - 110",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Responsable market access | Ancienneté: 10 - 15 ans et + | Salaire: 90 - 110"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_marketing_commercial_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "MARKETING/COMMERCIAL",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "0 - 2 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: MARKETING/COMMERCIAL | Ancienneté: 0 - 2 ans | Salaire: 0 - 2 ans"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_marketing_commercial_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "MARKETING/COMMERCIAL",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "2 - 5 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: MARKETING/COMMERCIAL | Ancienneté: 2 - 5 ans | Salaire: 2 - 5 ans"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_marketing_commercial_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "MARKETING/COMMERCIAL",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "5 - 10 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: MARKETING/COMMERCIAL | Ancienneté: 5 - 10 ans | Salaire: 5 - 10 ans"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_marketing_commercial_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "MARKETING/COMMERCIAL",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "10 - 15 ans et +",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: MARKETING/COMMERCIAL | Ancienneté: 10 - 15 ans et + | Salaire: 10 - 15 ans et +"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_directeur_marketing_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Directeur marketing",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "65 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Directeur marketing | Ancienneté: 0 - 2 ans | Salaire: 65 - 70"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_directeur_marketing_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Directeur marketing",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "70 - 85",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Directeur marketing | Ancienneté: 2 - 5 ans | Salaire: 70 - 85"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_directeur_marketing_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Directeur marketing",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "85 - 120",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Directeur marketing | Ancienneté: 5 - 10 ans | Salaire: 85 - 120"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_directeur_marketing_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Directeur marketing",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "120 - 145",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Directeur marketing | Ancienneté: 10 - 15 ans et + | Salaire: 120 - 145"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_chef_de_gamme_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Chef de gamme",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Chef de gamme | Ancienneté: 0 - 2 ans | Salaire: 45 - 50"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_chef_de_gamme_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Chef de gamme",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "50 - 65",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Chef de gamme | Ancienneté: 2 - 5 ans | Salaire: 50 - 65"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_chef_de_gamme_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Chef de gamme",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "65 - 80",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Chef de gamme | Ancienneté: 5 - 10 ans | Salaire: 65 - 80"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_chef_de_gamme_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Chef de gamme",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "80 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Chef de gamme | Ancienneté: 10 - 15 ans et + | Salaire: 80 - 90"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_chef_de_produit_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Chef de produit",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "33 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Chef de produit | Ancienneté: 0 - 2 ans | Salaire: 33 - 38"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_chef_de_produit_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Chef de produit",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "38 - 48",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Chef de produit | Ancienneté: 2 - 5 ans | Salaire: 38 - 48"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_chef_de_produit_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Chef de produit",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "48 - 65",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Chef de produit | Ancienneté: 5 - 10 ans | Salaire: 48 - 65"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_chef_de_produit_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Chef de produit",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "65 - 75",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Chef de produit | Ancienneté: 10 - 15 ans et + | Salaire: 65 - 75"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_assistant_chef_de_produits_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Assistant chef de produits",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "27 - 30",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Assistant chef de produits | Ancienneté: 0 - 2 ans | Salaire: 27 - 30"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_assistant_chef_de_produits_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Assistant chef de produits",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "30 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Assistant chef de produits | Ancienneté: 2 - 5 ans | Salaire: 30 - 35"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_assistant_chef_de_produits_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Assistant chef de produits",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "35 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Assistant chef de produits | Ancienneté: 5 - 10 ans | Salaire: 35 - 40"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_assistant_chef_de_produits_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Assistant chef de produits",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Assistant chef de produits | Ancienneté: 10 - 15 ans et + | Salaire: 40 - 45"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_directeur_des_ventes_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Directeur des ventes",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "70 - 80",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Directeur des ventes | Ancienneté: 0 - 2 ans | Salaire: 70 - 80"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_directeur_des_ventes_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Directeur des ventes",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "80 - 100",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Directeur des ventes | Ancienneté: 2 - 5 ans | Salaire: 80 - 100"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_directeur_des_ventes_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Directeur des ventes",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "100 - 120",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Directeur des ventes | Ancienneté: 5 - 10 ans | Salaire: 100 - 120"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_directeur_des_ventes_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Directeur des ventes",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "120 - 140",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Directeur des ventes | Ancienneté: 10 - 15 ans et + | Salaire: 120 - 140"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_directeur_de_zone_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Directeur de zone",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "65 - 75",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Directeur de zone | Ancienneté: 0 - 2 ans | Salaire: 65 - 75"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_directeur_de_zone_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Directeur de zone",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "75 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Directeur de zone | Ancienneté: 2 - 5 ans | Salaire: 75 - 90"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_directeur_de_zone_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Directeur de zone",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "90 - 110",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Directeur de zone | Ancienneté: 5 - 10 ans | Salaire: 90 - 110"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_directeur_de_zone_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Directeur de zone",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "110 - 130",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Directeur de zone | Ancienneté: 10 - 15 ans et + | Salaire: 110 - 130"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_directeur_regional_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Directeur régional",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "65 - 75",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Directeur régional | Ancienneté: 0 - 2 ans | Salaire: 65 - 75"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_directeur_regional_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Directeur régional",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "75 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Directeur régional | Ancienneté: 2 - 5 ans | Salaire: 75 - 90"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_directeur_regional_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Directeur régional",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "90 - 110",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Directeur régional | Ancienneté: 5 - 10 ans | Salaire: 90 - 110"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_directeur_regional_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Directeur régional",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "110 - 130",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Directeur régional | Ancienneté: 10 - 15 ans et + | Salaire: 110 - 130"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_delegue_hospitalier_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Délégué hospitalier",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "30 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Délégué hospitalier | Ancienneté: 0 - 2 ans | Salaire: 30 - 35"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_delegue_hospitalier_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Délégué hospitalier",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "35 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Délégué hospitalier | Ancienneté: 2 - 5 ans | Salaire: 35 - 40"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_delegue_hospitalier_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Délégué hospitalier",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "40 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Délégué hospitalier | Ancienneté: 5 - 10 ans | Salaire: 40 - 55"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_delegue_hospitalier_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Délégué hospitalier",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "55 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Délégué hospitalier | Ancienneté: 10 - 15 ans et + | Salaire: 55 - 70"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_delegue_medical_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Délégué médical",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "30 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Délégué médical | Ancienneté: 0 - 2 ans | Salaire: 30 - 35"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_delegue_medical_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Délégué médical",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "35 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Délégué médical | Ancienneté: 2 - 5 ans | Salaire: 35 - 40"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_delegue_medical_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Délégué médical",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "40 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Délégué médical | Ancienneté: 5 - 10 ans | Salaire: 40 - 55"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_delegue_medical_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Délégué médical",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "55 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Délégué médical | Ancienneté: 10 - 15 ans et + | Salaire: 55 - 70"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_delegue_pharmaceutique_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Délégué pharmaceutique",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "30 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Délégué pharmaceutique | Ancienneté: 0 - 2 ans | Salaire: 30 - 35"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_delegue_pharmaceutique_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Délégué pharmaceutique",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "35 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Délégué pharmaceutique | Ancienneté: 2 - 5 ans | Salaire: 35 - 40"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_delegue_pharmaceutique_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Délégué pharmaceutique",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "40 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Délégué pharmaceutique | Ancienneté: 5 - 10 ans | Salaire: 40 - 55"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_delegue_pharmaceutique_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Délégué pharmaceutique",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "55 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Délégué pharmaceutique | Ancienneté: 10 - 15 ans et + | Salaire: 55 - 70"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_business_analyst_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Business analyst",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "38 - 42",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Business analyst | Ancienneté: 0 - 2 ans | Salaire: 38 - 42"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_business_analyst_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Business analyst",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "42 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Business analyst | Ancienneté: 2 - 5 ans | Salaire: 42 - 45"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_business_analyst_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Business analyst",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "45 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Business analyst | Ancienneté: 5 - 10 ans | Salaire: 45 - 55"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_business_analyst_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Business analyst",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "55 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Business analyst | Ancienneté: 10 - 15 ans et + | Salaire: 55 - 70"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_gestionnaire_base_de_donnees_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Gestionnaire base de données",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "28 - 32",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Gestionnaire base de données | Ancienneté: 0 - 2 ans | Salaire: 28 - 32"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_gestionnaire_base_de_donnees_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Gestionnaire base de données",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "32 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Gestionnaire base de données | Ancienneté: 2 - 5 ans | Salaire: 32 - 35"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_gestionnaire_base_de_donnees_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Gestionnaire base de données",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "35 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Gestionnaire base de données | Ancienneté: 5 - 10 ans | Salaire: 35 - 50"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_gestionnaire_base_de_donnees_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Gestionnaire base de données",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "50 - 65",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Gestionnaire base de données | Ancienneté: 10 - 15 ans et + | Salaire: 50 - 65"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_production_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "PRODUCTION",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "0 - 2 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: PRODUCTION | Ancienneté: 0 - 2 ans | Salaire: 0 - 2 ans"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_production_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "PRODUCTION",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "2 - 5 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: PRODUCTION | Ancienneté: 2 - 5 ans | Salaire: 2 - 5 ans"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_production_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "PRODUCTION",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "5 - 10 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: PRODUCTION | Ancienneté: 5 - 10 ans | Salaire: 5 - 10 ans"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_production_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "PRODUCTION",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "10 - 15 ans et +",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: PRODUCTION | Ancienneté: 10 - 15 ans et + | Salaire: 10 - 15 ans et +"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_directeur_industriel_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Directeur industriel",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "90 - 100",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Directeur industriel | Ancienneté: 0 - 2 ans | Salaire: 90 - 100"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_directeur_industriel_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Directeur industriel",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "100 - 110",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Directeur industriel | Ancienneté: 2 - 5 ans | Salaire: 100 - 110"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_directeur_industriel_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Directeur industriel",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "110 - 125",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Directeur industriel | Ancienneté: 5 - 10 ans | Salaire: 110 - 125"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_directeur_industriel_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Directeur industriel",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "125 - 150",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Directeur industriel | Ancienneté: 10 - 15 ans et + | Salaire: 125 - 150"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_pharmacien_production_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Pharmacien production",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "42 - 47",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Pharmacien production | Ancienneté: 0 - 2 ans | Salaire: 42 - 47"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_pharmacien_production_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Pharmacien production",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "47 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Pharmacien production | Ancienneté: 2 - 5 ans | Salaire: 47 - 55"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_pharmacien_production_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Pharmacien production",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "55 - 80",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Pharmacien production | Ancienneté: 5 - 10 ans | Salaire: 55 - 80"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_pharmacien_production_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Pharmacien production",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "80 - 110",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Pharmacien production | Ancienneté: 10 - 15 ans et + | Salaire: 80 - 110"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_technicien_production_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Technicien production",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "24 - 28",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Technicien production | Ancienneté: 0 - 2 ans | Salaire: 24 - 28"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_technicien_production_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Technicien production",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "28 - 32",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Technicien production | Ancienneté: 2 - 5 ans | Salaire: 28 - 32"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_technicien_production_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Technicien production",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "32 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Technicien production | Ancienneté: 5 - 10 ans | Salaire: 32 - 35"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_technicien_production_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Technicien production",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "35 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Technicien production | Ancienneté: 10 - 15 ans et + | Salaire: 35 - 40"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_conducteur_de_ligne_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Conducteur de ligne",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "24 - 28",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Conducteur de ligne | Ancienneté: 0 - 2 ans | Salaire: 24 - 28"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_conducteur_de_ligne_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Conducteur de ligne",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "28 - 32",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Conducteur de ligne | Ancienneté: 2 - 5 ans | Salaire: 28 - 32"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_conducteur_de_ligne_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Conducteur de ligne",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "32 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Conducteur de ligne | Ancienneté: 5 - 10 ans | Salaire: 32 - 38"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_conducteur_de_ligne_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Conducteur de ligne",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "38 - 42",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Conducteur de ligne | Ancienneté: 10 - 15 ans et + | Salaire: 38 - 42"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_responsable_fabrication_conditionnement_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Responsable fabrication/conditionnement",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Responsable fabrication/conditionnement | Ancienneté: 0 - 2 ans | Salaire: 40 - 50"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_responsable_fabrication_conditionnement_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Responsable fabrication/conditionnement",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "50 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Responsable fabrication/conditionnement | Ancienneté: 2 - 5 ans | Salaire: 50 - 60"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_responsable_fabrication_conditionnement_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Responsable fabrication/conditionnement",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "60 - 75",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Responsable fabrication/conditionnement | Ancienneté: 5 - 10 ans | Salaire: 60 - 75"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_responsable_fabrication_conditionnement_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Responsable fabrication/conditionnement",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "75 - 85",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Responsable fabrication/conditionnement | Ancienneté: 10 - 15 ans et + | Salaire: 75 - 85"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_technicien_fabrication_conditionnement_0_2_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Technicien fabrication/conditionnement",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "24 - 28",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Technicien fabrication/conditionnement | Ancienneté: 0 - 2 ans | Salaire: 24 - 28"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_technicien_fabrication_conditionnement_2_5_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Technicien fabrication/conditionnement",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "28 - 32",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Technicien fabrication/conditionnement | Ancienneté: 2 - 5 ans | Salaire: 28 - 32"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_technicien_fabrication_conditionnement_5_10_ans",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Technicien fabrication/conditionnement",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "32 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Technicien fabrication/conditionnement | Ancienneté: 5 - 10 ans | Salaire: 32 - 38"
+  },
+  {
+    "id": "life_sciences_assistant_pharmacovigilance_30_35_35_40_40_45_45_50_technicien_fabrication_conditionnement_10_15_ans_et",
+    "famille": "Life Sciences",
+    "sous_categorie": "Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50",
+    "poste": "Technicien fabrication/conditionnement",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "38 - 42",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "life_sciences_pond_reg"
+    ],
+    "text": "Famille: Life Sciences | Sous - catégorie: Assistant pharmacovigilance 30 - 35 35 - 40 40 - 45 45 - 50 | Poste: Technicien fabrication/conditionnement | Ancienneté: 10 - 15 ans et + | Salaire: 38 - 42"
+  }
+]

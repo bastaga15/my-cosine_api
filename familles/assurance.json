@@ -1,0 +1,2410 @@
+[
+  {
+    "id": "assurance_nos_grilles_de_salaires_assurance_de_personnes_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "ASSURANCE DE PERSONNES",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "0 - 2 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: ASSURANCE DE PERSONNES | Ancienneté: 0 - 2 ans | Salaire: 0 - 2 ans"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_assurance_de_personnes_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "ASSURANCE DE PERSONNES",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "2 - 5 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: ASSURANCE DE PERSONNES | Ancienneté: 2 - 5 ans | Salaire: 2 - 5 ans"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_assurance_de_personnes_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "ASSURANCE DE PERSONNES",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "5 - 10 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: ASSURANCE DE PERSONNES | Ancienneté: 5 - 10 ans | Salaire: 5 - 10 ans"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_assurance_de_personnes_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "ASSURANCE DE PERSONNES",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "10 - 15 ans et +",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: ASSURANCE DE PERSONNES | Ancienneté: 10 - 15 ans et + | Salaire: 10 - 15 ans et +"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_sante_prevoyance_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire santé/prévoyance",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "26 - 28",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire santé/prévoyance | Ancienneté: 0 - 2 ans | Salaire: 26 - 28"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_sante_prevoyance_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire santé/prévoyance",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "29 - 30",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire santé/prévoyance | Ancienneté: 2 - 5 ans | Salaire: 29 - 30"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_sante_prevoyance_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire santé/prévoyance",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "30 - 31",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire santé/prévoyance | Ancienneté: 5 - 10 ans | Salaire: 30 - 31"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_sante_prevoyance_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire santé/prévoyance",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "32 - 33",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire santé/prévoyance | Ancienneté: 10 - 15 ans et + | Salaire: 32 - 33"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_de_sinistres_corporels_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire de sinistres corporels",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "38 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire de sinistres corporels | Ancienneté: 0 - 2 ans | Salaire: 38 - 40"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_de_sinistres_corporels_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire de sinistres corporels",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "40 - 43",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire de sinistres corporels | Ancienneté: 2 - 5 ans | Salaire: 40 - 43"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_de_sinistres_corporels_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire de sinistres corporels",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "43 - 48",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire de sinistres corporels | Ancienneté: 5 - 10 ans | Salaire: 43 - 48"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_de_sinistres_corporels_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire de sinistres corporels",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "48 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire de sinistres corporels | Ancienneté: 10 - 15 ans et + | Salaire: 48 - 55"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_vie_succession_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire vie/succession",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "29 - 32",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire vie/succession | Ancienneté: 0 - 2 ans | Salaire: 29 - 32"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_vie_succession_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire vie/succession",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "32 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire vie/succession | Ancienneté: 2 - 5 ans | Salaire: 32 - 35"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_vie_succession_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire vie/succession",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "35 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire vie/succession | Ancienneté: 5 - 10 ans | Salaire: 35 - 40"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_vie_succession_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire vie/succession",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire vie/succession | Ancienneté: 10 - 15 ans et + | Salaire: 40 - 45"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_tarificateur_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Tarificateur",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "34 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Tarificateur | Ancienneté: 0 - 2 ans | Salaire: 34 - 40"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_tarificateur_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Tarificateur",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Tarificateur | Ancienneté: 2 - 5 ans | Salaire: 40 - 45"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_tarificateur_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Tarificateur",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Tarificateur | Ancienneté: 5 - 10 ans | Salaire: 45 - 50"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_tarificateur_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Tarificateur",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "50 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Tarificateur | Ancienneté: 10 - 15 ans et + | Salaire: 50 - 55"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_frais_de_sante_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire frais de santé",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "26 - 28",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire frais de santé | Ancienneté: 0 - 2 ans | Salaire: 26 - 28"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_frais_de_sante_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire frais de santé",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "29 - 30",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire frais de santé | Ancienneté: 2 - 5 ans | Salaire: 29 - 30"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_frais_de_sante_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire frais de santé",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "30 - 31",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire frais de santé | Ancienneté: 5 - 10 ans | Salaire: 30 - 31"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_frais_de_sante_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire frais de santé",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "31 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire frais de santé | Ancienneté: 10 - 15 ans et + | Salaire: 31 - 35"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_retraite_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire retraite",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "29 - 30",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire retraite | Ancienneté: 0 - 2 ans | Salaire: 29 - 30"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_retraite_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire retraite",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "30 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire retraite | Ancienneté: 2 - 5 ans | Salaire: 30 - 35"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_retraite_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire retraite",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "35 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire retraite | Ancienneté: 5 - 10 ans | Salaire: 35 - 40"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_retraite_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire retraite",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire retraite | Ancienneté: 10 - 15 ans et + | Salaire: 40 - 45"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_assurance_de_biens_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "ASSURANCE DE BIENS",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "0 - 2 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: ASSURANCE DE BIENS | Ancienneté: 0 - 2 ans | Salaire: 0 - 2 ans"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_assurance_de_biens_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "ASSURANCE DE BIENS",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "2 - 5 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: ASSURANCE DE BIENS | Ancienneté: 2 - 5 ans | Salaire: 2 - 5 ans"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_assurance_de_biens_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "ASSURANCE DE BIENS",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "5 - 10 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: ASSURANCE DE BIENS | Ancienneté: 5 - 10 ans | Salaire: 5 - 10 ans"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_assurance_de_biens_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "ASSURANCE DE BIENS",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "10 - 15 ans et +",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: ASSURANCE DE BIENS | Ancienneté: 10 - 15 ans et + | Salaire: 10 - 15 ans et +"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_de_production_iard_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire de production IARD",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "28 - 31",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire de production IARD | Ancienneté: 0 - 2 ans | Salaire: 28 - 31"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_de_production_iard_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire de production IARD",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "31 - 33",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire de production IARD | Ancienneté: 2 - 5 ans | Salaire: 31 - 33"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_de_production_iard_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire de production IARD",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "33 - 36",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire de production IARD | Ancienneté: 5 - 10 ans | Salaire: 33 - 36"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_de_production_iard_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire de production IARD",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "36 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire de production IARD | Ancienneté: 10 - 15 ans et + | Salaire: 36 - 40"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_de_production_dab_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire de production DAB",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "28 - 31",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire de production DAB | Ancienneté: 0 - 2 ans | Salaire: 28 - 31"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_de_production_dab_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire de production DAB",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "31 - 33",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire de production DAB | Ancienneté: 2 - 5 ans | Salaire: 31 - 33"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_de_production_dab_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire de production DAB",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "33 - 36",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire de production DAB | Ancienneté: 5 - 10 ans | Salaire: 33 - 36"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_de_production_dab_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire de production DAB",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "36 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire de production DAB | Ancienneté: 10 - 15 ans et + | Salaire: 36 - 40"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_de_risques_techniques_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire de risques techniques",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "37 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire de risques techniques | Ancienneté: 0 - 2 ans | Salaire: 37 - 40"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_de_risques_techniques_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire de risques techniques",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire de risques techniques | Ancienneté: 2 - 5 ans | Salaire: 40 - 45"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_de_risques_techniques_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire de risques techniques",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire de risques techniques | Ancienneté: 5 - 10 ans | Salaire: 45 - 50"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_de_risques_techniques_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire de risques techniques",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "50 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire de risques techniques | Ancienneté: 10 - 15 ans et + | Salaire: 50 - 60"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_sinistres_iard_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire sinistres IARD",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "31 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire sinistres IARD | Ancienneté: 0 - 2 ans | Salaire: 31 - 35"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_sinistres_iard_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire sinistres IARD",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "35 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire sinistres IARD | Ancienneté: 2 - 5 ans | Salaire: 35 - 38"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_sinistres_iard_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire sinistres IARD",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "39 - 43",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire sinistres IARD | Ancienneté: 5 - 10 ans | Salaire: 39 - 43"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_sinistres_iard_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire sinistres IARD",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "43 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire sinistres IARD | Ancienneté: 10 - 15 ans et + | Salaire: 43 - 50"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_sinistres_dab_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire sinistres DAB",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "36 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire sinistres DAB | Ancienneté: 0 - 2 ans | Salaire: 36 - 40"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_sinistres_dab_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire sinistres DAB",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "40 - 43",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire sinistres DAB | Ancienneté: 2 - 5 ans | Salaire: 40 - 43"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_sinistres_dab_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire sinistres DAB",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "43 - 48",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire sinistres DAB | Ancienneté: 5 - 10 ans | Salaire: 43 - 48"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_sinistres_dab_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire sinistres DAB",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "48 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire sinistres DAB | Ancienneté: 10 - 15 ans et + | Salaire: 48 - 55"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_sinistres_corporels_auto_et_non_auto_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire sinistres corporels (auto & non - auto)",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "39 - 43",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire sinistres corporels (auto & non - auto) | Ancienneté: 0 - 2 ans | Salaire: 39 - 43"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_sinistres_corporels_auto_et_non_auto_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire sinistres corporels (auto & non - auto)",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "43 - 47",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire sinistres corporels (auto & non - auto) | Ancienneté: 2 - 5 ans | Salaire: 43 - 47"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_sinistres_corporels_auto_et_non_auto_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire sinistres corporels (auto & non - auto)",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "47 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire sinistres corporels (auto & non - auto) | Ancienneté: 5 - 10 ans | Salaire: 47 - 50"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_gestionnaire_sinistres_corporels_auto_et_non_auto_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Gestionnaire sinistres corporels (auto & non - auto)",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "50 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Gestionnaire sinistres corporels (auto & non - auto) | Ancienneté: 10 - 15 ans et + | Salaire: 50 - 55"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_soucripteurs_dab_assurances_collectives_rc_construction_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Soucripteurs DAB/assurances collectives/RC/Construction",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Soucripteurs DAB/assurances collectives/RC/Construction | Ancienneté: 0 - 2 ans | Salaire: 40 - 45"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_soucripteurs_dab_assurances_collectives_rc_construction_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Soucripteurs DAB/assurances collectives/RC/Construction",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "45 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Soucripteurs DAB/assurances collectives/RC/Construction | Ancienneté: 2 - 5 ans | Salaire: 45 - 55"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_soucripteurs_dab_assurances_collectives_rc_construction_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Soucripteurs DAB/assurances collectives/RC/Construction",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "55 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Soucripteurs DAB/assurances collectives/RC/Construction | Ancienneté: 5 - 10 ans | Salaire: 55 - 70"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_soucripteurs_dab_assurances_collectives_rc_construction_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Soucripteurs DAB/assurances collectives/RC/Construction",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "70 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Soucripteurs DAB/assurances collectives/RC/Construction | Ancienneté: 10 - 15 ans et + | Salaire: 70 - 90"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_fonctions_commerciales_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "FONCTIONS COMMERCIALES",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "0 - 2 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: FONCTIONS COMMERCIALES | Ancienneté: 0 - 2 ans | Salaire: 0 - 2 ans"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_fonctions_commerciales_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "FONCTIONS COMMERCIALES",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "2 - 5 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: FONCTIONS COMMERCIALES | Ancienneté: 2 - 5 ans | Salaire: 2 - 5 ans"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_fonctions_commerciales_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "FONCTIONS COMMERCIALES",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "5 - 10 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: FONCTIONS COMMERCIALES | Ancienneté: 5 - 10 ans | Salaire: 5 - 10 ans"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_fonctions_commerciales_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "FONCTIONS COMMERCIALES",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "10 - 15 ans et +",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: FONCTIONS COMMERCIALES | Ancienneté: 10 - 15 ans et + | Salaire: 10 - 15 ans et +"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_directeur_commercial_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur commercial",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "80 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Directeur commercial | Ancienneté: 0 - 2 ans | Salaire: 80 - 90"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_directeur_commercial_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur commercial",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "90 - 100",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Directeur commercial | Ancienneté: 2 - 5 ans | Salaire: 90 - 100"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_directeur_commercial_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur commercial",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "100 - 120",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Directeur commercial | Ancienneté: 5 - 10 ans | Salaire: 100 - 120"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_directeur_commercial_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur commercial",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "> 120",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Directeur commercial | Ancienneté: 10 - 15 ans et + | Salaire: > 120"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_commercial_grands_comptes_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Commercial grands comptes",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Commercial grands comptes | Ancienneté: 0 - 2 ans | Salaire: 45 - 50"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_commercial_grands_comptes_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Commercial grands comptes",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "50 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Commercial grands comptes | Ancienneté: 2 - 5 ans | Salaire: 50 - 60"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_commercial_grands_comptes_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Commercial grands comptes",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "60 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Commercial grands comptes | Ancienneté: 5 - 10 ans | Salaire: 60 - 70"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_commercial_grands_comptes_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Commercial grands comptes",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "70 - 80",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Commercial grands comptes | Ancienneté: 10 - 15 ans et + | Salaire: 70 - 80"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_commercial_pme_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Commercial PME",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "30 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Commercial PME | Ancienneté: 0 - 2 ans | Salaire: 30 - 35"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_commercial_pme_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Commercial PME",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "35 - 42",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Commercial PME | Ancienneté: 2 - 5 ans | Salaire: 35 - 42"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_commercial_pme_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Commercial PME",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "42 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Commercial PME | Ancienneté: 5 - 10 ans | Salaire: 42 - 55"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_commercial_pme_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Commercial PME",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "55 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Commercial PME | Ancienneté: 10 - 15 ans et + | Salaire: 55 - 70"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_responsable_d_equipe_plateau_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable d'équipe/plateau",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "38 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Responsable d'équipe/plateau | Ancienneté: 0 - 2 ans | Salaire: 38 - 40"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_responsable_d_equipe_plateau_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable d'équipe/plateau",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "40 - 43",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Responsable d'équipe/plateau | Ancienneté: 2 - 5 ans | Salaire: 40 - 43"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_responsable_d_equipe_plateau_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable d'équipe/plateau",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "43 - 47",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Responsable d'équipe/plateau | Ancienneté: 5 - 10 ans | Salaire: 43 - 47"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_responsable_d_equipe_plateau_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable d'équipe/plateau",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "45 - 51",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Responsable d'équipe/plateau | Ancienneté: 10 - 15 ans et + | Salaire: 45 - 51"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_collaborateur_d_agence_agent_general_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Collaborateur d'agence (agent général)",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "28 - 32",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Collaborateur d'agence (agent général) | Ancienneté: 0 - 2 ans | Salaire: 28 - 32"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_collaborateur_d_agence_agent_general_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Collaborateur d'agence (agent général)",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "32 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Collaborateur d'agence (agent général) | Ancienneté: 2 - 5 ans | Salaire: 32 - 35"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_collaborateur_d_agence_agent_general_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Collaborateur d'agence (agent général)",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "35 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Collaborateur d'agence (agent général) | Ancienneté: 5 - 10 ans | Salaire: 35 - 40"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_collaborateur_d_agence_agent_general_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Collaborateur d'agence (agent général)",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "40 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Collaborateur d'agence (agent général) | Ancienneté: 10 - 15 ans et + | Salaire: 40 - 50"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_charge_de_clientele_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chargé de clientèle",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "30 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Chargé de clientèle | Ancienneté: 0 - 2 ans | Salaire: 30 - 35"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_charge_de_clientele_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chargé de clientèle",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "35 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Chargé de clientèle | Ancienneté: 2 - 5 ans | Salaire: 35 - 40"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_charge_de_clientele_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chargé de clientèle",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "40 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Chargé de clientèle | Ancienneté: 5 - 10 ans | Salaire: 40 - 50"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_charge_de_clientele_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chargé de clientèle",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "50 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Chargé de clientèle | Ancienneté: 10 - 15 ans et + | Salaire: 50 - 70"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_teleconseiller_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Téléconseiller",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "28 - 30",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Téléconseiller | Ancienneté: 0 - 2 ans | Salaire: 28 - 30"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_teleconseiller_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Téléconseiller",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "30 - 32",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Téléconseiller | Ancienneté: 2 - 5 ans | Salaire: 30 - 32"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_teleconseiller_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Téléconseiller",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "32 - 34",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Téléconseiller | Ancienneté: 5 - 10 ans | Salaire: 32 - 34"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_teleconseiller_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Téléconseiller",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "34 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Téléconseiller | Ancienneté: 10 - 15 ans et + | Salaire: 34 - 35"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_inspecteur_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Inspecteur",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "45 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Inspecteur | Ancienneté: 0 - 2 ans | Salaire: 45 - 55"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_inspecteur_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Inspecteur",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "55 - 65",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Inspecteur | Ancienneté: 2 - 5 ans | Salaire: 55 - 65"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_inspecteur_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Inspecteur",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "65 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Inspecteur | Ancienneté: 5 - 10 ans | Salaire: 65 - 70"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_inspecteur_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Inspecteur",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "70 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: Inspecteur | Ancienneté: 10 - 15 ans et + | Salaire: 70 - 90"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_fonctions_transverses_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "FONCTIONS TRANSVERSES",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "0 - 2 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: FONCTIONS TRANSVERSES | Ancienneté: 0 - 2 ans | Salaire: 0 - 2 ans"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_fonctions_transverses_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "FONCTIONS TRANSVERSES",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "2 - 5 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: FONCTIONS TRANSVERSES | Ancienneté: 2 - 5 ans | Salaire: 2 - 5 ans"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_fonctions_transverses_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "FONCTIONS TRANSVERSES",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "5 - 10 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: FONCTIONS TRANSVERSES | Ancienneté: 5 - 10 ans | Salaire: 5 - 10 ans"
+  },
+  {
+    "id": "assurance_nos_grilles_de_salaires_fonctions_transverses_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "FONCTIONS TRANSVERSES",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "10 - 15 ans et +",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: Nos grilles de salaires | Poste: FONCTIONS TRANSVERSES | Ancienneté: 10 - 15 ans et + | Salaire: 10 - 15 ans et +"
+  },
+  {
+    "id": "assurance_aassuurraannccee_charge_d_etudes_actuarielles_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Chargé d'études actuarielles",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Chargé d'études actuarielles | Ancienneté: 0 - 2 ans | Salaire: 45 - 50"
+  },
+  {
+    "id": "assurance_aassuurraannccee_charge_d_etudes_actuarielles_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Chargé d'études actuarielles",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "51 - 56",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Chargé d'études actuarielles | Ancienneté: 2 - 5 ans | Salaire: 51 - 56"
+  },
+  {
+    "id": "assurance_aassuurraannccee_charge_d_etudes_actuarielles_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Chargé d'études actuarielles",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "57 - 62",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Chargé d'études actuarielles | Ancienneté: 5 - 10 ans | Salaire: 57 - 62"
+  },
+  {
+    "id": "assurance_aassuurraannccee_charge_d_etudes_actuarielles_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Chargé d'études actuarielles",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "62 - 80",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Chargé d'études actuarielles | Ancienneté: 10 - 15 ans et + | Salaire: 62 - 80"
+  },
+  {
+    "id": "assurance_aassuurraannccee_assistant_souscription_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Assistant souscription",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "38 - 42",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Assistant souscription | Ancienneté: 0 - 2 ans | Salaire: 38 - 42"
+  },
+  {
+    "id": "assurance_aassuurraannccee_assistant_souscription_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Assistant souscription",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "42 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Assistant souscription | Ancienneté: 2 - 5 ans | Salaire: 42 - 50"
+  },
+  {
+    "id": "assurance_aassuurraannccee_assistant_souscription_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Assistant souscription",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "50 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Assistant souscription | Ancienneté: 5 - 10 ans | Salaire: 50 - 60"
+  },
+  {
+    "id": "assurance_aassuurraannccee_assistant_souscription_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Assistant souscription",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "50 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Assistant souscription | Ancienneté: 10 - 15 ans et + | Salaire: 50 - 60"
+  },
+  {
+    "id": "assurance_aassuurraannccee_directeur_technique_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Directeur technique",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "65 - 85",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Directeur technique | Ancienneté: 0 - 2 ans | Salaire: 65 - 85"
+  },
+  {
+    "id": "assurance_aassuurraannccee_directeur_technique_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Directeur technique",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "80 - 100",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Directeur technique | Ancienneté: 2 - 5 ans | Salaire: 80 - 100"
+  },
+  {
+    "id": "assurance_aassuurraannccee_directeur_technique_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Directeur technique",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "100 - 120",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Directeur technique | Ancienneté: 5 - 10 ans | Salaire: 100 - 120"
+  },
+  {
+    "id": "assurance_aassuurraannccee_directeur_technique_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Directeur technique",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "> 120",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Directeur technique | Ancienneté: 10 - 15 ans et + | Salaire: > 120"
+  },
+  {
+    "id": "assurance_aassuurraannccee_souscripteur_technique_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Souscripteur technique",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Souscripteur technique | Ancienneté: 0 - 2 ans | Salaire: 45 - 50"
+  },
+  {
+    "id": "assurance_aassuurraannccee_souscripteur_technique_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Souscripteur technique",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "50 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Souscripteur technique | Ancienneté: 2 - 5 ans | Salaire: 50 - 60"
+  },
+  {
+    "id": "assurance_aassuurraannccee_souscripteur_technique_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Souscripteur technique",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "60 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Souscripteur technique | Ancienneté: 5 - 10 ans | Salaire: 60 - 70"
+  },
+  {
+    "id": "assurance_aassuurraannccee_souscripteur_technique_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Souscripteur technique",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "70 - 85",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Souscripteur technique | Ancienneté: 10 - 15 ans et + | Salaire: 70 - 85"
+  },
+  {
+    "id": "assurance_aassuurraannccee_directeur_financier_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Directeur financier",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "100 - 110",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Directeur financier | Ancienneté: 0 - 2 ans | Salaire: 100 - 110"
+  },
+  {
+    "id": "assurance_aassuurraannccee_directeur_financier_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Directeur financier",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "110 - 120",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Directeur financier | Ancienneté: 2 - 5 ans | Salaire: 110 - 120"
+  },
+  {
+    "id": "assurance_aassuurraannccee_directeur_financier_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Directeur financier",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "120 - 150",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Directeur financier | Ancienneté: 5 - 10 ans | Salaire: 120 - 150"
+  },
+  {
+    "id": "assurance_aassuurraannccee_directeur_financier_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Directeur financier",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "> 150",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Directeur financier | Ancienneté: 10 - 15 ans et + | Salaire: > 150"
+  },
+  {
+    "id": "assurance_aassuurraannccee_responsable_comptable_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Responsable comptable",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "60 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Responsable comptable | Ancienneté: 0 - 2 ans | Salaire: 60 - 70"
+  },
+  {
+    "id": "assurance_aassuurraannccee_responsable_comptable_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Responsable comptable",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "70 - 80",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Responsable comptable | Ancienneté: 2 - 5 ans | Salaire: 70 - 80"
+  },
+  {
+    "id": "assurance_aassuurraannccee_responsable_comptable_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Responsable comptable",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "80 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Responsable comptable | Ancienneté: 5 - 10 ans | Salaire: 80 - 90"
+  },
+  {
+    "id": "assurance_aassuurraannccee_responsable_comptable_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Responsable comptable",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "> 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Responsable comptable | Ancienneté: 10 - 15 ans et + | Salaire: > 90"
+  },
+  {
+    "id": "assurance_aassuurraannccee_controleur_de_gestion_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Contrôleur de gestion",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Contrôleur de gestion | Ancienneté: 0 - 2 ans | Salaire: 40 - 45"
+  },
+  {
+    "id": "assurance_aassuurraannccee_controleur_de_gestion_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Contrôleur de gestion",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "45 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Contrôleur de gestion | Ancienneté: 2 - 5 ans | Salaire: 45 - 55"
+  },
+  {
+    "id": "assurance_aassuurraannccee_controleur_de_gestion_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Contrôleur de gestion",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "55 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Contrôleur de gestion | Ancienneté: 5 - 10 ans | Salaire: 55 - 70"
+  },
+  {
+    "id": "assurance_aassuurraannccee_controleur_de_gestion_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Contrôleur de gestion",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "70 - 80",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Contrôleur de gestion | Ancienneté: 10 - 15 ans et + | Salaire: 70 - 80"
+  },
+  {
+    "id": "assurance_aassuurraannccee_comptable_technique_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Comptable technique",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 42",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Comptable technique | Ancienneté: 0 - 2 ans | Salaire: 40 - 42"
+  },
+  {
+    "id": "assurance_aassuurraannccee_comptable_technique_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Comptable technique",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "42 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Comptable technique | Ancienneté: 2 - 5 ans | Salaire: 42 - 45"
+  },
+  {
+    "id": "assurance_aassuurraannccee_comptable_technique_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Comptable technique",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Comptable technique | Ancienneté: 5 - 10 ans | Salaire: 45 - 50"
+  },
+  {
+    "id": "assurance_aassuurraannccee_comptable_technique_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Comptable technique",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "50 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Comptable technique | Ancienneté: 10 - 15 ans et + | Salaire: 50 - 60"
+  },
+  {
+    "id": "assurance_aassuurraannccee_tresorier_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Trésorier",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Trésorier | Ancienneté: 0 - 2 ans | Salaire: 40 - 50"
+  },
+  {
+    "id": "assurance_aassuurraannccee_tresorier_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Trésorier",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "50 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Trésorier | Ancienneté: 2 - 5 ans | Salaire: 50 - 60"
+  },
+  {
+    "id": "assurance_aassuurraannccee_tresorier_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Trésorier",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "60 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Trésorier | Ancienneté: 5 - 10 ans | Salaire: 60 - 70"
+  },
+  {
+    "id": "assurance_aassuurraannccee_tresorier_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Trésorier",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "70 - 80",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Trésorier | Ancienneté: 10 - 15 ans et + | Salaire: 70 - 80"
+  },
+  {
+    "id": "assurance_aassuurraannccee_responsable_marketing_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Responsable marketing",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "50 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Responsable marketing | Ancienneté: 0 - 2 ans | Salaire: 50 - 55"
+  },
+  {
+    "id": "assurance_aassuurraannccee_responsable_marketing_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Responsable marketing",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "55 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Responsable marketing | Ancienneté: 2 - 5 ans | Salaire: 55 - 60"
+  },
+  {
+    "id": "assurance_aassuurraannccee_responsable_marketing_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Responsable marketing",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "60 - 75",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Responsable marketing | Ancienneté: 5 - 10 ans | Salaire: 60 - 75"
+  },
+  {
+    "id": "assurance_aassuurraannccee_responsable_marketing_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Responsable marketing",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "75 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Responsable marketing | Ancienneté: 10 - 15 ans et + | Salaire: 75 - 90"
+  },
+  {
+    "id": "assurance_aassuurraannccee_chef_de_produit_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Chef de produit",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "38 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Chef de produit | Ancienneté: 0 - 2 ans | Salaire: 38 - 45"
+  },
+  {
+    "id": "assurance_aassuurraannccee_chef_de_produit_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Chef de produit",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "45 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Chef de produit | Ancienneté: 2 - 5 ans | Salaire: 45 - 55"
+  },
+  {
+    "id": "assurance_aassuurraannccee_chef_de_produit_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Chef de produit",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "55 - 65",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Chef de produit | Ancienneté: 5 - 10 ans | Salaire: 55 - 65"
+  },
+  {
+    "id": "assurance_aassuurraannccee_chef_de_produit_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Chef de produit",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "65 - 75",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Chef de produit | Ancienneté: 10 - 15 ans et + | Salaire: 65 - 75"
+  },
+  {
+    "id": "assurance_aassuurraannccee_charge_d_etudes_marketing_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Chargé d'études marketing",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "35 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Chargé d'études marketing | Ancienneté: 0 - 2 ans | Salaire: 35 - 38"
+  },
+  {
+    "id": "assurance_aassuurraannccee_charge_d_etudes_marketing_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Chargé d'études marketing",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "38 - 42",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Chargé d'études marketing | Ancienneté: 2 - 5 ans | Salaire: 38 - 42"
+  },
+  {
+    "id": "assurance_aassuurraannccee_charge_d_etudes_marketing_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Chargé d'études marketing",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "42 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Chargé d'études marketing | Ancienneté: 5 - 10 ans | Salaire: 42 - 45"
+  },
+  {
+    "id": "assurance_aassuurraannccee_charge_d_etudes_marketing_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Chargé d'études marketing",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "45 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Chargé d'études marketing | Ancienneté: 10 - 15 ans et + | Salaire: 45 - 55"
+  },
+  {
+    "id": "assurance_aassuurraannccee_chef_de_projet_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Chef de projet",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Chef de projet | Ancienneté: 0 - 2 ans | Salaire: 40 - 45"
+  },
+  {
+    "id": "assurance_aassuurraannccee_chef_de_projet_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Chef de projet",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Chef de projet | Ancienneté: 2 - 5 ans | Salaire: 45 - 50"
+  },
+  {
+    "id": "assurance_aassuurraannccee_chef_de_projet_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Chef de projet",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "50 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Chef de projet | Ancienneté: 5 - 10 ans | Salaire: 50 - 60"
+  },
+  {
+    "id": "assurance_aassuurraannccee_chef_de_projet_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Chef de projet",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "60 - 75",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Chef de projet | Ancienneté: 10 - 15 ans et + | Salaire: 60 - 75"
+  },
+  {
+    "id": "assurance_aassuurraannccee_responsable_conformite_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Responsable conformité",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "80 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Responsable conformité | Ancienneté: 0 - 2 ans | Salaire: 80 - 90"
+  },
+  {
+    "id": "assurance_aassuurraannccee_responsable_conformite_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Responsable conformité",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "90 - 100",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Responsable conformité | Ancienneté: 2 - 5 ans | Salaire: 90 - 100"
+  },
+  {
+    "id": "assurance_aassuurraannccee_responsable_conformite_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Responsable conformité",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "100 - 120",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Responsable conformité | Ancienneté: 5 - 10 ans | Salaire: 100 - 120"
+  },
+  {
+    "id": "assurance_aassuurraannccee_responsable_conformite_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Responsable conformité",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "120 - 150",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Responsable conformité | Ancienneté: 10 - 15 ans et + | Salaire: 120 - 150"
+  },
+  {
+    "id": "assurance_aassuurraannccee_charge_de_conformite_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Chargé de conformité",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "35 - 37",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Chargé de conformité | Ancienneté: 0 - 2 ans | Salaire: 35 - 37"
+  },
+  {
+    "id": "assurance_aassuurraannccee_charge_de_conformite_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Chargé de conformité",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "37 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Chargé de conformité | Ancienneté: 2 - 5 ans | Salaire: 37 - 45"
+  },
+  {
+    "id": "assurance_aassuurraannccee_charge_de_conformite_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Chargé de conformité",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "45 - 65",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Chargé de conformité | Ancienneté: 5 - 10 ans | Salaire: 45 - 65"
+  },
+  {
+    "id": "assurance_aassuurraannccee_charge_de_conformite_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Chargé de conformité",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "65 - 80",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Chargé de conformité | Ancienneté: 10 - 15 ans et + | Salaire: 65 - 80"
+  },
+  {
+    "id": "assurance_aassuurraannccee_responsable_risques_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Responsable risques",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "60 - 75",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Responsable risques | Ancienneté: 0 - 2 ans | Salaire: 60 - 75"
+  },
+  {
+    "id": "assurance_aassuurraannccee_responsable_risques_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Responsable risques",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "75 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Responsable risques | Ancienneté: 2 - 5 ans | Salaire: 75 - 90"
+  },
+  {
+    "id": "assurance_aassuurraannccee_responsable_risques_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Responsable risques",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "90 - 110",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Responsable risques | Ancienneté: 5 - 10 ans | Salaire: 90 - 110"
+  },
+  {
+    "id": "assurance_aassuurraannccee_responsable_risques_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Responsable risques",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "> 110",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Responsable risques | Ancienneté: 10 - 15 ans et + | Salaire: > 110"
+  },
+  {
+    "id": "assurance_aassuurraannccee_auditeur_interne_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Auditeur interne",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "35 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Auditeur interne | Ancienneté: 0 - 2 ans | Salaire: 35 - 45"
+  },
+  {
+    "id": "assurance_aassuurraannccee_auditeur_interne_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Auditeur interne",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "45 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Auditeur interne | Ancienneté: 2 - 5 ans | Salaire: 45 - 55"
+  },
+  {
+    "id": "assurance_aassuurraannccee_auditeur_interne_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Auditeur interne",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "55 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Auditeur interne | Ancienneté: 5 - 10 ans | Salaire: 55 - 70"
+  },
+  {
+    "id": "assurance_aassuurraannccee_auditeur_interne_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Auditeur interne",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "70 - 80",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Auditeur interne | Ancienneté: 10 - 15 ans et + | Salaire: 70 - 80"
+  },
+  {
+    "id": "assurance_aassuurraannccee_charge_d_etudes_statistiques_de_reporting_0_2_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Chargé d'études statistiques/de reporting",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "35 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Chargé d'études statistiques/de reporting | Ancienneté: 0 - 2 ans | Salaire: 35 - 38"
+  },
+  {
+    "id": "assurance_aassuurraannccee_charge_d_etudes_statistiques_de_reporting_2_5_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Chargé d'études statistiques/de reporting",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "38 - 42",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Chargé d'études statistiques/de reporting | Ancienneté: 2 - 5 ans | Salaire: 38 - 42"
+  },
+  {
+    "id": "assurance_aassuurraannccee_charge_d_etudes_statistiques_de_reporting_5_10_ans",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Chargé d'études statistiques/de reporting",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "42 - 46",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Chargé d'études statistiques/de reporting | Ancienneté: 5 - 10 ans | Salaire: 42 - 46"
+  },
+  {
+    "id": "assurance_aassuurraannccee_charge_d_etudes_statistiques_de_reporting_10_15_ans_et",
+    "famille": "Assurance",
+    "sous_categorie": "AAssuurraannccee",
+    "poste": "Chargé d'études statistiques/de reporting",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "46 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "assurance_pond_reg"
+    ],
+    "text": "Famille: Assurance | Sous - catégorie: AAssuurraannccee | Poste: Chargé d'études statistiques/de reporting | Ancienneté: 10 - 15 ans et + | Salaire: 46 - 55"
+  }
+]

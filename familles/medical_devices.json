@@ -1,0 +1,1794 @@
+[
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_commerciaux_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "COMMERCIAUX",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "0 - 2 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: COMMERCIAUX | Ancienneté: 0 - 2 ans | Salaire: 0 - 2 ans"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_commerciaux_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "COMMERCIAUX",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "2 - 5 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: COMMERCIAUX | Ancienneté: 2 - 5 ans | Salaire: 2 - 5 ans"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_commerciaux_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "COMMERCIAUX",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "5 - 10 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: COMMERCIAUX | Ancienneté: 5 - 10 ans | Salaire: 5 - 10 ans"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_commerciaux_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "COMMERCIAUX",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "10 - 15 ans et +",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: COMMERCIAUX | Ancienneté: 10 - 15 ans et + | Salaire: 10 - 15 ans et +"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_technico_commercial_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Technico - commercial",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "35 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Technico - commercial | Ancienneté: 0 - 2 ans | Salaire: 35 - 38"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_technico_commercial_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Technico - commercial",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "39 - 43",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Technico - commercial | Ancienneté: 2 - 5 ans | Salaire: 39 - 43"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_technico_commercial_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Technico - commercial",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "43 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Technico - commercial | Ancienneté: 5 - 10 ans | Salaire: 43 - 55"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_technico_commercial_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Technico - commercial",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "55 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Technico - commercial | Ancienneté: 10 - 15 ans et + | Salaire: 55 - 70"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_ingenieur_technico_commercial_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Ingénieur technico - commercial",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "35 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Ingénieur technico - commercial | Ancienneté: 0 - 2 ans | Salaire: 35 - 38"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_ingenieur_technico_commercial_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Ingénieur technico - commercial",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "39 - 43",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Ingénieur technico - commercial | Ancienneté: 2 - 5 ans | Salaire: 39 - 43"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_ingenieur_technico_commercial_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Ingénieur technico - commercial",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "43 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Ingénieur technico - commercial | Ancienneté: 5 - 10 ans | Salaire: 43 - 55"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_ingenieur_technico_commercial_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Ingénieur technico - commercial",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "55 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Ingénieur technico - commercial | Ancienneté: 10 - 15 ans et + | Salaire: 55 - 70"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_responsable_export_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable export",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Responsable export | Ancienneté: 0 - 2 ans | Salaire: 40 - 45"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_responsable_export_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable export",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Responsable export | Ancienneté: 2 - 5 ans | Salaire: 45 - 50"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_responsable_export_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable export",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "50 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Responsable export | Ancienneté: 5 - 10 ans | Salaire: 50 - 60"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_responsable_export_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable export",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "60 - 85",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Responsable export | Ancienneté: 10 - 15 ans et + | Salaire: 60 - 85"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_directeur_regional_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur régional",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "50 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Directeur régional | Ancienneté: 0 - 2 ans | Salaire: 50 - 55"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_directeur_regional_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur régional",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "55 - 65",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Directeur régional | Ancienneté: 2 - 5 ans | Salaire: 55 - 65"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_directeur_regional_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur régional",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "65 - 75",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Directeur régional | Ancienneté: 5 - 10 ans | Salaire: 65 - 75"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_directeur_regional_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur régional",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "75 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Directeur régional | Ancienneté: 10 - 15 ans et + | Salaire: 75 - 90"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_directeur_des_ventes_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur des ventes",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "60 - 75",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Directeur des ventes | Ancienneté: 0 - 2 ans | Salaire: 60 - 75"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_directeur_des_ventes_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur des ventes",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "75 - 85",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Directeur des ventes | Ancienneté: 2 - 5 ans | Salaire: 75 - 85"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_directeur_des_ventes_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur des ventes",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "85 - 100",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Directeur des ventes | Ancienneté: 5 - 10 ans | Salaire: 85 - 100"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_directeur_des_ventes_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur des ventes",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "100 - 110",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Directeur des ventes | Ancienneté: 10 - 15 ans et + | Salaire: 100 - 110"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_directeur_commercial_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur commercial",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "75 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Directeur commercial | Ancienneté: 0 - 2 ans | Salaire: 75 - 90"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_directeur_commercial_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur commercial",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "80 - 95",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Directeur commercial | Ancienneté: 2 - 5 ans | Salaire: 80 - 95"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_directeur_commercial_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur commercial",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "85 - 100",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Directeur commercial | Ancienneté: 5 - 10 ans | Salaire: 85 - 100"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_directeur_commercial_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur commercial",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "100 - 120",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Directeur commercial | Ancienneté: 10 - 15 ans et + | Salaire: 100 - 120"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_directeur_grands_comptes_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur grands comptes",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "60 - 75",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Directeur grands comptes | Ancienneté: 0 - 2 ans | Salaire: 60 - 75"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_directeur_grands_comptes_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur grands comptes",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "75 - 85",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Directeur grands comptes | Ancienneté: 2 - 5 ans | Salaire: 75 - 85"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_directeur_grands_comptes_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur grands comptes",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "85 - 100",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Directeur grands comptes | Ancienneté: 5 - 10 ans | Salaire: 85 - 100"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_directeur_grands_comptes_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur grands comptes",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "100 - 120",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Directeur grands comptes | Ancienneté: 10 - 15 ans et + | Salaire: 100 - 120"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_key_account_manager_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Key account manager",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Key account manager | Ancienneté: 0 - 2 ans | Salaire: 40 - 45"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_key_account_manager_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Key account manager",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Key account manager | Ancienneté: 2 - 5 ans | Salaire: 45 - 50"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_key_account_manager_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Key account manager",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "50 - 65",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Key account manager | Ancienneté: 5 - 10 ans | Salaire: 50 - 65"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_key_account_manager_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Key account manager",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "65 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Key account manager | Ancienneté: 10 - 15 ans et + | Salaire: 65 - 90"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_marketing_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "MARKETING",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "0 - 2 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: MARKETING | Ancienneté: 0 - 2 ans | Salaire: 0 - 2 ans"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_marketing_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "MARKETING",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "2 - 5 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: MARKETING | Ancienneté: 2 - 5 ans | Salaire: 2 - 5 ans"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_marketing_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "MARKETING",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "5 - 10 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: MARKETING | Ancienneté: 5 - 10 ans | Salaire: 5 - 10 ans"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_marketing_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "MARKETING",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "10 - 15 ans et +",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: MARKETING | Ancienneté: 10 - 15 ans et + | Salaire: 10 - 15 ans et +"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_assistant_chef_de_produits_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Assistant chef de produits",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "27 - 30",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Assistant chef de produits | Ancienneté: 0 - 2 ans | Salaire: 27 - 30"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_assistant_chef_de_produits_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Assistant chef de produits",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "30 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Assistant chef de produits | Ancienneté: 2 - 5 ans | Salaire: 30 - 35"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_assistant_chef_de_produits_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Assistant chef de produits",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "35 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Assistant chef de produits | Ancienneté: 5 - 10 ans | Salaire: 35 - 40"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_assistant_chef_de_produits_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Assistant chef de produits",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Assistant chef de produits | Ancienneté: 10 - 15 ans et + | Salaire: 40 - 45"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_specialiste_produits_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Spécialiste produits",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 42",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Spécialiste produits | Ancienneté: 0 - 2 ans | Salaire: 40 - 42"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_specialiste_produits_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Spécialiste produits",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "42 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Spécialiste produits | Ancienneté: 2 - 5 ans | Salaire: 42 - 50"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_specialiste_produits_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Spécialiste produits",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "50 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Spécialiste produits | Ancienneté: 5 - 10 ans | Salaire: 50 - 60"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_specialiste_produits_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Spécialiste produits",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "60 - 75",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Spécialiste produits | Ancienneté: 10 - 15 ans et + | Salaire: 60 - 75"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_chef_de_produit_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chef de produit",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 42",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Chef de produit | Ancienneté: 0 - 2 ans | Salaire: 40 - 42"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_chef_de_produit_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chef de produit",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "42 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Chef de produit | Ancienneté: 2 - 5 ans | Salaire: 42 - 45"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_chef_de_produit_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chef de produit",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "45 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Chef de produit | Ancienneté: 5 - 10 ans | Salaire: 45 - 60"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_chef_de_produit_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chef de produit",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "60 - 75",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Chef de produit | Ancienneté: 10 - 15 ans et + | Salaire: 60 - 75"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_chef_de_gamme_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chef de gamme",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 42",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Chef de gamme | Ancienneté: 0 - 2 ans | Salaire: 40 - 42"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_chef_de_gamme_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chef de gamme",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "42 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Chef de gamme | Ancienneté: 2 - 5 ans | Salaire: 42 - 50"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_chef_de_gamme_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chef de gamme",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "50 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Chef de gamme | Ancienneté: 5 - 10 ans | Salaire: 50 - 60"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_chef_de_gamme_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chef de gamme",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "60 - 75",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Chef de gamme | Ancienneté: 10 - 15 ans et + | Salaire: 60 - 75"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_directeur_marketing_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur marketing",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "60 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Directeur marketing | Ancienneté: 0 - 2 ans | Salaire: 60 - 70"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_directeur_marketing_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur marketing",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "70 - 80",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Directeur marketing | Ancienneté: 2 - 5 ans | Salaire: 70 - 80"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_directeur_marketing_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur marketing",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "80 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Directeur marketing | Ancienneté: 5 - 10 ans | Salaire: 80 - 90"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_directeur_marketing_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur marketing",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "90 - 110",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Directeur marketing | Ancienneté: 10 - 15 ans et + | Salaire: 90 - 110"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_data_scientist_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Data scientist",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Data scientist | Ancienneté: 0 - 2 ans | Salaire: 45 - 50"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_data_scientist_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Data scientist",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "50 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Data scientist | Ancienneté: 2 - 5 ans | Salaire: 50 - 60"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_data_scientist_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Data scientist",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "60 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Data scientist | Ancienneté: 5 - 10 ans | Salaire: 60 - 70"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_data_scientist_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Data scientist",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "70 - 80",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Data scientist | Ancienneté: 10 - 15 ans et + | Salaire: 70 - 80"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_charge_d_acces_au_marche_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chargé d'accès au marché",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 42",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Chargé d'accès au marché | Ancienneté: 0 - 2 ans | Salaire: 40 - 42"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_charge_d_acces_au_marche_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chargé d'accès au marché",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "42 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Chargé d'accès au marché | Ancienneté: 2 - 5 ans | Salaire: 42 - 50"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_charge_d_acces_au_marche_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chargé d'accès au marché",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "50 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Chargé d'accès au marché | Ancienneté: 5 - 10 ans | Salaire: 50 - 60"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_charge_d_acces_au_marche_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chargé d'accès au marché",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "60 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Chargé d'accès au marché | Ancienneté: 10 - 15 ans et + | Salaire: 60 - 70"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_techniques_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "TECHNIQUES",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "0 - 2 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: TECHNIQUES | Ancienneté: 0 - 2 ans | Salaire: 0 - 2 ans"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_techniques_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "TECHNIQUES",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "2 - 5 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: TECHNIQUES | Ancienneté: 2 - 5 ans | Salaire: 2 - 5 ans"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_techniques_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "TECHNIQUES",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "5 - 10 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: TECHNIQUES | Ancienneté: 5 - 10 ans | Salaire: 5 - 10 ans"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_techniques_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "TECHNIQUES",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "10 - 15 ans et +",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: TECHNIQUES | Ancienneté: 10 - 15 ans et + | Salaire: 10 - 15 ans et +"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_technicien_d_installation_application_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Technicien d'installation/application",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "30 - 32",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Technicien d'installation/application | Ancienneté: 0 - 2 ans | Salaire: 30 - 32"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_technicien_d_installation_application_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Technicien d'installation/application",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "32 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Technicien d'installation/application | Ancienneté: 2 - 5 ans | Salaire: 32 - 35"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_technicien_d_installation_application_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Technicien d'installation/application",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "35 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Technicien d'installation/application | Ancienneté: 5 - 10 ans | Salaire: 35 - 45"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_technicien_d_installation_application_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Technicien d'installation/application",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "45 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Technicien d'installation/application | Ancienneté: 10 - 15 ans et + | Salaire: 45 - 55"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_ingenieur_d_application_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Ingénieur d'application",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "30 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Ingénieur d'application | Ancienneté: 0 - 2 ans | Salaire: 30 - 35"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_ingenieur_d_application_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Ingénieur d'application",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "35 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Ingénieur d'application | Ancienneté: 2 - 5 ans | Salaire: 35 - 40"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_ingenieur_d_application_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Ingénieur d'application",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "40 - 47",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Ingénieur d'application | Ancienneté: 5 - 10 ans | Salaire: 40 - 47"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_ingenieur_d_application_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Ingénieur d'application",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "47 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Ingénieur d'application | Ancienneté: 10 - 15 ans et + | Salaire: 47 - 55"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_ingenieur_biomedical_sav_maintenance_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Ingénieur biomédical SAV/maintenance",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "30 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Ingénieur biomédical SAV/maintenance | Ancienneté: 0 - 2 ans | Salaire: 30 - 35"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_ingenieur_biomedical_sav_maintenance_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Ingénieur biomédical SAV/maintenance",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "35 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Ingénieur biomédical SAV/maintenance | Ancienneté: 2 - 5 ans | Salaire: 35 - 40"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_ingenieur_biomedical_sav_maintenance_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Ingénieur biomédical SAV/maintenance",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "40 - 47",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Ingénieur biomédical SAV/maintenance | Ancienneté: 5 - 10 ans | Salaire: 40 - 47"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_ingenieur_biomedical_sav_maintenance_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Ingénieur biomédical SAV/maintenance",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "47 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Ingénieur biomédical SAV/maintenance | Ancienneté: 10 - 15 ans et + | Salaire: 47 - 55"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_ingenieur_hotline_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Ingénieur hotline",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "30 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Ingénieur hotline | Ancienneté: 0 - 2 ans | Salaire: 30 - 35"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_ingenieur_hotline_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Ingénieur hotline",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "35 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Ingénieur hotline | Ancienneté: 2 - 5 ans | Salaire: 35 - 40"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_ingenieur_hotline_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Ingénieur hotline",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "40 - 47",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Ingénieur hotline | Ancienneté: 5 - 10 ans | Salaire: 40 - 47"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_ingenieur_hotline_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Ingénieur hotline",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "47 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Ingénieur hotline | Ancienneté: 10 - 15 ans et + | Salaire: 47 - 55"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_formateur_ibode_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Formateur/IBODE",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "35 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Formateur/IBODE | Ancienneté: 0 - 2 ans | Salaire: 35 - 38"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_formateur_ibode_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Formateur/IBODE",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "38 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Formateur/IBODE | Ancienneté: 2 - 5 ans | Salaire: 38 - 45"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_formateur_ibode_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Formateur/IBODE",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Formateur/IBODE | Ancienneté: 5 - 10 ans | Salaire: 45 - 50"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_formateur_ibode_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Formateur/IBODE",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "50 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Formateur/IBODE | Ancienneté: 10 - 15 ans et + | Salaire: 50 - 70"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_retd_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "R&D",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "0 - 2 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: R&D | Ancienneté: 0 - 2 ans | Salaire: 0 - 2 ans"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_retd_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "R&D",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "2 - 5 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: R&D | Ancienneté: 2 - 5 ans | Salaire: 2 - 5 ans"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_retd_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "R&D",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "5 - 10 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: R&D | Ancienneté: 5 - 10 ans | Salaire: 5 - 10 ans"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_retd_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "R&D",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "10 - 15 ans et +",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: R&D | Ancienneté: 10 - 15 ans et + | Salaire: 10 - 15 ans et +"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_technicien_biomedical_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Technicien biomédical",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "27 - 32",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Technicien biomédical | Ancienneté: 0 - 2 ans | Salaire: 27 - 32"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_technicien_biomedical_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Technicien biomédical",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "32 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Technicien biomédical | Ancienneté: 2 - 5 ans | Salaire: 32 - 35"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_technicien_biomedical_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Technicien biomédical",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "35 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Technicien biomédical | Ancienneté: 5 - 10 ans | Salaire: 35 - 40"
+  },
+  {
+    "id": "medical_devices_nos_grilles_de_salaires_technicien_biomedical_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Technicien biomédical",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: Nos grilles de salaires | Poste: Technicien biomédical | Ancienneté: 10 - 15 ans et + | Salaire: 40 - 45"
+  },
+  {
+    "id": "medical_devices_mmeeddiiccaall_ddeevviicceess_chef_de_projet_retd_etudes_cliniques_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "MMeeddiiccaall DDeevviicceess",
+    "poste": "Chef de projet R&D/études cliniques",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "38 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: MMeeddiiccaall DDeevviicceess | Poste: Chef de projet R&D/études cliniques | Ancienneté: 0 - 2 ans | Salaire: 38 - 45"
+  },
+  {
+    "id": "medical_devices_mmeeddiiccaall_ddeevviicceess_chef_de_projet_retd_etudes_cliniques_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "MMeeddiiccaall DDeevviicceess",
+    "poste": "Chef de projet R&D/études cliniques",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: MMeeddiiccaall DDeevviicceess | Poste: Chef de projet R&D/études cliniques | Ancienneté: 2 - 5 ans | Salaire: 45 - 50"
+  },
+  {
+    "id": "medical_devices_mmeeddiiccaall_ddeevviicceess_chef_de_projet_retd_etudes_cliniques_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "MMeeddiiccaall DDeevviicceess",
+    "poste": "Chef de projet R&D/études cliniques",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "50 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: MMeeddiiccaall DDeevviicceess | Poste: Chef de projet R&D/études cliniques | Ancienneté: 5 - 10 ans | Salaire: 50 - 55"
+  },
+  {
+    "id": "medical_devices_mmeeddiiccaall_ddeevviicceess_chef_de_projet_retd_etudes_cliniques_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "MMeeddiiccaall DDeevviicceess",
+    "poste": "Chef de projet R&D/études cliniques",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "55 - 75",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: MMeeddiiccaall DDeevviicceess | Poste: Chef de projet R&D/études cliniques | Ancienneté: 10 - 15 ans et + | Salaire: 55 - 75"
+  },
+  {
+    "id": "medical_devices_mmeeddiiccaall_ddeevviicceess_reglementaire_et_qualite_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "MMeeddiiccaall DDeevviicceess",
+    "poste": "RÉGLEMENTAIRE ET QUALITÉ",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "0 - 2 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: MMeeddiiccaall DDeevviicceess | Poste: RÉGLEMENTAIRE ET QUALITÉ | Ancienneté: 0 - 2 ans | Salaire: 0 - 2 ans"
+  },
+  {
+    "id": "medical_devices_mmeeddiiccaall_ddeevviicceess_reglementaire_et_qualite_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "MMeeddiiccaall DDeevviicceess",
+    "poste": "RÉGLEMENTAIRE ET QUALITÉ",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "2 - 5 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: MMeeddiiccaall DDeevviicceess | Poste: RÉGLEMENTAIRE ET QUALITÉ | Ancienneté: 2 - 5 ans | Salaire: 2 - 5 ans"
+  },
+  {
+    "id": "medical_devices_mmeeddiiccaall_ddeevviicceess_reglementaire_et_qualite_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "MMeeddiiccaall DDeevviicceess",
+    "poste": "RÉGLEMENTAIRE ET QUALITÉ",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "5 - 10 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: MMeeddiiccaall DDeevviicceess | Poste: RÉGLEMENTAIRE ET QUALITÉ | Ancienneté: 5 - 10 ans | Salaire: 5 - 10 ans"
+  },
+  {
+    "id": "medical_devices_mmeeddiiccaall_ddeevviicceess_reglementaire_et_qualite_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "MMeeddiiccaall DDeevviicceess",
+    "poste": "RÉGLEMENTAIRE ET QUALITÉ",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "10 - 15 ans et +",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: MMeeddiiccaall DDeevviicceess | Poste: RÉGLEMENTAIRE ET QUALITÉ | Ancienneté: 10 - 15 ans et + | Salaire: 10 - 15 ans et +"
+  },
+  {
+    "id": "medical_devices_mmeeddiiccaall_ddeevviicceess_assistant_d_affaires_reglementaires_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "MMeeddiiccaall DDeevviicceess",
+    "poste": "Assistant d'affaires réglementaires",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "28 - 32",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: MMeeddiiccaall DDeevviicceess | Poste: Assistant d'affaires réglementaires | Ancienneté: 0 - 2 ans | Salaire: 28 - 32"
+  },
+  {
+    "id": "medical_devices_mmeeddiiccaall_ddeevviicceess_assistant_d_affaires_reglementaires_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "MMeeddiiccaall DDeevviicceess",
+    "poste": "Assistant d'affaires réglementaires",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "32 - 36",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: MMeeddiiccaall DDeevviicceess | Poste: Assistant d'affaires réglementaires | Ancienneté: 2 - 5 ans | Salaire: 32 - 36"
+  },
+  {
+    "id": "medical_devices_mmeeddiiccaall_ddeevviicceess_assistant_d_affaires_reglementaires_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "MMeeddiiccaall DDeevviicceess",
+    "poste": "Assistant d'affaires réglementaires",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "36 - 42",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: MMeeddiiccaall DDeevviicceess | Poste: Assistant d'affaires réglementaires | Ancienneté: 5 - 10 ans | Salaire: 36 - 42"
+  },
+  {
+    "id": "medical_devices_mmeeddiiccaall_ddeevviicceess_assistant_d_affaires_reglementaires_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "MMeeddiiccaall DDeevviicceess",
+    "poste": "Assistant d'affaires réglementaires",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "42 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: MMeeddiiccaall DDeevviicceess | Poste: Assistant d'affaires réglementaires | Ancienneté: 10 - 15 ans et + | Salaire: 42 - 50"
+  },
+  {
+    "id": "medical_devices_mmeeddiiccaall_ddeevviicceess_responsable_d_affaires_reglementaires_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "MMeeddiiccaall DDeevviicceess",
+    "poste": "Responsable d'affaires réglementaires",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: MMeeddiiccaall DDeevviicceess | Poste: Responsable d'affaires réglementaires | Ancienneté: 0 - 2 ans | Salaire: 40 - 50"
+  },
+  {
+    "id": "medical_devices_mmeeddiiccaall_ddeevviicceess_responsable_d_affaires_reglementaires_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "MMeeddiiccaall DDeevviicceess",
+    "poste": "Responsable d'affaires réglementaires",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "50 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: MMeeddiiccaall DDeevviicceess | Poste: Responsable d'affaires réglementaires | Ancienneté: 2 - 5 ans | Salaire: 50 - 60"
+  },
+  {
+    "id": "medical_devices_mmeeddiiccaall_ddeevviicceess_responsable_d_affaires_reglementaires_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "MMeeddiiccaall DDeevviicceess",
+    "poste": "Responsable d'affaires réglementaires",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "60 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: MMeeddiiccaall DDeevviicceess | Poste: Responsable d'affaires réglementaires | Ancienneté: 5 - 10 ans | Salaire: 60 - 70"
+  },
+  {
+    "id": "medical_devices_mmeeddiiccaall_ddeevviicceess_responsable_d_affaires_reglementaires_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "MMeeddiiccaall DDeevviicceess",
+    "poste": "Responsable d'affaires réglementaires",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "70 - 80",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: MMeeddiiccaall DDeevviicceess | Poste: Responsable d'affaires réglementaires | Ancienneté: 10 - 15 ans et + | Salaire: 70 - 80"
+  },
+  {
+    "id": "medical_devices_mmeeddiiccaall_ddeevviicceess_responsable_materiovigilance_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "MMeeddiiccaall DDeevviicceess",
+    "poste": "Responsable matériovigilance",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: MMeeddiiccaall DDeevviicceess | Poste: Responsable matériovigilance | Ancienneté: 0 - 2 ans | Salaire: 40 - 50"
+  },
+  {
+    "id": "medical_devices_mmeeddiiccaall_ddeevviicceess_responsable_materiovigilance_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "MMeeddiiccaall DDeevviicceess",
+    "poste": "Responsable matériovigilance",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "50 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: MMeeddiiccaall DDeevviicceess | Poste: Responsable matériovigilance | Ancienneté: 2 - 5 ans | Salaire: 50 - 60"
+  },
+  {
+    "id": "medical_devices_mmeeddiiccaall_ddeevviicceess_responsable_materiovigilance_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "MMeeddiiccaall DDeevviicceess",
+    "poste": "Responsable matériovigilance",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "60 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: MMeeddiiccaall DDeevviicceess | Poste: Responsable matériovigilance | Ancienneté: 5 - 10 ans | Salaire: 60 - 70"
+  },
+  {
+    "id": "medical_devices_mmeeddiiccaall_ddeevviicceess_responsable_materiovigilance_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "MMeeddiiccaall DDeevviicceess",
+    "poste": "Responsable matériovigilance",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "70 - 80",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: MMeeddiiccaall DDeevviicceess | Poste: Responsable matériovigilance | Ancienneté: 10 - 15 ans et + | Salaire: 70 - 80"
+  },
+  {
+    "id": "medical_devices_mmeeddiiccaall_ddeevviicceess_responsable_assurance_qualite_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "MMeeddiiccaall DDeevviicceess",
+    "poste": "Responsable assurance qualité",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: MMeeddiiccaall DDeevviicceess | Poste: Responsable assurance qualité | Ancienneté: 0 - 2 ans | Salaire: 40 - 50"
+  },
+  {
+    "id": "medical_devices_mmeeddiiccaall_ddeevviicceess_responsable_assurance_qualite_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "MMeeddiiccaall DDeevviicceess",
+    "poste": "Responsable assurance qualité",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "50 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: MMeeddiiccaall DDeevviicceess | Poste: Responsable assurance qualité | Ancienneté: 2 - 5 ans | Salaire: 50 - 60"
+  },
+  {
+    "id": "medical_devices_mmeeddiiccaall_ddeevviicceess_responsable_assurance_qualite_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "MMeeddiiccaall DDeevviicceess",
+    "poste": "Responsable assurance qualité",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "60 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: MMeeddiiccaall DDeevviicceess | Poste: Responsable assurance qualité | Ancienneté: 5 - 10 ans | Salaire: 60 - 70"
+  },
+  {
+    "id": "medical_devices_mmeeddiiccaall_ddeevviicceess_responsable_assurance_qualite_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "MMeeddiiccaall DDeevviicceess",
+    "poste": "Responsable assurance qualité",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "70 - 80",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: MMeeddiiccaall DDeevviicceess | Poste: Responsable assurance qualité | Ancienneté: 10 - 15 ans et + | Salaire: 70 - 80"
+  },
+  {
+    "id": "medical_devices_mmeeddiiccaall_ddeevviicceess_responsable_controle_qualite_0_2_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "MMeeddiiccaall DDeevviicceess",
+    "poste": "Responsable contrôle qualité",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: MMeeddiiccaall DDeevviicceess | Poste: Responsable contrôle qualité | Ancienneté: 0 - 2 ans | Salaire: 40 - 50"
+  },
+  {
+    "id": "medical_devices_mmeeddiiccaall_ddeevviicceess_responsable_controle_qualite_2_5_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "MMeeddiiccaall DDeevviicceess",
+    "poste": "Responsable contrôle qualité",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "50 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: MMeeddiiccaall DDeevviicceess | Poste: Responsable contrôle qualité | Ancienneté: 2 - 5 ans | Salaire: 50 - 60"
+  },
+  {
+    "id": "medical_devices_mmeeddiiccaall_ddeevviicceess_responsable_controle_qualite_5_10_ans",
+    "famille": "Medical Devices",
+    "sous_categorie": "MMeeddiiccaall DDeevviicceess",
+    "poste": "Responsable contrôle qualité",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "60 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: MMeeddiiccaall DDeevviicceess | Poste: Responsable contrôle qualité | Ancienneté: 5 - 10 ans | Salaire: 60 - 70"
+  },
+  {
+    "id": "medical_devices_mmeeddiiccaall_ddeevviicceess_responsable_controle_qualite_10_15_ans_et",
+    "famille": "Medical Devices",
+    "sous_categorie": "MMeeddiiccaall DDeevviicceess",
+    "poste": "Responsable contrôle qualité",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "70 - 80",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "medical_devices_pond_reg"
+    ],
+    "text": "Famille: Medical Devices | Sous - catégorie: MMeeddiiccaall DDeevviicceess | Poste: Responsable contrôle qualité | Ancienneté: 10 - 15 ans et + | Salaire: 70 - 80"
+  }
+]
