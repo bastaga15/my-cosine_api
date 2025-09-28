@@ -1,0 +1,2354 @@
+[
+  {
+    "id": "sante_nos_grilles_de_salaires_etablissement_de_soins_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "ÉTABLISSEMENT DE SOINS",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "0 - 2 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: ÉTABLISSEMENT DE SOINS | Ancienneté: 0 - 2 ans | Salaire: 0 - 2 ans"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_etablissement_de_soins_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "ÉTABLISSEMENT DE SOINS",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "2 - 5 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: ÉTABLISSEMENT DE SOINS | Ancienneté: 2 - 5 ans | Salaire: 2 - 5 ans"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_etablissement_de_soins_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "ÉTABLISSEMENT DE SOINS",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "5 - 10 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: ÉTABLISSEMENT DE SOINS | Ancienneté: 5 - 10 ans | Salaire: 5 - 10 ans"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_etablissement_de_soins_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "ÉTABLISSEMENT DE SOINS",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "10 - 15 ans et +",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: ÉTABLISSEMENT DE SOINS | Ancienneté: 10 - 15 ans et + | Salaire: 10 - 15 ans et +"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_directeur_d_etablissement_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur d'établissement",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "50 - 65",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Directeur d'établissement | Ancienneté: 0 - 2 ans | Salaire: 50 - 65"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_directeur_d_etablissement_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur d'établissement",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "60 - 80",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Directeur d'établissement | Ancienneté: 2 - 5 ans | Salaire: 60 - 80"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_directeur_d_etablissement_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur d'établissement",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "80 - 100",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Directeur d'établissement | Ancienneté: 5 - 10 ans | Salaire: 80 - 100"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_directeur_d_etablissement_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur d'établissement",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "100 - 130",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Directeur d'établissement | Ancienneté: 10 - 15 ans et + | Salaire: 100 - 130"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_directeur_des_soins_infirmiers_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur des soins infirmiers",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "50 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Directeur des soins infirmiers | Ancienneté: 0 - 2 ans | Salaire: 50 - 55"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_directeur_des_soins_infirmiers_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur des soins infirmiers",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "55 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Directeur des soins infirmiers | Ancienneté: 2 - 5 ans | Salaire: 55 - 60"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_directeur_des_soins_infirmiers_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur des soins infirmiers",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "60 - 75",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Directeur des soins infirmiers | Ancienneté: 5 - 10 ans | Salaire: 60 - 75"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_directeur_des_soins_infirmiers_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur des soins infirmiers",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "75 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Directeur des soins infirmiers | Ancienneté: 10 - 15 ans et + | Salaire: 75 - 90"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_praticien_medecin_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Praticien/Médecin",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "80 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Praticien/Médecin | Ancienneté: 0 - 2 ans | Salaire: 80 - 90"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_praticien_medecin_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Praticien/Médecin",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "90 - 105",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Praticien/Médecin | Ancienneté: 2 - 5 ans | Salaire: 90 - 105"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_praticien_medecin_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Praticien/Médecin",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "105 - 130",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Praticien/Médecin | Ancienneté: 5 - 10 ans | Salaire: 105 - 130"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_praticien_medecin_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Praticien/Médecin",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "130 - 150",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Praticien/Médecin | Ancienneté: 10 - 15 ans et + | Salaire: 130 - 150"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_cadre_de_sante_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Cadre de santé",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "38 - 48",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Cadre de santé | Ancienneté: 0 - 2 ans | Salaire: 38 - 48"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_cadre_de_sante_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Cadre de santé",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "48 - 52",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Cadre de santé | Ancienneté: 2 - 5 ans | Salaire: 48 - 52"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_cadre_de_sante_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Cadre de santé",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "52 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Cadre de santé | Ancienneté: 5 - 10 ans | Salaire: 52 - 55"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_cadre_de_sante_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Cadre de santé",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "55 - 65",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Cadre de santé | Ancienneté: 10 - 15 ans et + | Salaire: 55 - 65"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_infirmier_coordinateur_idec_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Infirmier coordinateur/Idec",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "35 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Infirmier coordinateur/Idec | Ancienneté: 0 - 2 ans | Salaire: 35 - 38"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_infirmier_coordinateur_idec_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Infirmier coordinateur/Idec",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "38 - 42",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Infirmier coordinateur/Idec | Ancienneté: 2 - 5 ans | Salaire: 38 - 42"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_infirmier_coordinateur_idec_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Infirmier coordinateur/Idec",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "42 - 48",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Infirmier coordinateur/Idec | Ancienneté: 5 - 10 ans | Salaire: 42 - 48"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_infirmier_coordinateur_idec_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Infirmier coordinateur/Idec",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "48 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Infirmier coordinateur/Idec | Ancienneté: 10 - 15 ans et + | Salaire: 48 - 55"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_infirmier_en_soins_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Infirmier en soins",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "30 - 32",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Infirmier en soins | Ancienneté: 0 - 2 ans | Salaire: 30 - 32"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_infirmier_en_soins_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Infirmier en soins",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "32 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Infirmier en soins | Ancienneté: 2 - 5 ans | Salaire: 32 - 35"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_infirmier_en_soins_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Infirmier en soins",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "35 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Infirmier en soins | Ancienneté: 5 - 10 ans | Salaire: 35 - 40"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_infirmier_en_soins_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Infirmier en soins",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Infirmier en soins | Ancienneté: 10 - 15 ans et + | Salaire: 40 - 45"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_chef_de_bloc_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chef de bloc",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "42 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Chef de bloc | Ancienneté: 0 - 2 ans | Salaire: 42 - 50"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_chef_de_bloc_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chef de bloc",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "50 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Chef de bloc | Ancienneté: 2 - 5 ans | Salaire: 50 - 60"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_chef_de_bloc_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chef de bloc",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "60 - 75",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Chef de bloc | Ancienneté: 5 - 10 ans | Salaire: 60 - 75"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_chef_de_bloc_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Chef de bloc",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "75 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Chef de bloc | Ancienneté: 10 - 15 ans et + | Salaire: 75 - 90"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_infirmier_bloc_operatoire_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Infirmier bloc opératoire",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "32 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Infirmier bloc opératoire | Ancienneté: 0 - 2 ans | Salaire: 32 - 35"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_infirmier_bloc_operatoire_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Infirmier bloc opératoire",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "35 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Infirmier bloc opératoire | Ancienneté: 2 - 5 ans | Salaire: 35 - 40"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_infirmier_bloc_operatoire_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Infirmier bloc opératoire",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Infirmier bloc opératoire | Ancienneté: 5 - 10 ans | Salaire: 40 - 45"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_infirmier_bloc_operatoire_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Infirmier bloc opératoire",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Infirmier bloc opératoire | Ancienneté: 10 - 15 ans et + | Salaire: 45 - 50"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_infirmier_en_dialyse_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Infirmier en dialyse",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "30 - 32",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Infirmier en dialyse | Ancienneté: 0 - 2 ans | Salaire: 30 - 32"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_infirmier_en_dialyse_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Infirmier en dialyse",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "32 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Infirmier en dialyse | Ancienneté: 2 - 5 ans | Salaire: 32 - 35"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_infirmier_en_dialyse_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Infirmier en dialyse",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "35 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Infirmier en dialyse | Ancienneté: 5 - 10 ans | Salaire: 35 - 40"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_infirmier_en_dialyse_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Infirmier en dialyse",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Infirmier en dialyse | Ancienneté: 10 - 15 ans et + | Salaire: 40 - 45"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_aide_soignant_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Aide - soignant",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "22 - 25",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Aide - soignant | Ancienneté: 0 - 2 ans | Salaire: 22 - 25"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_aide_soignant_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Aide - soignant",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "25 - 29",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Aide - soignant | Ancienneté: 2 - 5 ans | Salaire: 25 - 29"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_aide_soignant_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Aide - soignant",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "30 - 32",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Aide - soignant | Ancienneté: 5 - 10 ans | Salaire: 30 - 32"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_aide_soignant_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Aide - soignant",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "32 - 36",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Aide - soignant | Ancienneté: 10 - 15 ans et + | Salaire: 32 - 36"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_responsable_qualite_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable qualité",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "35 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Responsable qualité | Ancienneté: 0 - 2 ans | Salaire: 35 - 40"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_responsable_qualite_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable qualité",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Responsable qualité | Ancienneté: 2 - 5 ans | Salaire: 40 - 45"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_responsable_qualite_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable qualité",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Responsable qualité | Ancienneté: 5 - 10 ans | Salaire: 45 - 50"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_responsable_qualite_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Responsable qualité",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "50 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Responsable qualité | Ancienneté: 10 - 15 ans et + | Salaire: 50 - 60"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_directeur_ehpad_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur Ehpad",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Directeur Ehpad | Ancienneté: 0 - 2 ans | Salaire: 40 - 45"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_directeur_ehpad_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur Ehpad",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Directeur Ehpad | Ancienneté: 2 - 5 ans | Salaire: 45 - 50"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_directeur_ehpad_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur Ehpad",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "50 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Directeur Ehpad | Ancienneté: 5 - 10 ans | Salaire: 50 - 55"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_directeur_ehpad_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Directeur Ehpad",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "55 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Directeur Ehpad | Ancienneté: 10 - 15 ans et + | Salaire: 55 - 70"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_pharmacien_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien | Ancienneté: 0 - 2 ans | Salaire: 45 - 50"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_pharmacien_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "50 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien | Ancienneté: 2 - 5 ans | Salaire: 50 - 60"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_pharmacien_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "60 - 75",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien | Ancienneté: 5 - 10 ans | Salaire: 60 - 75"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_pharmacien_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Pharmacien",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "75 - 100",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Pharmacien | Ancienneté: 10 - 15 ans et + | Salaire: 75 - 100"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_preparateur_en_pharmacie_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Préparateur en pharmacie",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "22 - 26",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Préparateur en pharmacie | Ancienneté: 0 - 2 ans | Salaire: 22 - 26"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_preparateur_en_pharmacie_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Préparateur en pharmacie",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "26 - 28",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Préparateur en pharmacie | Ancienneté: 2 - 5 ans | Salaire: 26 - 28"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_preparateur_en_pharmacie_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Préparateur en pharmacie",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "28 - 32",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Préparateur en pharmacie | Ancienneté: 5 - 10 ans | Salaire: 28 - 32"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_preparateur_en_pharmacie_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Préparateur en pharmacie",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "32 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Préparateur en pharmacie | Ancienneté: 10 - 15 ans et + | Salaire: 32 - 40"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_kinesitherapeute_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Kinésithérapeute",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "32 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Kinésithérapeute | Ancienneté: 0 - 2 ans | Salaire: 32 - 35"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_kinesitherapeute_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Kinésithérapeute",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "35 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Kinésithérapeute | Ancienneté: 2 - 5 ans | Salaire: 35 - 38"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_kinesitherapeute_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Kinésithérapeute",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "38 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Kinésithérapeute | Ancienneté: 5 - 10 ans | Salaire: 38 - 45"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_kinesitherapeute_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Kinésithérapeute",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "45 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Kinésithérapeute | Ancienneté: 10 - 15 ans et + | Salaire: 45 - 60"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_ergotherapeute_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Ergothérapeute",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "22 - 26",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Ergothérapeute | Ancienneté: 0 - 2 ans | Salaire: 22 - 26"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_ergotherapeute_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Ergothérapeute",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "26 - 30",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Ergothérapeute | Ancienneté: 2 - 5 ans | Salaire: 26 - 30"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_ergotherapeute_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Ergothérapeute",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "30 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Ergothérapeute | Ancienneté: 5 - 10 ans | Salaire: 30 - 35"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_ergotherapeute_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Ergothérapeute",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "35 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Ergothérapeute | Ancienneté: 10 - 15 ans et + | Salaire: 35 - 40"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_psychomotricien_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Psychomotricien",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "30 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Psychomotricien | Ancienneté: 0 - 2 ans | Salaire: 30 - 35"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_psychomotricien_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Psychomotricien",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "35 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Psychomotricien | Ancienneté: 2 - 5 ans | Salaire: 35 - 40"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_psychomotricien_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Psychomotricien",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Psychomotricien | Ancienneté: 5 - 10 ans | Salaire: 40 - 45"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_psychomotricien_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Psychomotricien",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Psychomotricien | Ancienneté: 10 - 15 ans et + | Salaire: 45 - 50"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_manipulateur_en_electroradiologie_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Manipulateur en électroradiologie",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "28 - 32",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Manipulateur en électroradiologie | Ancienneté: 0 - 2 ans | Salaire: 28 - 32"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_manipulateur_en_electroradiologie_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Manipulateur en électroradiologie",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "32 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Manipulateur en électroradiologie | Ancienneté: 2 - 5 ans | Salaire: 32 - 35"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_manipulateur_en_electroradiologie_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Manipulateur en électroradiologie",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "35 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Manipulateur en électroradiologie | Ancienneté: 5 - 10 ans | Salaire: 35 - 40"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_manipulateur_en_electroradiologie_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Manipulateur en électroradiologie",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "40 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Manipulateur en électroradiologie | Ancienneté: 10 - 15 ans et + | Salaire: 40 - 50"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_technicien_de_laboratoire_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Technicien de laboratoire",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "23 - 28",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Technicien de laboratoire | Ancienneté: 0 - 2 ans | Salaire: 23 - 28"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_technicien_de_laboratoire_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Technicien de laboratoire",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "28 - 32",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Technicien de laboratoire | Ancienneté: 2 - 5 ans | Salaire: 28 - 32"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_technicien_de_laboratoire_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Technicien de laboratoire",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "32 - 36",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Technicien de laboratoire | Ancienneté: 5 - 10 ans | Salaire: 32 - 36"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_technicien_de_laboratoire_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Technicien de laboratoire",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "36 - 42",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Technicien de laboratoire | Ancienneté: 10 - 15 ans et + | Salaire: 36 - 42"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_assistant_secretaire_medical_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Assistant/Secrétaire médical",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "21 - 24",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Assistant/Secrétaire médical | Ancienneté: 0 - 2 ans | Salaire: 21 - 24"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_assistant_secretaire_medical_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Assistant/Secrétaire médical",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "24 - 28",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Assistant/Secrétaire médical | Ancienneté: 2 - 5 ans | Salaire: 24 - 28"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_assistant_secretaire_medical_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Assistant/Secrétaire médical",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "28 - 32",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Assistant/Secrétaire médical | Ancienneté: 5 - 10 ans | Salaire: 28 - 32"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_assistant_secretaire_medical_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Assistant/Secrétaire médical",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "32 - 36",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Assistant/Secrétaire médical | Ancienneté: 10 - 15 ans et + | Salaire: 32 - 36"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_laboratoire_d_analyses_medicales_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "LABORATOIRE D'ANALYSES MÉDICALES",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "0 - 2 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: LABORATOIRE D'ANALYSES MÉDICALES | Ancienneté: 0 - 2 ans | Salaire: 0 - 2 ans"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_laboratoire_d_analyses_medicales_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "LABORATOIRE D'ANALYSES MÉDICALES",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "2 - 5 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: LABORATOIRE D'ANALYSES MÉDICALES | Ancienneté: 2 - 5 ans | Salaire: 2 - 5 ans"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_laboratoire_d_analyses_medicales_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "LABORATOIRE D'ANALYSES MÉDICALES",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "5 - 10 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: LABORATOIRE D'ANALYSES MÉDICALES | Ancienneté: 5 - 10 ans | Salaire: 5 - 10 ans"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_laboratoire_d_analyses_medicales_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "LABORATOIRE D'ANALYSES MÉDICALES",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "10 - 15 ans et +",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: LABORATOIRE D'ANALYSES MÉDICALES | Ancienneté: 10 - 15 ans et + | Salaire: 10 - 15 ans et +"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_infirmier_preleveur_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Infirmier préleveur",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "30 - 32",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Infirmier préleveur | Ancienneté: 0 - 2 ans | Salaire: 30 - 32"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_infirmier_preleveur_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Infirmier préleveur",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "32 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Infirmier préleveur | Ancienneté: 2 - 5 ans | Salaire: 32 - 35"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_infirmier_preleveur_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Infirmier préleveur",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "36 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Infirmier préleveur | Ancienneté: 5 - 10 ans | Salaire: 36 - 38"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_infirmier_preleveur_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Infirmier préleveur",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "38 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Infirmier préleveur | Ancienneté: 10 - 15 ans et + | Salaire: 38 - 40"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_technicien_d_analyses_medicales_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Technicien d'analyses médicales",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "23 - 26",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Technicien d'analyses médicales | Ancienneté: 0 - 2 ans | Salaire: 23 - 26"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_technicien_d_analyses_medicales_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Technicien d'analyses médicales",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "26 - 28",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Technicien d'analyses médicales | Ancienneté: 2 - 5 ans | Salaire: 26 - 28"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_technicien_d_analyses_medicales_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Technicien d'analyses médicales",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "28 - 32",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Technicien d'analyses médicales | Ancienneté: 5 - 10 ans | Salaire: 28 - 32"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_technicien_d_analyses_medicales_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Technicien d'analyses médicales",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "32 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Technicien d'analyses médicales | Ancienneté: 10 - 15 ans et + | Salaire: 32 - 35"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_secretaire_medical_specialise_laboratoire_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Secrétaire médical spécialisé laboratoire",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "21 - 24",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Secrétaire médical spécialisé laboratoire | Ancienneté: 0 - 2 ans | Salaire: 21 - 24"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_secretaire_medical_specialise_laboratoire_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Secrétaire médical spécialisé laboratoire",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "24 - 26",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Secrétaire médical spécialisé laboratoire | Ancienneté: 2 - 5 ans | Salaire: 24 - 26"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_secretaire_medical_specialise_laboratoire_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Secrétaire médical spécialisé laboratoire",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "26 - 28",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Secrétaire médical spécialisé laboratoire | Ancienneté: 5 - 10 ans | Salaire: 26 - 28"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_secretaire_medical_specialise_laboratoire_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Secrétaire médical spécialisé laboratoire",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "28 - 32",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Secrétaire médical spécialisé laboratoire | Ancienneté: 10 - 15 ans et + | Salaire: 28 - 32"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_biologiste_medical_etablissement_public_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Biologiste médical (établissement public)",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "60 - 70",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Biologiste médical (établissement public) | Ancienneté: 0 - 2 ans | Salaire: 60 - 70"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_biologiste_medical_etablissement_public_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Biologiste médical (établissement public)",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "70 - 80",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Biologiste médical (établissement public) | Ancienneté: 2 - 5 ans | Salaire: 70 - 80"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_biologiste_medical_etablissement_public_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Biologiste médical (établissement public)",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "80 - 100",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Biologiste médical (établissement public) | Ancienneté: 5 - 10 ans | Salaire: 80 - 100"
+  },
+  {
+    "id": "sante_nos_grilles_de_salaires_biologiste_medical_etablissement_public_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "Nos grilles de salaires",
+    "poste": "Biologiste médical (établissement public)",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "100 - 120",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: Nos grilles de salaires | Poste: Biologiste médical (établissement public) | Ancienneté: 10 - 15 ans et + | Salaire: 100 - 120"
+  },
+  {
+    "id": "sante_ssaannttee_petite_enfance_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "PETITE ENFANCE",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "0 - 2 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: PETITE ENFANCE | Ancienneté: 0 - 2 ans | Salaire: 0 - 2 ans"
+  },
+  {
+    "id": "sante_ssaannttee_petite_enfance_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "PETITE ENFANCE",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "2 - 5 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: PETITE ENFANCE | Ancienneté: 2 - 5 ans | Salaire: 2 - 5 ans"
+  },
+  {
+    "id": "sante_ssaannttee_petite_enfance_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "PETITE ENFANCE",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "5 - 10 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: PETITE ENFANCE | Ancienneté: 5 - 10 ans | Salaire: 5 - 10 ans"
+  },
+  {
+    "id": "sante_ssaannttee_petite_enfance_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "PETITE ENFANCE",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "10 - 15 ans et +",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: PETITE ENFANCE | Ancienneté: 10 - 15 ans et + | Salaire: 10 - 15 ans et +"
+  },
+  {
+    "id": "sante_ssaannttee_directeur_de_creche_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Directeur de crèche",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "38 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Directeur de crèche | Ancienneté: 0 - 2 ans | Salaire: 38 - 40"
+  },
+  {
+    "id": "sante_ssaannttee_directeur_de_creche_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Directeur de crèche",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Directeur de crèche | Ancienneté: 2 - 5 ans | Salaire: 40 - 45"
+  },
+  {
+    "id": "sante_ssaannttee_directeur_de_creche_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Directeur de crèche",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "45 - 50",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Directeur de crèche | Ancienneté: 5 - 10 ans | Salaire: 45 - 50"
+  },
+  {
+    "id": "sante_ssaannttee_directeur_de_creche_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Directeur de crèche",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "50 - 60",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Directeur de crèche | Ancienneté: 10 - 15 ans et + | Salaire: 50 - 60"
+  },
+  {
+    "id": "sante_ssaannttee_educateur_de_jeunes_enfants_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Éducateur de jeunes enfants",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "23 - 26",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Éducateur de jeunes enfants | Ancienneté: 0 - 2 ans | Salaire: 23 - 26"
+  },
+  {
+    "id": "sante_ssaannttee_educateur_de_jeunes_enfants_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Éducateur de jeunes enfants",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "26 - 28",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Éducateur de jeunes enfants | Ancienneté: 2 - 5 ans | Salaire: 26 - 28"
+  },
+  {
+    "id": "sante_ssaannttee_educateur_de_jeunes_enfants_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Éducateur de jeunes enfants",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "28 - 32",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Éducateur de jeunes enfants | Ancienneté: 5 - 10 ans | Salaire: 28 - 32"
+  },
+  {
+    "id": "sante_ssaannttee_educateur_de_jeunes_enfants_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Éducateur de jeunes enfants",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "32 - 36",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Éducateur de jeunes enfants | Ancienneté: 10 - 15 ans et + | Salaire: 32 - 36"
+  },
+  {
+    "id": "sante_ssaannttee_auxiliaire_puericulture_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Auxiliaire puériculture",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "21 - 24",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Auxiliaire puériculture | Ancienneté: 0 - 2 ans | Salaire: 21 - 24"
+  },
+  {
+    "id": "sante_ssaannttee_auxiliaire_puericulture_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Auxiliaire puériculture",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "24 - 27",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Auxiliaire puériculture | Ancienneté: 2 - 5 ans | Salaire: 24 - 27"
+  },
+  {
+    "id": "sante_ssaannttee_auxiliaire_puericulture_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Auxiliaire puériculture",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "27 - 30",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Auxiliaire puériculture | Ancienneté: 5 - 10 ans | Salaire: 27 - 30"
+  },
+  {
+    "id": "sante_ssaannttee_auxiliaire_puericulture_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Auxiliaire puériculture",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "30 - 32",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Auxiliaire puériculture | Ancienneté: 10 - 15 ans et + | Salaire: 30 - 32"
+  },
+  {
+    "id": "sante_ssaannttee_medecine_du_travail_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "MÉDECINE DU TRAVAIL",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "0 à 2 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: MÉDECINE DU TRAVAIL | Ancienneté: 0 - 2 ans | Salaire: 0 à 2 ans"
+  },
+  {
+    "id": "sante_ssaannttee_medecine_du_travail_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "MÉDECINE DU TRAVAIL",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "2 à 5 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: MÉDECINE DU TRAVAIL | Ancienneté: 2 - 5 ans | Salaire: 2 à 5 ans"
+  },
+  {
+    "id": "sante_ssaannttee_medecine_du_travail_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "MÉDECINE DU TRAVAIL",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "5 - 10 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: MÉDECINE DU TRAVAIL | Ancienneté: 5 - 10 ans | Salaire: 5 - 10 ans"
+  },
+  {
+    "id": "sante_ssaannttee_medecine_du_travail_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "MÉDECINE DU TRAVAIL",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "10 - 15 ans et +",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: MÉDECINE DU TRAVAIL | Ancienneté: 10 - 15 ans et + | Salaire: 10 - 15 ans et +"
+  },
+  {
+    "id": "sante_ssaannttee_medecin_du_travail_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Médecin du travail",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "80 - 90",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Médecin du travail | Ancienneté: 0 - 2 ans | Salaire: 80 - 90"
+  },
+  {
+    "id": "sante_ssaannttee_medecin_du_travail_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Médecin du travail",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "90 - 105",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Médecin du travail | Ancienneté: 2 - 5 ans | Salaire: 90 - 105"
+  },
+  {
+    "id": "sante_ssaannttee_medecin_du_travail_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Médecin du travail",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "105 - 120",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Médecin du travail | Ancienneté: 5 - 10 ans | Salaire: 105 - 120"
+  },
+  {
+    "id": "sante_ssaannttee_medecin_du_travail_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Médecin du travail",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "120 - 150",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Médecin du travail | Ancienneté: 10 - 15 ans et + | Salaire: 120 - 150"
+  },
+  {
+    "id": "sante_ssaannttee_infirmier_en_sante_au_travail_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Infirmier en santé au travail",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "33 - 36",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Infirmier en santé au travail | Ancienneté: 0 - 2 ans | Salaire: 33 - 36"
+  },
+  {
+    "id": "sante_ssaannttee_infirmier_en_sante_au_travail_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Infirmier en santé au travail",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "36 - 39",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Infirmier en santé au travail | Ancienneté: 2 - 5 ans | Salaire: 36 - 39"
+  },
+  {
+    "id": "sante_ssaannttee_infirmier_en_sante_au_travail_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Infirmier en santé au travail",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "39 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Infirmier en santé au travail | Ancienneté: 5 - 10 ans | Salaire: 39 - 45"
+  },
+  {
+    "id": "sante_ssaannttee_infirmier_en_sante_au_travail_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Infirmier en santé au travail",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "45 - 55",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Infirmier en santé au travail | Ancienneté: 10 - 15 ans et + | Salaire: 45 - 55"
+  },
+  {
+    "id": "sante_ssaannttee_secretaire_medical_en_sante_au_travail_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Secrétaire médical en santé au travail",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "21 - 24",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Secrétaire médical en santé au travail | Ancienneté: 0 - 2 ans | Salaire: 21 - 24"
+  },
+  {
+    "id": "sante_ssaannttee_secretaire_medical_en_sante_au_travail_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Secrétaire médical en santé au travail",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "24 - 26",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Secrétaire médical en santé au travail | Ancienneté: 2 - 5 ans | Salaire: 24 - 26"
+  },
+  {
+    "id": "sante_ssaannttee_secretaire_medical_en_sante_au_travail_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Secrétaire médical en santé au travail",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "26 - 29",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Secrétaire médical en santé au travail | Ancienneté: 5 - 10 ans | Salaire: 26 - 29"
+  },
+  {
+    "id": "sante_ssaannttee_secretaire_medical_en_sante_au_travail_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Secrétaire médical en santé au travail",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "29 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Secrétaire médical en santé au travail | Ancienneté: 10 - 15 ans et + | Salaire: 29 - 35"
+  },
+  {
+    "id": "sante_ssaannttee_infirmier_en_chantier_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Infirmier en chantier",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "32 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Infirmier en chantier | Ancienneté: 0 - 2 ans | Salaire: 32 - 35"
+  },
+  {
+    "id": "sante_ssaannttee_infirmier_en_chantier_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Infirmier en chantier",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "35 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Infirmier en chantier | Ancienneté: 2 - 5 ans | Salaire: 35 - 38"
+  },
+  {
+    "id": "sante_ssaannttee_infirmier_en_chantier_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Infirmier en chantier",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "38 - 42",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Infirmier en chantier | Ancienneté: 5 - 10 ans | Salaire: 38 - 42"
+  },
+  {
+    "id": "sante_ssaannttee_infirmier_en_chantier_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Infirmier en chantier",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "42 - 48",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Infirmier en chantier | Ancienneté: 10 - 15 ans et + | Salaire: 42 - 48"
+  },
+  {
+    "id": "sante_ssaannttee_prestations_de_sante_a_domicile_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "PRESTATIONS DE SANTÉ À DOMICILE",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "0 - 2 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: PRESTATIONS DE SANTÉ À DOMICILE | Ancienneté: 0 - 2 ans | Salaire: 0 - 2 ans"
+  },
+  {
+    "id": "sante_ssaannttee_prestations_de_sante_a_domicile_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "PRESTATIONS DE SANTÉ À DOMICILE",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "2 - 5 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: PRESTATIONS DE SANTÉ À DOMICILE | Ancienneté: 2 - 5 ans | Salaire: 2 - 5 ans"
+  },
+  {
+    "id": "sante_ssaannttee_prestations_de_sante_a_domicile_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "PRESTATIONS DE SANTÉ À DOMICILE",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "5 - 10 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: PRESTATIONS DE SANTÉ À DOMICILE | Ancienneté: 5 - 10 ans | Salaire: 5 - 10 ans"
+  },
+  {
+    "id": "sante_ssaannttee_prestations_de_sante_a_domicile_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "PRESTATIONS DE SANTÉ À DOMICILE",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "10 - 15 ans et +",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: PRESTATIONS DE SANTÉ À DOMICILE | Ancienneté: 10 - 15 ans et + | Salaire: 10 - 15 ans et +"
+  },
+  {
+    "id": "sante_ssaannttee_infirmier_conseil_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Infirmier conseil",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "30 - 32",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Infirmier conseil | Ancienneté: 0 - 2 ans | Salaire: 30 - 32"
+  },
+  {
+    "id": "sante_ssaannttee_infirmier_conseil_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Infirmier conseil",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "32 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Infirmier conseil | Ancienneté: 2 - 5 ans | Salaire: 32 - 35"
+  },
+  {
+    "id": "sante_ssaannttee_infirmier_conseil_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Infirmier conseil",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "35 - 40",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Infirmier conseil | Ancienneté: 5 - 10 ans | Salaire: 35 - 40"
+  },
+  {
+    "id": "sante_ssaannttee_infirmier_conseil_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Infirmier conseil",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "40 - 45",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Infirmier conseil | Ancienneté: 10 - 15 ans et + | Salaire: 40 - 45"
+  },
+  {
+    "id": "sante_ssaannttee_technicien_installation_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Technicien installation",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "21 - 24",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Technicien installation | Ancienneté: 0 - 2 ans | Salaire: 21 - 24"
+  },
+  {
+    "id": "sante_ssaannttee_technicien_installation_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Technicien installation",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "24 - 28",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Technicien installation | Ancienneté: 2 - 5 ans | Salaire: 24 - 28"
+  },
+  {
+    "id": "sante_ssaannttee_technicien_installation_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Technicien installation",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "28 - 32",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Technicien installation | Ancienneté: 5 - 10 ans | Salaire: 28 - 32"
+  },
+  {
+    "id": "sante_ssaannttee_technicien_installation_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Technicien installation",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "32 - 36",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Technicien installation | Ancienneté: 10 - 15 ans et + | Salaire: 32 - 36"
+  },
+  {
+    "id": "sante_ssaannttee_assistant_medical_agence_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Assistant médical agence",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "21 - 24",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Assistant médical agence | Ancienneté: 0 - 2 ans | Salaire: 21 - 24"
+  },
+  {
+    "id": "sante_ssaannttee_assistant_medical_agence_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Assistant médical agence",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "24 - 28",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Assistant médical agence | Ancienneté: 2 - 5 ans | Salaire: 24 - 28"
+  },
+  {
+    "id": "sante_ssaannttee_assistant_medical_agence_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Assistant médical agence",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "28 - 32",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Assistant médical agence | Ancienneté: 5 - 10 ans | Salaire: 28 - 32"
+  },
+  {
+    "id": "sante_ssaannttee_assistant_medical_agence_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Assistant médical agence",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "32 - 36",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Assistant médical agence | Ancienneté: 10 - 15 ans et + | Salaire: 32 - 36"
+  },
+  {
+    "id": "sante_ssaannttee_social_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "SOCIAL",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "0 - 2 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: SOCIAL | Ancienneté: 0 - 2 ans | Salaire: 0 - 2 ans"
+  },
+  {
+    "id": "sante_ssaannttee_social_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "SOCIAL",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "2 - 5 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: SOCIAL | Ancienneté: 2 - 5 ans | Salaire: 2 - 5 ans"
+  },
+  {
+    "id": "sante_ssaannttee_social_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "SOCIAL",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "5 - 10 ans",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: SOCIAL | Ancienneté: 5 - 10 ans | Salaire: 5 - 10 ans"
+  },
+  {
+    "id": "sante_ssaannttee_social_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "SOCIAL",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "10 - 15 ans et +",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: SOCIAL | Ancienneté: 10 - 15 ans et + | Salaire: 10 - 15 ans et +"
+  },
+  {
+    "id": "sante_ssaannttee_referent_social_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Référent social",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "26 - 28",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Référent social | Ancienneté: 0 - 2 ans | Salaire: 26 - 28"
+  },
+  {
+    "id": "sante_ssaannttee_referent_social_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Référent social",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "28 - 35",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Référent social | Ancienneté: 2 - 5 ans | Salaire: 28 - 35"
+  },
+  {
+    "id": "sante_ssaannttee_referent_social_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Référent social",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "35 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Référent social | Ancienneté: 5 - 10 ans | Salaire: 35 - 38"
+  },
+  {
+    "id": "sante_ssaannttee_referent_social_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Référent social",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "38 - 42",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Référent social | Ancienneté: 10 - 15 ans et + | Salaire: 38 - 42"
+  },
+  {
+    "id": "sante_ssaannttee_assistant_social_0_2_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Assistant social",
+    "anciennete": "0 - 2 ans",
+    "salaire_k€": "23 - 25",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Assistant social | Ancienneté: 0 - 2 ans | Salaire: 23 - 25"
+  },
+  {
+    "id": "sante_ssaannttee_assistant_social_2_5_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Assistant social",
+    "anciennete": "2 - 5 ans",
+    "salaire_k€": "25 - 29",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Assistant social | Ancienneté: 2 - 5 ans | Salaire: 25 - 29"
+  },
+  {
+    "id": "sante_ssaannttee_assistant_social_5_10_ans",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Assistant social",
+    "anciennete": "5 - 10 ans",
+    "salaire_k€": "29 - 33",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Assistant social | Ancienneté: 5 - 10 ans | Salaire: 29 - 33"
+  },
+  {
+    "id": "sante_ssaannttee_assistant_social_10_15_ans_et",
+    "famille": "Santé",
+    "sous_categorie": "SSaannttéé",
+    "poste": "Assistant social",
+    "anciennete": "10 - 15 ans et +",
+    "salaire_k€": "33 - 38",
+    "variable": null,
+    "regions": {},
+    "liens": [
+      "sante_pond_reg"
+    ],
+    "text": "Famille: Santé | Sous - catégorie: SSaannttéé | Poste: Assistant social | Ancienneté: 10 - 15 ans et + | Salaire: 33 - 38"
+  }
+]
